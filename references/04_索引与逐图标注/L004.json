@@ -1,0 +1,46 @@
+{
+  "title": "前人序文",
+  "alt": "白墙上的《兰亭集序》碑刻与树影",
+  "url": "https://cdn.lnsylight.cn/imported/photos/theme-light-423/theme-light-423-dfacf63f4833c2c5.webp",
+  "photo_page": "https://lnsylight.cn/photo/theme-light-423",
+  "group": "明心亭",
+  "source_page": "https://lnsylight.cn/photo/theme-light-423",
+  "groups": [
+    "明心亭"
+  ],
+  "id": "L004",
+  "file": "02_实验光影_建筑与地标/004_theme-light-423.webp",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 350856,
+  "sha256": "6ff7394d62fdfe28b3d0b512fad62fa5abe7deb601a2dd8a215012f145a37c29",
+  "description": "明心亭旁的白墙上嵌着《兰亭集序》碑刻，「蘭亭序」「永和九年」等字迹与朱红印章清晰，树影斜斜地落在碑刻旁的墙面上。",
+  "landmarks": [
+    "明心亭"
+  ],
+  "photographer": [
+    "张曦宇 · 2026届"
+  ],
+  "date": null,
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/400",
+    "aperture": "f/7.1",
+    "location": null,
+    "camera": null,
+    "lens": "NIKKOR Z 24-70mm f/4 S"
+  },
+  "campus_point": {
+    "lat": 41.83238,
+    "lon": 123.414895
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.39366534061406405,
+    "y": 0.42818963578759206
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

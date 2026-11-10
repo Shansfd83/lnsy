@@ -1,0 +1,46 @@
+{
+  "title": "化学小测",
+  "alt": "冬日早晨刚升起的阳光在高三楼空教室留下橙黄光影",
+  "url": "https://cdn.lnsylight.cn/imported/photos/classroom-light-blocks/classroom-light-blocks-af7c3649dc3b99e7.webp",
+  "photo_page": "https://lnsylight.cn/photo/classroom-light-blocks",
+  "group": "高三楼",
+  "source_page": "https://lnsylight.cn/photo/classroom-light-blocks",
+  "groups": [
+    "高三楼"
+  ],
+  "id": "L032",
+  "file": "02_实验光影_建筑与地标/032_classroom-light-blocks.webp",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 311498,
+  "sha256": "986ca72c939aa8fd42902f9c20c20727629c97c7417e0f324f81c4bf55f646e6",
+  "description": "冬日早晨，刚升起的阳光在高三楼一楼空教室留下两块橙黄光影。今天的一切，从这缕阳光开始，逐渐苏醒。",
+  "landmarks": [
+    "高三楼"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2023-12-28",
+  "camera_parameters": {
+    "iso": 200,
+    "shutter": "1/80",
+    "aperture": "f/5.6",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF50mm f/1.8 STM"
+  },
+  "campus_point": {
+    "lat": 41.833283,
+    "lon": 123.415421
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.4792079434073655,
+    "y": 0.2830418822696835
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "室内视角"
+}

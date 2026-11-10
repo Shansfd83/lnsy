@@ -1,0 +1,46 @@
+{
+  "title": "架上协作",
+  "alt": "五一前夕修缮礼堂外墙，两名工人在脚手架的两个节点上动作同步地作业",
+  "url": "https://cdn.lnsylight.cn/imported/photos/workers-on-scaffold/workers-on-scaffold-7d0f6533fd3e43d4.webp",
+  "photo_page": "https://lnsylight.cn/photo/workers-on-scaffold",
+  "group": "礼堂",
+  "source_page": "https://lnsylight.cn/photo/workers-on-scaffold",
+  "groups": [
+    "礼堂"
+  ],
+  "id": "L057",
+  "file": "02_实验光影_建筑与地标/057_workers-on-scaffold.webp",
+  "width": 1600,
+  "height": 2400,
+  "bytes": 728300,
+  "sha256": "29ded1bea52f6c5deaac70685a4a4d58e8395bab181990b51973bbf0a84afe1f",
+  "description": "2024 年五一前夕、校庆之前，工人们对礼堂外墙进行修缮。两位工人刚好爬到整齐脚手架的两个节点，动作完全同步，杆件把他们的站位和手上动作分得很清楚。",
+  "landmarks": [
+    "礼堂"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-04-17",
+  "camera_parameters": {
+    "iso": 200,
+    "shutter": "1/320",
+    "aperture": "f/6.3",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF-S55-250mm f/4-5.6 IS STM"
+  },
+  "campus_point": {
+    "lat": 41.832317,
+    "lon": 123.416035
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5790618561747101,
+    "y": 0.43831622324187824
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

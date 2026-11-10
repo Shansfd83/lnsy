@@ -1,0 +1,46 @@
+{
+  "title": "门楣树影",
+  "alt": "爱因斯坦门框雕塑上的光影特写，树叶影子照在其上",
+  "url": "https://cdn.lnsylight.cn/imported/photos/portal-shadow-relief/portal-shadow-relief-232711228df716c8.webp",
+  "photo_page": "https://lnsylight.cn/photo/portal-shadow-relief",
+  "group": "爱因斯坦门",
+  "source_page": "https://lnsylight.cn/photo/portal-shadow-relief",
+  "groups": [
+    "爱因斯坦门"
+  ],
+  "id": "L041",
+  "file": "02_实验光影_建筑与地标/041_portal-shadow-relief.webp",
+  "width": 1600,
+  "height": 2400,
+  "bytes": 1424292,
+  "sha256": "5548bee1e68ac4142a50bdc2fc8f8e32f8c24f375379e7c4b98a6a03b07c44d8",
+  "description": "爱因斯坦门框雕塑上的光影特写，树叶的影子照在上面，雕塑上的物理符号显得很有立体感。",
+  "landmarks": [
+    "爱因斯坦门"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2023-10-22",
+  "camera_parameters": {
+    "iso": 200,
+    "shutter": "1/2500",
+    "aperture": "f/4.5",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF50mm f/1.8 STM"
+  },
+  "campus_point": {
+    "lat": 41.831575,
+    "lon": 123.415249
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.4512358375519498,
+    "y": 0.557584919931278
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

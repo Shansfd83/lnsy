@@ -1,0 +1,1882 @@
+[
+  {
+    "path": "先读我.txt",
+    "bytes": 290,
+    "sha256": "f34f21288e76042d0f0240f23f9da71ca14157a37decf6e687772be089c6b0fd"
+  },
+  {
+    "path": "打开我_离线图片索引.html",
+    "bytes": 65485,
+    "sha256": "502bfc3c312eef4240c566977264d5812a2465dae29e2563f6bf2257a8c2b7c2"
+  },
+  {
+    "path": "核验结果.json",
+    "bytes": 226,
+    "sha256": "afcb82bd6ddc9602d1f12da9f02d7a31fff1cd06155677facadc12e50d4f4018"
+  },
+  {
+    "path": "给Claude的建模说明.md",
+    "bytes": 33520,
+    "sha256": "27dc778d16116a101ced00b1a77d6d1c61d1a13115e9ce3a43b5d6a0aa734042"
+  },
+  {
+    "path": "01_官网建筑与环境/001_操场与主教学楼全景.jpg",
+    "bytes": 349227,
+    "sha256": "c67f94ac691c541750fd1f3b830dbc616ee721e07ab5c115fe0539872a3a3a8e"
+  },
+  {
+    "path": "01_官网建筑与环境/002_校门入口与花坛.jpg",
+    "bytes": 200459,
+    "sha256": "4c5b38872e2cdc955bcf80436de633deb52b36ed0e3eae0bbf08e04b7f6c39f4"
+  },
+  {
+    "path": "01_官网建筑与环境/003_食堂内部.jpg",
+    "bytes": 271522,
+    "sha256": "38873056f2b120e38c269146bb169fd4d28c1f64a4ac578d48a14cc170edb64f"
+  },
+  {
+    "path": "01_官网建筑与环境/004_建筑立面.jpg",
+    "bytes": 68225,
+    "sha256": "2cde87f33479f863f4c64d77ed973b30791be4ce5be7fc4d46d36040b637df08"
+  },
+  {
+    "path": "01_官网建筑与环境/005_园林水景与建筑.jpg",
+    "bytes": 126147,
+    "sha256": "ea1206b3e54be720c68540767e0512ce24954ab5501f0453075686de382b2683"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/001_forest-eaves.webp",
+    "bytes": 1551804,
+    "sha256": "06c06f09066f56874d764d86b795028b016e26e2603a5b094066c1f682be4399"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/002_mingxin-pavilion-lattice.webp",
+    "bytes": 168574,
+    "sha256": "c6a3584bf396f0eba0f87bad646cb888cbd5f08c82d3bfb6bc9e3a03c3c96d70"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/003_autumn-213.webp",
+    "bytes": 510634,
+    "sha256": "f0b58d13583f43bc54598eda666e36cd07f9b3fc31caf2421717478baf176368"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/004_theme-light-423.webp",
+    "bytes": 350856,
+    "sha256": "6ff7394d62fdfe28b3d0b512fad62fa5abe7deb601a2dd8a215012f145a37c29"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/005_pavilion-rehearsal.webp",
+    "bytes": 407756,
+    "sha256": "a01690aabedd5319160878d66ffe84cd9d48a8634a8f199ca48c459c1eecc843"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/006_mingxin-pavilion-afternoon.webp",
+    "bytes": 758846,
+    "sha256": "c91c5f9051d5d65a533b854c0842d21ea248aa0b85449b7e71fb3732e8ee6fbe"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/007_theme-architecture-sculpture-730.webp",
+    "bytes": 1184364,
+    "sha256": "f06546c2733d35820e260a986f433b2efe9765c18ccfa7acd140356e76802363"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/008_autumn-214.webp",
+    "bytes": 1478252,
+    "sha256": "08ff781ab0b108df57623423b64cb9d0c6de5f84e34ead8a8d3814c7113aa67e"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/009_snow-courtyard-overlook.webp",
+    "bytes": 1441762,
+    "sha256": "ad801216114fecc7f390b9aeedf3fcee5803e7def80c31b2dabb152b08dffb42"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/010_theme-architecture-sculpture-729.webp",
+    "bytes": 995876,
+    "sha256": "be5d36702ee664b719a9fa4a69bc3caf77e01e6a5ba6bc9d1bf526ad24021d52"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/011_spotted-dove-rockery.webp",
+    "bytes": 612282,
+    "sha256": "f0b7322363bfeda67c9e903004370c053b5ba50c782f4a5855022dfaa3cde120"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/012_corridor-rail-gold.webp",
+    "bytes": 331292,
+    "sha256": "d56b9fe37a4b780ad35dea09b4866302c682cff252d327cb6fbfc933267a1ca2"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/013_morning-exercise-panorama.webp",
+    "bytes": 594248,
+    "sha256": "dadae5167c215d703a6ffa5f200d9ed4b5d497287691d214ac2f6a9e67453b3a"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/014_main-building-winter-day.webp",
+    "bytes": 722006,
+    "sha256": "ba0702be13fd448ffff088fcd00f8858307d79246438a45fa4f5b8d4dd3cbd9f"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/015_corridor-mirror-reflection.webp",
+    "bytes": 514872,
+    "sha256": "d2fb4b7b92cc9ec64881531d7513f939f9c33534842914c776e3d2cb26c493ea"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/016_library-sunset-shelves.webp",
+    "bytes": 540656,
+    "sha256": "04f3d95e95f1e7be24105dd519435ff7451b629642b0cd35a51a789d22755ace"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/017_flag-platform-landscape.webp",
+    "bytes": 660954,
+    "sha256": "1ab51619dc04e7353619ba2db36056d84305bda5099289efd6c55409ba17f45c"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/018_hall-symmetric-light.webp",
+    "bytes": 526098,
+    "sha256": "08f39a57f4f10490da3ec74605a550d728093cc5410bf89f8fb9f04efafc20c5"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/019_series-3.webp",
+    "bytes": 567252,
+    "sha256": "1f0a76ebed404a54551aa94184f0b7098954aa07599a9a13e871da2b50f4efbf"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/020_closed-main-door.webp",
+    "bytes": 307532,
+    "sha256": "ffc9556042eda99e414b59b272f8911f43f7608de826540a74546ba898dd6d88"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/021_flag-platform-portrait.webp",
+    "bytes": 559368,
+    "sha256": "6f0837d99ec335df6d6df4f598bf9676af36db57f164109333d86d6b568097aa"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/022_brick-vine-lamp.webp",
+    "bytes": 670962,
+    "sha256": "122a99308fc055d0ce46a872e3c0779aaefecf98b96dbcee306ceb0cf67f8a32"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/023_window-full-of-gold.webp",
+    "bytes": 495100,
+    "sha256": "cf5e8926064d16a69011685b35c1fd86eab1880d227919a90e1633c381b33aec"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/024_calligraphy-curtain-wall.webp",
+    "bytes": 478440,
+    "sha256": "04c3f7828f1e676f4084d253a2958b5938331b4def69ea66a3f13cd3aa987c43"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/025_ivy-wall-summer.webp",
+    "bytes": 795800,
+    "sha256": "db78c59ab94ce5bb2976a6d4770f8d98adc0e1d6f96475f15abd24805b58d28a"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/026_shadow-music-staff.webp",
+    "bytes": 280772,
+    "sha256": "826209bc31139ec9dfa17331bdcebe216767d80450eb3f2d4750a7b1bcf06bf2"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/027_autumn-212.webp",
+    "bytes": 815282,
+    "sha256": "0c156d1bfb276ed9d922c2096715c330a918dbf429143fe66ec900679072997d"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/028_empty-room-golden-window.webp",
+    "bytes": 427038,
+    "sha256": "efdf6d5ffdc26dc02394ff0667e02206a64e64266a502b3781eee7d6e8fe22e3"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/029_lone-lamp-night.webp",
+    "bytes": 429458,
+    "sha256": "6d923de70df33c3efb8f79812e79041e4de12211098d3b5bbef7b3e99585347d"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/030_corner-vine-sky.webp",
+    "bytes": 174788,
+    "sha256": "291ce0bb98e7f02eda52bfd1753ace8d693c2fefa7a9a5832f0d0c58e48ded94"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/031_bucket-toss-to-truck.webp",
+    "bytes": 399084,
+    "sha256": "0f12b06fe8660bcfa15d904c1a457b5a40cbf06ca7c6b16a49a59035fafdaee4"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/032_classroom-light-blocks.webp",
+    "bytes": 311498,
+    "sha256": "986ca72c939aa8fd42902f9c20c20727629c97c7417e0f324f81c4bf55f646e6"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/033_alleyway-pedestrians.webp",
+    "bytes": 573076,
+    "sha256": "4e43394b4139139cef360168456e95eac28887af5337a6479a89b39743853be2"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/034_bottles-in-light.webp",
+    "bytes": 346904,
+    "sha256": "89e10fb64d79f05252142168602c6b7b11aeb6e5ae7f5ca7543a02ab02449e67"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/035_window-corner-trace.webp",
+    "bytes": 460512,
+    "sha256": "39f829977a88c1858301f7bb46abfcffa6c4a86daddb14cb517e004de8bc3f46"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/036_striving-behind-book-stacks.webp",
+    "bytes": 341496,
+    "sha256": "c337d45f1796a52932c8fa7b213c15cfad721cffdc541ffd497c51dfcc7f4440"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/037_spring-029.webp",
+    "bytes": 1568698,
+    "sha256": "01b6f39c26f9ec17e1c9ed8e1032c3c18a8b09a45db49be5c95da9b5162d9eda"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/038_snow-gate-walk.webp",
+    "bytes": 1303160,
+    "sha256": "4ee49a561ae5e41330c48788ba836bcba4a392f5d764be8e0208069638266ca5"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/039_summer-green-portal.webp",
+    "bytes": 1396916,
+    "sha256": "476284b67671c71db0c5cf130b3d4630324d166b0a80cfda107cd0bd534191e9"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/040_green-portal-figure.webp",
+    "bytes": 482932,
+    "sha256": "2e83037a8357f161e8d7e19264e6e29bab7bd83d4ac59ee3107fa013dba35a75"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/041_portal-shadow-relief.webp",
+    "bytes": 1424292,
+    "sha256": "5548bee1e68ac4142a50bdc2fc8f8e32f8c24f375379e7c4b98a6a03b07c44d8"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/042_riding-through-portal.webp",
+    "bytes": 1024820,
+    "sha256": "dbe4e5e198b2c4a0e5275cff8459219b0ea50dbde9ca429677ce6c10d33004b5"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/043_gathered-students-crowd.webp",
+    "bytes": 530880,
+    "sha256": "4f8a5c1ae4270bb44834b1aea164ef3a53a23b78103398ba0347f168f6931a7e"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/044_theme-humanity-538.webp",
+    "bytes": 430760,
+    "sha256": "4ab143af7f85f6c0b2b280d4e44802a27af2764448bc4f0eb8bbb1f5c95370d8"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/045_night-runners-silhouette.webp",
+    "bytes": 867136,
+    "sha256": "42f419997c922bd063760a0e140d286a8edb96fc773a52f4f8030df2ef44adab"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/046_pom-pom-and-bubbles.webp",
+    "bytes": 133162,
+    "sha256": "2b9adf3a5e7fd4a5226771130a90a6f89f54a98e82726cb29b4b694a1bcdcad9"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/047_flag-lineup.webp",
+    "bytes": 315782,
+    "sha256": "57c777875dafc6760031bad4def9ac470afd0f6321938ed986f7906bbacc92ac"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/048_high-jump-arch.webp",
+    "bytes": 402598,
+    "sha256": "38acdfc25635aefca96f12eb5dd51dbfec85a1ec5929b78243f9617956534ef4"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/049_rain-statue-crowd.webp",
+    "bytes": 412886,
+    "sha256": "4fbe28d26cb3e9f0b602b0288a1ee0075c8e24757fbc3ea3d891f522aebaa7b2"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/050_leifeng-in-pine-light.webp",
+    "bytes": 908530,
+    "sha256": "9ecfb6c8577b3f2d1add79b908f32d4ce53b800365886c3623b3da090b2e7292"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/051_winter-motion-crowd.webp",
+    "bytes": 1085920,
+    "sha256": "a04a60762396fea8dc33323bc772218e4ec004d1c1a7dd351ce8d732b73bc4e1"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/052_theme-architecture-sculpture-731.webp",
+    "bytes": 1213618,
+    "sha256": "a4d8519afdff30f7f23e6cbe084606beb3885065ad1bc9fc12431df601fe3245"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/053_backlit-figure-trees.webp",
+    "bytes": 765766,
+    "sha256": "beae6b1043124293b6feeb2a917305b30053e32046cd1feba87aef09befe249b"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/054_stairwell-side-light.webp",
+    "bytes": 271680,
+    "sha256": "fc28813aae4e710a35ae2043f24361863371d435273db1d309fcf4a918b36f9b"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/055_red-star-facade-light.webp",
+    "bytes": 300374,
+    "sha256": "c0392f673a10795d5ef1980adc656220bc052e91e5bcedaac9bce00a7d4a7d93"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/056_worker-on-rigging.webp",
+    "bytes": 733234,
+    "sha256": "139dc40bc404e24f347519803d7a1408efefb0b707dffe5a52a4d1c22bb90e47"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/057_workers-on-scaffold.webp",
+    "bytes": 728300,
+    "sha256": "29ded1bea52f6c5deaac70685a4a4d58e8395bab181990b51973bbf0a84afe1f"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/058_summer-114.webp",
+    "bytes": 1317516,
+    "sha256": "c2b7d1fef36567b957059703ec606b485721c263601085b5ec844094399a9b49"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/059_glass-dome-hall.webp",
+    "bytes": 848868,
+    "sha256": "c7bfd83d98b0bada5ed51101a0ea442e3854606c8d1186eb9d8aac8b30e6844c"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/060_theme-light-424.webp",
+    "bytes": 446202,
+    "sha256": "d84798608722a025f8f9c20713b98b1d1b103c1a312d8ee0553a95a017f526d5"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/061_tech-building-upward.webp",
+    "bytes": 1011322,
+    "sha256": "904f0b7eadabdbe34431ce467b7e229d6a45721765037f40804baaf3f071c6a2"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/062_dusk-campus-field.webp",
+    "bytes": 662380,
+    "sha256": "55be8af2663816541a3e500b61d86c617b8e23d7b9c6cd3215ea1ed89d6147cf"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/063_winter-317.webp",
+    "bytes": 1083408,
+    "sha256": "c84a91154d6face2e0bc2f3a0933b2532fbd53204c14388cd52e84573d8f02c7"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/064_night-court-afterplay.webp",
+    "bytes": 551874,
+    "sha256": "9a2954283a969b2eefd600b1066c5ff88683ea4ef2ef017b8fe233888e57d359"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/065_blossom-sea.webp",
+    "bytes": 772626,
+    "sha256": "6c33c19a9d185fc9761bed017441165f43e9508a7520c1bea9547614eed1d4d8"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/066_wallside-autumn-mark.webp",
+    "bytes": 850716,
+    "sha256": "d36dfaa1c14c754433ec3cc314dd9da85a1e8788102d1eb1ed224f33a9b7ff5a"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/067_brick-courtyard-crosslight.webp",
+    "bytes": 285430,
+    "sha256": "c697a972e459cf7abd0ac2ee477f3796f0473006d293ee4822f6c40966a97c85"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/068_sculpture-in-autumn.webp",
+    "bytes": 757686,
+    "sha256": "9a5195bddd0acde2941bfe43ffe9aaeae21710db09f01f6c799a4deef73b61d8"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/069_winter-312.webp",
+    "bytes": 1173396,
+    "sha256": "7b43852f8a2e12ae7db735b8bddc2e0db061b22831ff40a5a7e9f1e8bd84a1d7"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/070_youth-era-sculpture.webp",
+    "bytes": 525218,
+    "sha256": "3d5009a8f039d24724b5584bdfbd3c6c842c9940c757dff2e8b86b9fb521cc79"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/071_fake-flower-by-window.webp",
+    "bytes": 1314490,
+    "sha256": "d2fe1a1c61082879f01d190b554e6934be43521edce343dea74c4c09e7d7f6f0"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/072_old-building-roof.webp",
+    "bytes": 1000390,
+    "sha256": "8638aa613d012e11b37a54b972f78b34b1a68f35acce1bdd7d903b671458a6c5"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/073_sunlit-classroom-rows.webp",
+    "bytes": 579228,
+    "sha256": "db0efc1995fc39559ec349815b434642ed1245255369bfdf4e456edce9d29a63"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/074_desks-facing-light.webp",
+    "bytes": 768592,
+    "sha256": "3c1721ba44b8ce7913a5628166ec31522a3599cd25386d61ad534f5536934a5a"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/075_statue-and-spray.webp",
+    "bytes": 1295252,
+    "sha256": "30e6221df806efdef4658334b6e4a45308aa9acc8ef88f35d59d1eba6d7264de"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/076_theme-architecture-sculpture-728.webp",
+    "bytes": 1296990,
+    "sha256": "6edaf23336fe8767879d2b0d894b161f55ba7f8045ce748a69a8ffc2d424073c"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/077_key-raised-to-sky.webp",
+    "bytes": 911044,
+    "sha256": "0edb1f4f34fcd78cbac8041da1142f03fd99d9325c7602939fe80b5b8897882b"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/078_key-and-sky.webp",
+    "bytes": 889470,
+    "sha256": "7955ac5a2b4db8d232e8b740c6831b7c89b5810afc176dee5e9fe2f27e700c26"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/079_rebuilt-old-school-gate.webp",
+    "bytes": 793638,
+    "sha256": "46b7ebb1167ab820c7e9111d9a8b0ddd20722d5570d4cb5177913a9bc721c865"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/080_autumn-vines-sky.webp",
+    "bytes": 543210,
+    "sha256": "517f4be14830a24f542c4c8e7b96cd28d41e4e03399448226635f3988f78a0e5"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/081_yifu-library.webp",
+    "bytes": 696770,
+    "sha256": "b94dcc76fb47b37a88df4158dfee979f5331eaaa577cfffe5b605fd9aa9a09a2"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/082_fangxin-stone.webp",
+    "bytes": 895508,
+    "sha256": "eb2d47e33ad312351b2a4a6af639cd720b9807c0bccf94430141eb91809b87a8"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/083_rabbit-lights-on-lawn.webp",
+    "bytes": 483008,
+    "sha256": "0f44644625e483b94e4bd3dcd3d8b0c1d409436b16e97743c04c2231b74bb625"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/084_red-gates-snow-umbrella.webp",
+    "bytes": 263018,
+    "sha256": "aaeeedebf73bb175f359def140511e32e8378a3112e7246d3028844ae036a8a5"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/085_red-gate-frames.webp",
+    "bytes": 1702762,
+    "sha256": "5ffb14640133bc9b6113bd0310a06172a7f28dc829c0fb028aca885e4a56ce16"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/086_series-3_frame_003.webp",
+    "bytes": 716728,
+    "sha256": "680b0493bcfe838fa96e6b748d16355a33182e1fece5478b26fe41afe4a67681"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/087_series-3_frame_004.webp",
+    "bytes": 580332,
+    "sha256": "3d01980cb8e7bcaa289cd19186ddeeac4c47457c29220340817d6d5f01a29b3f"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/088_series-3_frame_033.webp",
+    "bytes": 687378,
+    "sha256": "b75f64ef50a6dd8d860fc3fa1b1033f8d62c74e16d74e77160d8157c799c3e92"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/089_series-3_frame_034.webp",
+    "bytes": 591340,
+    "sha256": "cb58b277072c6d77cfb6d2d7cf46986a7cf2aabb802db52c426c2f1b237be924"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/090_series-3_frame_035.webp",
+    "bytes": 338034,
+    "sha256": "1a2889910d11b4e2a2bec892141cde5f7c2d73847e7a0aa7683cb09d7ea5c375"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/091_series-3_frame_036.webp",
+    "bytes": 492230,
+    "sha256": "af7213acf5294388c1f777bfbac973df25413aabdec60a16234f85c5ff282208"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/092_series-3_frame_037.webp",
+    "bytes": 323184,
+    "sha256": "6f7e8472c9caaa5723800bdb68751475f8e8ba4690bee35f9616eea9b38af6d5"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/093_series-3_frame_038.webp",
+    "bytes": 376868,
+    "sha256": "2b2f5bd2230cefbd9e10665468b4ccc0ccadde5305b2cb27a8187d0d399c2027"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/094_series-3_frame_039.webp",
+    "bytes": 482488,
+    "sha256": "674f33c0c66f006dc8f20fce8fd1a3a4465c9bc9a3cd8469e4f35feca62956b2"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/095_series-3_frame_040.webp",
+    "bytes": 391432,
+    "sha256": "314f03235ed43cfc629ecb096b69b59e5b42d9b828d29aa4e8db4448aeb2934f"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/096_series-3_frame_041.webp",
+    "bytes": 317114,
+    "sha256": "1d84067bb5503b15f81022917d73619b2b895f0281a75b71d39ae17001ab6117"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/097_series-3_frame_042.webp",
+    "bytes": 349638,
+    "sha256": "0cd5aef504ae44f790d4dea9c3fa652d8fc9e5a385f8e7801eb98830019ed9bd"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/098_series-3_frame_043.webp",
+    "bytes": 429308,
+    "sha256": "26cac31e00ad013b19a7479f72c9332ad69a578b45c0babf77a64d9b3a0d647c"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/099_series-3_frame_044.webp",
+    "bytes": 355558,
+    "sha256": "5b77c098dafb0b052d5ff2abdaf406b66c52a6cc6cd0d8b6712b17a83a3042d2"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/100_series-3_frame_045.webp",
+    "bytes": 359154,
+    "sha256": "f7a7267dfe2c62dcd325511b1900b610d7e53f3c4bb36c68d3b9f223841592ad"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/101_series-3_frame_047.webp",
+    "bytes": 531356,
+    "sha256": "f546567b5d3ee19acdb98eda44d4870f793b0531d7657bc72cfbf3df78f4de23"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/102_series-3_frame_048.webp",
+    "bytes": 327412,
+    "sha256": "c8f404c30f1be0d94ca2165eb2e3ab341bdbd8c4817221c00c5eb20748ac9884"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/103_series-3_frame_049.webp",
+    "bytes": 310072,
+    "sha256": "63f869f8042bbbb597cd3f6c23cf3f3846bacb7189f549423396ed236396fd66"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/104_series-3_frame_050.webp",
+    "bytes": 348452,
+    "sha256": "e07b682f945ca3a8510a92c9b4dafbd9b221f8d1417195ed3f008924a3605245"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/105_series-3_frame_051.webp",
+    "bytes": 372266,
+    "sha256": "a731275629e441b8faf055c3b2c5fe8627f34e5d28db11ecb158c99f4a0a0543"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/106_series-3_frame_052.webp",
+    "bytes": 493760,
+    "sha256": "b1bacdd124608cf396ca998ec1544a71b440f274f47ef7877c6804269cb78b01"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/107_series-3_frame_053.webp",
+    "bytes": 427924,
+    "sha256": "d09137d02d7dc4902f1c554248ca541cbfd69a68841d35848eadc2dffd645518"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/108_series-3_frame_054.webp",
+    "bytes": 426298,
+    "sha256": "a8b4642cd3bea1cf9328b3ec53e9d1c6f5333879aba7f13ca65c509f618f996f"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/109_series-3_frame_009.webp",
+    "bytes": 548048,
+    "sha256": "2ba53dff54a29ace6eff946df7a2ae81e49bd0505ec9cc184bec20d499a27b4b"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/110_series-3_frame_011.webp",
+    "bytes": 696834,
+    "sha256": "e7eada690566d204ac2be29f65c399b16b27a47ec202a36cbe376b62ddc83313"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/111_series-3_frame_014.webp",
+    "bytes": 433886,
+    "sha256": "a8acc4fd051c183ab68ad9ba443c2c1032310ba9c4f042142d15b10d80fc99b3"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/112_series-3_frame_015.webp",
+    "bytes": 313018,
+    "sha256": "e745a1487beb817981bc9cd23e723edf4608e472d69a228d26e89019532eb43c"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/113_series-3_frame_018.webp",
+    "bytes": 359428,
+    "sha256": "bf4761b570a205c2717f12c9ff760fa1c8c954a85a7bb20ffe227342cc171a6d"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/114_series-3_frame_019.webp",
+    "bytes": 469660,
+    "sha256": "091af31d48539eff53d59c31bb82b3a7d52889d383aebea025131acf4a4c9a7b"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/115_series-3_frame_021.webp",
+    "bytes": 792516,
+    "sha256": "d4af78a5e5175fb0aafc7ecebd81f3414191d26f41c04c45b5a8090656b83be3"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/116_series-3_frame_022.webp",
+    "bytes": 319288,
+    "sha256": "303586662ba504da864f7bbcc5d9242f2a59aa413c088e027236c540d435886f"
+  },
+  {
+    "path": "02_实验光影_建筑与地标/117_series-3_frame_023.webp",
+    "bytes": 366630,
+    "sha256": "945d63771f5dac32558122a20c15f189ae2c757ef6c70ebec81c6e4f5da5aa0a"
+  },
+  {
+    "path": "03_地图与布局/官网_2025校园开放日示意图.jpg",
+    "bytes": 266011,
+    "sha256": "91875d8cfb45dd81bd24ea2a68af2b3889b41497cd542e005c25bd9a3cd69410"
+  },
+  {
+    "path": "03_地图与布局/实验光影_公开地图几何.json",
+    "bytes": 106245,
+    "sha256": "efc579618873299a4f3f90db2b50a3c32e4a7ea74d82cb16c6ff53bd9d51f2c6"
+  },
+  {
+    "path": "03_地图与布局/实验光影_地标目录.json",
+    "bytes": 20923,
+    "sha256": "7bcfeec6ee7e3cf631803ce9cc815f321f330d839287966e684ffdeb38bbd434"
+  },
+  {
+    "path": "03_地图与布局/实验光影_校园布局参考.svg",
+    "bytes": 27658,
+    "sha256": "802a76146d4a42c7f88296c8cc1ea04ee052027a197fc99f023f3def0992c7da"
+  },
+  {
+    "path": "04_索引与逐图标注/L001.json",
+    "bytes": 1429,
+    "sha256": "2523ce2b867e791103f765a94dae33ce52397d41dacfc11ab69dd75b401e94aa"
+  },
+  {
+    "path": "04_索引与逐图标注/L002.json",
+    "bytes": 1577,
+    "sha256": "4e0d63bd5bde353dfdaf55014ac5a1829a1f199bc2b77492583a016380cd4a09"
+  },
+  {
+    "path": "04_索引与逐图标注/L003.json",
+    "bytes": 1569,
+    "sha256": "ab6412c9b5e960c48138e87d899fdb102bc609c15f9d3121db2d418a8071c7f0"
+  },
+  {
+    "path": "04_索引与逐图标注/L004.json",
+    "bytes": 1535,
+    "sha256": "02d7a266f3ec4a0efe01b7da3a93f7b39d06232f158d829043db30018ff85336"
+  },
+  {
+    "path": "04_索引与逐图标注/L005.json",
+    "bytes": 1494,
+    "sha256": "636aa75e0b965d38c17b45806c241a6792886c4c0a94aceaed43c1b515e4cf18"
+  },
+  {
+    "path": "04_索引与逐图标注/L006.json",
+    "bytes": 1728,
+    "sha256": "c27fd7ea89c24fc8f4aa32c03b1e1df4fcb4ec9fb8a483cefb1b8dc643c08b5a"
+  },
+  {
+    "path": "04_索引与逐图标注/L007.json",
+    "bytes": 1605,
+    "sha256": "7fdb2b3dfa6d8b39a89ac3df3567d3d534c3b2f7a1f29feead27c1ac24a9895e"
+  },
+  {
+    "path": "04_索引与逐图标注/L008.json",
+    "bytes": 1490,
+    "sha256": "cec01ff2581d4edb95bc9f270c913dc6c8ef64618d10f30231922690218939b3"
+  },
+  {
+    "path": "04_索引与逐图标注/L009.json",
+    "bytes": 1539,
+    "sha256": "04272c7021430e98fe2983f74ba21041514a8bb1260c1baac12bf957d64a056a"
+  },
+  {
+    "path": "04_索引与逐图标注/L010.json",
+    "bytes": 1680,
+    "sha256": "5ddd5ce4d54ed47e7b29b5545005709f711443924cfdb429de192e93ec897a87"
+  },
+  {
+    "path": "04_索引与逐图标注/L011.json",
+    "bytes": 1568,
+    "sha256": "188c3f26e3221f619f1e194bdff13c2ff96941284fc72bfe34f87a4a24b260e7"
+  },
+  {
+    "path": "04_索引与逐图标注/L012.json",
+    "bytes": 1754,
+    "sha256": "0948674dbea4d7ec1982a12e772fbbbfa954c948e6c233b20b24586852d6677c"
+  },
+  {
+    "path": "04_索引与逐图标注/L013.json",
+    "bytes": 1666,
+    "sha256": "c7193c836af47ce3eb5e79d80eaaf0a689cfc922ebc8c28a7308e5c47d2a2f0a"
+  },
+  {
+    "path": "04_索引与逐图标注/L014.json",
+    "bytes": 1639,
+    "sha256": "263a7aa0dbaaec84fcd4e67e428ea62c63e6947fbed52a3b557c309244546a90"
+  },
+  {
+    "path": "04_索引与逐图标注/L015.json",
+    "bytes": 1634,
+    "sha256": "01a409823b87e359b6e23c5bcde8f732c2e8754308b9f0e57f74975344f20894"
+  },
+  {
+    "path": "04_索引与逐图标注/L016.json",
+    "bytes": 1644,
+    "sha256": "8c8f2b48c24ebd3f1f8fa92a59796c44dcae28caa147199417c20d950ce76d76"
+  },
+  {
+    "path": "04_索引与逐图标注/L017.json",
+    "bytes": 1706,
+    "sha256": "1b978f60dbbfee2342ebb270a97408b853857fcb0490f765daba6430dbda2dd2"
+  },
+  {
+    "path": "04_索引与逐图标注/L018.json",
+    "bytes": 1632,
+    "sha256": "190c34a1c082194f4b5de0e20335149b87a7266909737b711318cfe7e9b9a823"
+  },
+  {
+    "path": "04_索引与逐图标注/L019.json",
+    "bytes": 1524,
+    "sha256": "38dbc04c7e3687c8de7f1e14564653e966f4ae077cf53f14135984fa5efc39d3"
+  },
+  {
+    "path": "04_索引与逐图标注/L020.json",
+    "bytes": 1563,
+    "sha256": "2d104fce61eff982246e54988b0cdfaa604b7f929d02231aaf635f2cb9f58a8e"
+  },
+  {
+    "path": "04_索引与逐图标注/L021.json",
+    "bytes": 1686,
+    "sha256": "4c89cb467ae864931787a12ae410f64b9f4992775b6f77bfa27711ed9af2d03e"
+  },
+  {
+    "path": "04_索引与逐图标注/L022.json",
+    "bytes": 1476,
+    "sha256": "3f75c99a2ed7cb23505c687a6c20f5d59bdf6f8c94597353808d9a65535e78f8"
+  },
+  {
+    "path": "04_索引与逐图标注/L023.json",
+    "bytes": 1517,
+    "sha256": "9815e0cc9ca386d9f35c1dcc8228475c9c5348b3c65aa3e0896cb98d67479385"
+  },
+  {
+    "path": "04_索引与逐图标注/L024.json",
+    "bytes": 1609,
+    "sha256": "39feaeab499ac624f7e701b0dd9ae1c3ec5b3a526e57a97e97da9414eda04113"
+  },
+  {
+    "path": "04_索引与逐图标注/L025.json",
+    "bytes": 1474,
+    "sha256": "fdc87cfe44f40ea440690a1a2e58625a3046d727f37505486f14d83f26f19f02"
+  },
+  {
+    "path": "04_索引与逐图标注/L026.json",
+    "bytes": 1553,
+    "sha256": "f35e77385f9d7963fc2bff8966ce118e837727d71042a67c88511574ec85a0a8"
+  },
+  {
+    "path": "04_索引与逐图标注/L027.json",
+    "bytes": 1525,
+    "sha256": "67086e58f5673e02b000fc953b30d180a7770a215c3038da620c97f6ccdf637c"
+  },
+  {
+    "path": "04_索引与逐图标注/L028.json",
+    "bytes": 1533,
+    "sha256": "ed6aa5a43da5d9d0a67edde2e88a48077ad67b4e9aa628850a219bc58bb0c9d1"
+  },
+  {
+    "path": "04_索引与逐图标注/L029.json",
+    "bytes": 1524,
+    "sha256": "482a1a6801900d6881c19270fa697e41e7c7b575d6f7769557c8485888bdd21f"
+  },
+  {
+    "path": "04_索引与逐图标注/L030.json",
+    "bytes": 1407,
+    "sha256": "7402191a6dcd3a7977dfd1600591156fcdc00c4eb4d40b9524089dba409f333f"
+  },
+  {
+    "path": "04_索引与逐图标注/L031.json",
+    "bytes": 1676,
+    "sha256": "ec29a0f4aca8c03c703af226734fb9f8e34a4701f982299d68e09d800b4c3e8d"
+  },
+  {
+    "path": "04_索引与逐图标注/L032.json",
+    "bytes": 1586,
+    "sha256": "b2b7ac681d5696a426332f8380865ae68842202688c1fbbdbc461536c1adcdfb"
+  },
+  {
+    "path": "04_索引与逐图标注/L033.json",
+    "bytes": 1516,
+    "sha256": "739708a5bda5802de80b764773188b4b97063026281d091919156d08b8cf1558"
+  },
+  {
+    "path": "04_索引与逐图标注/L034.json",
+    "bytes": 1549,
+    "sha256": "08072e2d15981f09934813360c8d5f030eda0081d1ff13e6dfe585292e864fc8"
+  },
+  {
+    "path": "04_索引与逐图标注/L035.json",
+    "bytes": 1517,
+    "sha256": "8f5535ec0364cb32bd1b312a3a78eb7c56425610cc2036e4e54490f40b626a57"
+  },
+  {
+    "path": "04_索引与逐图标注/L036.json",
+    "bytes": 1744,
+    "sha256": "26b6502f4d177f99ee1a67e4adcd6c9d2c8d7996af4c9801df66d3788a3d0350"
+  },
+  {
+    "path": "04_索引与逐图标注/L037.json",
+    "bytes": 1496,
+    "sha256": "dce064c4c3d40fd83e152b3c7382910a437305bf08ea55e5eaf9e2d0676191ad"
+  },
+  {
+    "path": "04_索引与逐图标注/L038.json",
+    "bytes": 1483,
+    "sha256": "0246f5882a6c5765e5940f74e11eba44c88f3729e36bc239b332b255405332c5"
+  },
+  {
+    "path": "04_索引与逐图标注/L039.json",
+    "bytes": 1496,
+    "sha256": "345ef3ec6d989894479a037049177885b91d5e0ae7406467afc6e1ee893d17b4"
+  },
+  {
+    "path": "04_索引与逐图标注/L040.json",
+    "bytes": 1461,
+    "sha256": "d5cf9980f3b3a2bd9f140634df6f4f5e4b1d359dc8d880c0fb7cb241397e0283"
+  },
+  {
+    "path": "04_索引与逐图标注/L041.json",
+    "bytes": 1572,
+    "sha256": "917d62a51b6a7412b943a4745c72a0c3ab475c60a93d0e4fe609186f01528a1e"
+  },
+  {
+    "path": "04_索引与逐图标注/L042.json",
+    "bytes": 1562,
+    "sha256": "0f7f29b845dff66179ab0e5a7ce38f321607440c294e0398bef6aa7e51cfeb8f"
+  },
+  {
+    "path": "04_索引与逐图标注/L043.json",
+    "bytes": 1561,
+    "sha256": "9833dea5a4276f6eeda0786e584d5e84448aef310296e8e21457c1f09ae3f2a6"
+  },
+  {
+    "path": "04_索引与逐图标注/L044.json",
+    "bytes": 1545,
+    "sha256": "1c002e2179494b9c0aaf97a3abe8daf6c4cd7df31718b50be2f0bfb62237cdcc"
+  },
+  {
+    "path": "04_索引与逐图标注/L045.json",
+    "bytes": 1580,
+    "sha256": "5c55325a16f50c9546f6e0be32c03c0e2256cabfb74781737dbb031279cc609b"
+  },
+  {
+    "path": "04_索引与逐图标注/L046.json",
+    "bytes": 1458,
+    "sha256": "9b2af3b19e79ca406cc7916af14d0dcbfca14746f8e03b7a0b2e41eff03b1e4e"
+  },
+  {
+    "path": "04_索引与逐图标注/L047.json",
+    "bytes": 1555,
+    "sha256": "44eee0815c3fb76e598dd1d02bbebf87cbfa176e6bf522804837ba420135bffe"
+  },
+  {
+    "path": "04_索引与逐图标注/L048.json",
+    "bytes": 1431,
+    "sha256": "cdb534297f648a2a279abe326fa81955d62dacf435161576f9a0b3ceb0670446"
+  },
+  {
+    "path": "04_索引与逐图标注/L049.json",
+    "bytes": 1452,
+    "sha256": "21ee1fe63ff4084e52f0ab1b54f6107a3e108047281b4114c9db0949b8b48434"
+  },
+  {
+    "path": "04_索引与逐图标注/L050.json",
+    "bytes": 1580,
+    "sha256": "3d7308d335a76820a3d039a6b8e86c8cdbfa4dffc42867150adc61e6cb5ebbbb"
+  },
+  {
+    "path": "04_索引与逐图标注/L051.json",
+    "bytes": 1482,
+    "sha256": "87fffd786d2335db464f79a8f0fe26c389ffc39dcdd483a631cde9ed355af5e0"
+  },
+  {
+    "path": "04_索引与逐图标注/L052.json",
+    "bytes": 1651,
+    "sha256": "8c33625c40e5661f88c7da67d72b5e7f0e8a1b425327cb5016180da1c0a7e8ee"
+  },
+  {
+    "path": "04_索引与逐图标注/L053.json",
+    "bytes": 1476,
+    "sha256": "347db84457736d66cb200164018acb126ca24caa63a9017d7cc0c529dc65e0f0"
+  },
+  {
+    "path": "04_索引与逐图标注/L054.json",
+    "bytes": 1619,
+    "sha256": "6634c4063f0f8aa329978ee81e7417be818964f04a7ebb570f5e980d9e4a9256"
+  },
+  {
+    "path": "04_索引与逐图标注/L055.json",
+    "bytes": 1642,
+    "sha256": "2b928365b5ea18e5488f2a19eaefe3383e69d6c3582f6cc789b3fcf46a46cce4"
+  },
+  {
+    "path": "04_索引与逐图标注/L056.json",
+    "bytes": 1628,
+    "sha256": "53e41697e198a335ffe21a5773df781d4d2fa5ac64184280dda3d256cb8b6871"
+  },
+  {
+    "path": "04_索引与逐图标注/L057.json",
+    "bytes": 1667,
+    "sha256": "ae652e670578484d8aeef1d1bdcf887bd2ee510497b01dd51bb03a1a537ae0df"
+  },
+  {
+    "path": "04_索引与逐图标注/L058.json",
+    "bytes": 1498,
+    "sha256": "ac9ed08d23e810462129960f9186099801a4a73b802fa407fec1759ca07811ff"
+  },
+  {
+    "path": "04_索引与逐图标注/L059.json",
+    "bytes": 1641,
+    "sha256": "6add0c59ff5fea2796d4e7e043f71b0269aaabdc3aa714a59299351cb9b07753"
+  },
+  {
+    "path": "04_索引与逐图标注/L060.json",
+    "bytes": 1545,
+    "sha256": "074b0008380d09a68b8af3463075a575927f990f1f21bbb68bf20a2a87485c41"
+  },
+  {
+    "path": "04_索引与逐图标注/L061.json",
+    "bytes": 1616,
+    "sha256": "5b6561d56654b096238449fad4be686628f214663e42d63c42ef7cfa9db689fd"
+  },
+  {
+    "path": "04_索引与逐图标注/L062.json",
+    "bytes": 1487,
+    "sha256": "5b6e815a2cb8e7af49692f2bbf05279f9ca61146dd932c7d2556e2c2fc039652"
+  },
+  {
+    "path": "04_索引与逐图标注/L063.json",
+    "bytes": 1514,
+    "sha256": "d7a08998c38233678cc0907b57ff63ebaba68826e3d3d25def8b84e61d2c0539"
+  },
+  {
+    "path": "04_索引与逐图标注/L064.json",
+    "bytes": 1572,
+    "sha256": "f4d04af252fb3e244f7e2f44554df651215cdb5516517d52e6f8f818ff80472d"
+  },
+  {
+    "path": "04_索引与逐图标注/L065.json",
+    "bytes": 1533,
+    "sha256": "6532150b40362973277889640307838c943bcf946c8150feddeb5f132423dd92"
+  },
+  {
+    "path": "04_索引与逐图标注/L066.json",
+    "bytes": 1529,
+    "sha256": "e8c4b4257200957735f2a91d32ea235a1d3c294bf867653cba9ba9cfa2586a84"
+  },
+  {
+    "path": "04_索引与逐图标注/L067.json",
+    "bytes": 1696,
+    "sha256": "e517b94e2e1f9effe7e39f9c31facedb15774e6a76eb964d59b0490544ecdea2"
+  },
+  {
+    "path": "04_索引与逐图标注/L068.json",
+    "bytes": 1618,
+    "sha256": "e7ec137103b8b8857e307153cfc0650c8dd331d7e55457107608e64f77a45293"
+  },
+  {
+    "path": "04_索引与逐图标注/L069.json",
+    "bytes": 1502,
+    "sha256": "d2439b3a1b93f7fa9f67bf2a48ded7a2c2276d308f292a1f06a6403a3692d802"
+  },
+  {
+    "path": "04_索引与逐图标注/L070.json",
+    "bytes": 1629,
+    "sha256": "e99017008d78335155d35430d1311c71d19c6f4a71e8d2df78531b7fcfb42162"
+  },
+  {
+    "path": "04_索引与逐图标注/L071.json",
+    "bytes": 1667,
+    "sha256": "ad2f4c51a12414dd4c14a9f7eab73113345840ff2c3cdda2269cc1ae1ae338a4"
+  },
+  {
+    "path": "04_索引与逐图标注/L072.json",
+    "bytes": 1621,
+    "sha256": "3fb98bade8c3e02ea77e56fa64d75c877b69337df63cf46dabe5a7b5f9f5072d"
+  },
+  {
+    "path": "04_索引与逐图标注/L073.json",
+    "bytes": 1638,
+    "sha256": "7465943abbbf942b6319591173fa276c53892e53f7c09bdb1c350730ac4ba9ff"
+  },
+  {
+    "path": "04_索引与逐图标注/L074.json",
+    "bytes": 1551,
+    "sha256": "a15fe94bbe65a93a9b5f3c578b0717edc2bf3cbc7ec61d3bf41a43a5ad219d1f"
+  },
+  {
+    "path": "04_索引与逐图标注/L075.json",
+    "bytes": 1519,
+    "sha256": "5281b30bba9173b8d060bb45dbf837abe23638fb6e30e408dde4001fa959dd6d"
+  },
+  {
+    "path": "04_索引与逐图标注/L076.json",
+    "bytes": 1650,
+    "sha256": "d0c6f37babb55e4c2b23a6b57e671a405a486dd5a3ca9af8941562d1601401e0"
+  },
+  {
+    "path": "04_索引与逐图标注/L077.json",
+    "bytes": 1586,
+    "sha256": "dbd5e39ddfb2cd65b550081fdd83be001e8e6fd0671c6251b7a4c852ca3c3f8e"
+  },
+  {
+    "path": "04_索引与逐图标注/L078.json",
+    "bytes": 1617,
+    "sha256": "bd834eb048d047a8f5d918ced75f1263dba2093d8b2656e6c72b5d24d1ca5e22"
+  },
+  {
+    "path": "04_索引与逐图标注/L079.json",
+    "bytes": 1651,
+    "sha256": "868f0d22882ba6dc44e05151def66bca396656e6f06eaf5faae4eb45944756f6"
+  },
+  {
+    "path": "04_索引与逐图标注/L080.json",
+    "bytes": 1497,
+    "sha256": "23b093fd1cd4740f33e3dea540226aedc6ac401f7948d47146db1c47b85ec4de"
+  },
+  {
+    "path": "04_索引与逐图标注/L081.json",
+    "bytes": 1530,
+    "sha256": "3e5298b285461de2b35fbaa08d9ef3065687fc367259e4749aa58ce8952ca250"
+  },
+  {
+    "path": "04_索引与逐图标注/L082.json",
+    "bytes": 1654,
+    "sha256": "9491c0c851ed0ba2c78c1f1cc0ccd448bcae2ef1e5f949ec1ad42515eb808e13"
+  },
+  {
+    "path": "04_索引与逐图标注/L083.json",
+    "bytes": 1586,
+    "sha256": "15122fed18b88f69538665c7862d6ecb31a1c2cbd84a6b398feae5303b3e7643"
+  },
+  {
+    "path": "04_索引与逐图标注/L084.json",
+    "bytes": 1633,
+    "sha256": "fa7a72e061dbd98b7093c794ef8ec86cfe00d456253e160b6dc759417b934ce2"
+  },
+  {
+    "path": "04_索引与逐图标注/L085.json",
+    "bytes": 1572,
+    "sha256": "1bc930f6347284d8f61cf5f2743e5bea6482ffbbddbef49a41172cac017450cd"
+  },
+  {
+    "path": "04_索引与逐图标注/L086.json",
+    "bytes": 1329,
+    "sha256": "7a73927732a28d64a83ad59736f7963c282da92096638ac6589d491483c00ba4"
+  },
+  {
+    "path": "04_索引与逐图标注/L087.json",
+    "bytes": 1395,
+    "sha256": "83dcf728ccd52e865abb5de9f8149e90ae7f7de33ceebdfc6c8e0af458123968"
+  },
+  {
+    "path": "04_索引与逐图标注/L088.json",
+    "bytes": 1395,
+    "sha256": "bee91e88602c99d03404df4863253fb9d36ce32a002d6ee974866d09d39cd14e"
+  },
+  {
+    "path": "04_索引与逐图标注/L089.json",
+    "bytes": 1395,
+    "sha256": "c6ad0e7d5675911585144c6b4ecce65b806af7ab316c2ee3a7bd1042f6c212d2"
+  },
+  {
+    "path": "04_索引与逐图标注/L090.json",
+    "bytes": 1329,
+    "sha256": "5c84bf21d933fe9be8f45ace3ef8b1f610d9e98e3671d0c5265f9cf45e266be2"
+  },
+  {
+    "path": "04_索引与逐图标注/L091.json",
+    "bytes": 1329,
+    "sha256": "3bd5c9df5c1b8e1cd3efa7562f8947b382432878e523d12f9626759cf1ae2384"
+  },
+  {
+    "path": "04_索引与逐图标注/L092.json",
+    "bytes": 1329,
+    "sha256": "c063ebc1ae156b157431cab458a2ebeb7a46efa15916ada161e9d356c17a3d28"
+  },
+  {
+    "path": "04_索引与逐图标注/L093.json",
+    "bytes": 1329,
+    "sha256": "d0b9fe9a9c32548ca86c06bb2389d21d654d97eabff869f5e9f97c66eb053ccd"
+  },
+  {
+    "path": "04_索引与逐图标注/L094.json",
+    "bytes": 1329,
+    "sha256": "7567bd7fd795e2f7057bbb9c64cfcadfa262af9cd6112b47844aa2a966217d7e"
+  },
+  {
+    "path": "04_索引与逐图标注/L095.json",
+    "bytes": 1329,
+    "sha256": "4a01d3f73562b77f630d85fbdc41427c56555debb5b4065a2db1c405d0b14f83"
+  },
+  {
+    "path": "04_索引与逐图标注/L096.json",
+    "bytes": 1319,
+    "sha256": "e260b02455b3ed8609d2a0d75689faeb72ce547f569fc1abe91128967606a382"
+  },
+  {
+    "path": "04_索引与逐图标注/L097.json",
+    "bytes": 1319,
+    "sha256": "d9225ba953fce870616f4e1a7f1081dff8a0841e777651246e61a2b7b11c6dcb"
+  },
+  {
+    "path": "04_索引与逐图标注/L098.json",
+    "bytes": 1319,
+    "sha256": "b00656c682eab29d86f709bbeac91ab409e90040f2525d252a20366011dee5bf"
+  },
+  {
+    "path": "04_索引与逐图标注/L099.json",
+    "bytes": 1319,
+    "sha256": "280b1e9fc54e0ce6fb3eeac8c9d388e255361299fb150af8d16d725826ae6e01"
+  },
+  {
+    "path": "04_索引与逐图标注/L100.json",
+    "bytes": 1329,
+    "sha256": "70f4e70cb6aa1e87b06f400a5f14b9fce281cef355cf07d27bd92dc88c435bf9"
+  },
+  {
+    "path": "04_索引与逐图标注/L101.json",
+    "bytes": 1330,
+    "sha256": "bdc94a7b8193ca6375470fdcc29e5da85b7ba52fd4e7ab704bec24069502911f"
+  },
+  {
+    "path": "04_索引与逐图标注/L102.json",
+    "bytes": 1370,
+    "sha256": "b0bfe748abe5ad7b2a8f4fb0583da42d446e7b4b30ca222a7379d8b6892b48e3"
+  },
+  {
+    "path": "04_索引与逐图标注/L103.json",
+    "bytes": 1368,
+    "sha256": "f1cb61b686513d0c9cca03a3708c6085418f061ace2c61f46d546f7352822dbd"
+  },
+  {
+    "path": "04_索引与逐图标注/L104.json",
+    "bytes": 1303,
+    "sha256": "294aba4414e626e792bbb4dfdbed79452f8bfe86dc52992de7a4abda1873fcfe"
+  },
+  {
+    "path": "04_索引与逐图标注/L105.json",
+    "bytes": 1329,
+    "sha256": "18501a1a695f4f075cc81dd5110e04df8e864ea9e52d8c683ab72d055cf55512"
+  },
+  {
+    "path": "04_索引与逐图标注/L106.json",
+    "bytes": 1329,
+    "sha256": "1f672d52ee888a81b3e2fee58cb83b49d1a43ec6c5ecd4df660056908665b772"
+  },
+  {
+    "path": "04_索引与逐图标注/L107.json",
+    "bytes": 1329,
+    "sha256": "d187d0028a013ebf11b4e03917f13aa8972d6b5e4f7a3b098d4f2395b9afc628"
+  },
+  {
+    "path": "04_索引与逐图标注/L108.json",
+    "bytes": 1328,
+    "sha256": "9f60241e6a8a46204ba7c07805d4c14234b64892593d8a604c0b92ce4ad0d82b"
+  },
+  {
+    "path": "04_索引与逐图标注/L109.json",
+    "bytes": 1548,
+    "sha256": "3a5c3adc6616090b3932bbef3df6de973d7725fc98b4bb1bb67d4444b34be209"
+  },
+  {
+    "path": "04_索引与逐图标注/L110.json",
+    "bytes": 1634,
+    "sha256": "e697578ddb5413a7d3364e12ce65149fc209f3539d063dc160b918b6786c616a"
+  },
+  {
+    "path": "04_索引与逐图标注/L111.json",
+    "bytes": 1588,
+    "sha256": "b985f70ef3729ac027f83358b479f0d6d1427fd665dfc9024dc99ff748d8d6a9"
+  },
+  {
+    "path": "04_索引与逐图标注/L112.json",
+    "bytes": 1607,
+    "sha256": "2b5fde5f37bd8ada63b4cb1b35f0be25e8149c0ef4cde6a980dcb462a65f39ac"
+  },
+  {
+    "path": "04_索引与逐图标注/L113.json",
+    "bytes": 1520,
+    "sha256": "bbf866ac5a8e3829b5b11a7a7ddb82e4e07e4df48d05ab9442b153350ee54a65"
+  },
+  {
+    "path": "04_索引与逐图标注/L114.json",
+    "bytes": 1513,
+    "sha256": "8f16f5ddf5bd743b94cface42248f5f371e399f20dcd4e5e273b944f5fdbab92"
+  },
+  {
+    "path": "04_索引与逐图标注/L115.json",
+    "bytes": 1541,
+    "sha256": "4dec37486e687176b43e54f2f13dbb9143335f706a36bc60548c49f65661c702"
+  },
+  {
+    "path": "04_索引与逐图标注/L116.json",
+    "bytes": 1512,
+    "sha256": "0fb4ea7a2b910eacd931427f3036be226774cdece605e1e6bc9e91845ecfb40a"
+  },
+  {
+    "path": "04_索引与逐图标注/L117.json",
+    "bytes": 1505,
+    "sha256": "c109ac8ceeb02982c90dfefecb383ee4efbd9904e8948b50c60330ed87186f0b"
+  },
+  {
+    "path": "04_索引与逐图标注/O001.json",
+    "bytes": 607,
+    "sha256": "17910013195b13bd4f1a34a92637e0d20ff4a1fd4e3ecd6bb287f3ccddc31708"
+  },
+  {
+    "path": "04_索引与逐图标注/O002.json",
+    "bytes": 591,
+    "sha256": "6fa8aa98e2c816fe7602e1020bc3c3129551629cff963edf4759c694be5b98e0"
+  },
+  {
+    "path": "04_索引与逐图标注/O003.json",
+    "bytes": 564,
+    "sha256": "570ae8958a8e918105e906cf8505eb50e44fbec43c33cb9daeb6bdfe11dcb3e0"
+  },
+  {
+    "path": "04_索引与逐图标注/O004.json",
+    "bytes": 560,
+    "sha256": "a2015f15f907a1aa4515d180c3a59aec4fe09bc2a87911c68bde86521b570ca8"
+  },
+  {
+    "path": "04_索引与逐图标注/O005.json",
+    "bytes": 587,
+    "sha256": "cd2335ecee265a8fbb8bc076a44c84296bd717c84fe4f8b2f1042d8a1cfb64d2"
+  },
+  {
+    "path": "04_索引与逐图标注/全部图片索引.csv",
+    "bytes": 45020,
+    "sha256": "16c28e5f024c83d5e157d228a2aa2c636df470b0fe3ba7b38ddd9e111e79a8ce"
+  },
+  {
+    "path": "04_索引与逐图标注/全部图片索引.json",
+    "bytes": 199472,
+    "sha256": "22259775b599a262cda375c25daf01105271c87df91498fd545071ad7ed96f45"
+  },
+  {
+    "path": "05_带说明参考图/L001.jpg",
+    "bytes": 365965,
+    "sha256": "d69d6a3edb74dd47b1ecf7448e02382bce3308035a1d17699d548bcff1c24f0c"
+  },
+  {
+    "path": "05_带说明参考图/L002.jpg",
+    "bytes": 175956,
+    "sha256": "7fc90743394aa35caa26406c98cb816831b55d0f89a5613615cf91f21b83f420"
+  },
+  {
+    "path": "05_带说明参考图/L003.jpg",
+    "bytes": 349421,
+    "sha256": "4f2f332f7769f51255cb6f8a6022584e756e073a7a11842992b730a8a60bfc42"
+  },
+  {
+    "path": "05_带说明参考图/L004.jpg",
+    "bytes": 291315,
+    "sha256": "26038d9c49b38da2f4d5a772941084cc7f7dd2080766f4bc93d006705840c9c1"
+  },
+  {
+    "path": "05_带说明参考图/L005.jpg",
+    "bytes": 298099,
+    "sha256": "0ce77ffa36169faf2e5d541422d046b4f5f76df46db3a3783d10b250756eebdd"
+  },
+  {
+    "path": "05_带说明参考图/L006.jpg",
+    "bytes": 439168,
+    "sha256": "32b221ec95d1c7ebf9f6dfed8e6f13c5b80bd93684f8885802379f06a4cb1a4a"
+  },
+  {
+    "path": "05_带说明参考图/L007.jpg",
+    "bytes": 534312,
+    "sha256": "11189ffa85a4812e06671090eab02e49ad30cbbdfa177a9983fbb817290e5c3c"
+  },
+  {
+    "path": "05_带说明参考图/L008.jpg",
+    "bytes": 677894,
+    "sha256": "27139d143349525937184faeadbbd4405434b623e99925c449756355b4e07a75"
+  },
+  {
+    "path": "05_带说明参考图/L009.jpg",
+    "bytes": 324123,
+    "sha256": "3a85884e2e4ab90d51d1d92f81da3e054ba026718ddb5295cc74fe103489f55d"
+  },
+  {
+    "path": "05_带说明参考图/L010.jpg",
+    "bytes": 510812,
+    "sha256": "4f511d93f23760f9a150c8ea0b89d1ff298d4af91fc11f77d6f8fdcdea3627de"
+  },
+  {
+    "path": "05_带说明参考图/L011.jpg",
+    "bytes": 228559,
+    "sha256": "c8ee449a59874734e4be5c594de52c479602d594f92ef3a72788dbbc0e58f32f"
+  },
+  {
+    "path": "05_带说明参考图/L012.jpg",
+    "bytes": 251939,
+    "sha256": "bd5775e0ff1beaa44ca5b2586cd0d5a77eff98d919ecfc96c7c639dd4378c3d2"
+  },
+  {
+    "path": "05_带说明参考图/L013.jpg",
+    "bytes": 335949,
+    "sha256": "1f677d7e2307412e75204acd5cb8d3007804f273184780b394239d20c6a5b1ec"
+  },
+  {
+    "path": "05_带说明参考图/L014.jpg",
+    "bytes": 403982,
+    "sha256": "1619760646772db94ed0d5ae7ee081d20697d60a93717d76cbc8bcabbcbc45ee"
+  },
+  {
+    "path": "05_带说明参考图/L015.jpg",
+    "bytes": 187469,
+    "sha256": "7dbbbf1de5f36932c08850f27d37736f27284b13de921ab982e8ee082f195edb"
+  },
+  {
+    "path": "05_带说明参考图/L016.jpg",
+    "bytes": 314904,
+    "sha256": "a78211c707cff6032c14b08dd97a0757381db272b23fcea93716e00bfca8c052"
+  },
+  {
+    "path": "05_带说明参考图/L017.jpg",
+    "bytes": 432100,
+    "sha256": "59800ca59c232d7fb9b323f6b7b76a040ff8822524c50f3c0f1e50a1da11bf9e"
+  },
+  {
+    "path": "05_带说明参考图/L018.jpg",
+    "bytes": 330594,
+    "sha256": "5f00acd46fb1d75633200eaf19287b9bdf277c68ebb2a0fda776f88db16ad575"
+  },
+  {
+    "path": "05_带说明参考图/L019.jpg",
+    "bytes": 238705,
+    "sha256": "8d5bbdb5ef73f7a7833bef1549b9bb6e93488e2d95e53fbbb334ee04f7230253"
+  },
+  {
+    "path": "05_带说明参考图/L020.jpg",
+    "bytes": 233510,
+    "sha256": "bbc606bc84a6a65dea1699d3db219a5de472494a9eb144deb35a9007989405d5"
+  },
+  {
+    "path": "05_带说明参考图/L021.jpg",
+    "bytes": 234491,
+    "sha256": "14116d14eb16f5b7ead98be69fd573e8843d0a53969c7c8499cd70ec15a0a0fa"
+  },
+  {
+    "path": "05_带说明参考图/L022.jpg",
+    "bytes": 258125,
+    "sha256": "67cd5ab5aae9abc3c6bf14af420a5ec923419f0d151dcfde408a44b4489388dc"
+  },
+  {
+    "path": "05_带说明参考图/L023.jpg",
+    "bytes": 314260,
+    "sha256": "c9a918cf566066abce8b0b7df8ea35f7253c35f44d8fc56889173007bf4c497d"
+  },
+  {
+    "path": "05_带说明参考图/L024.jpg",
+    "bytes": 159497,
+    "sha256": "f605bd311b82a88e9d707f7200d195f4931bd8c9ac4a247c5590ed0200e44941"
+  },
+  {
+    "path": "05_带说明参考图/L025.jpg",
+    "bytes": 301081,
+    "sha256": "fd63ef406733456ea2d5d713723fdf1e2d388e56fdc53cda374a850e23e9132d"
+  },
+  {
+    "path": "05_带说明参考图/L026.jpg",
+    "bytes": 236206,
+    "sha256": "d4ad90f57fc035739213b18c57c86dcaa6e2723b4546060975ac38bde87464a8"
+  },
+  {
+    "path": "05_带说明参考图/L027.jpg",
+    "bytes": 214263,
+    "sha256": "154aeb5a839f7e1d9de3cd27936cb435e40843a49a919066c3cfb8ccdb21c1d0"
+  },
+  {
+    "path": "05_带说明参考图/L028.jpg",
+    "bytes": 280484,
+    "sha256": "8b4af7a4a4515b4d0c8b055a85822de2323c359da272f92b9f426960b33bbdb5"
+  },
+  {
+    "path": "05_带说明参考图/L029.jpg",
+    "bytes": 142802,
+    "sha256": "1492e1d5f8af78425f42fcf950962ae2ca83a626ae8ce39566e11b91fc7eefcf"
+  },
+  {
+    "path": "05_带说明参考图/L030.jpg",
+    "bytes": 180129,
+    "sha256": "5bf5b896fc3e4c57d3c7547c2030ae1540a7f9aa95b4fba6c3c163c1b5b32542"
+  },
+  {
+    "path": "05_带说明参考图/L031.jpg",
+    "bytes": 296814,
+    "sha256": "90c8d33dd7143c43793b9002ca3e85de47a86554a3bdaa34a9459925394ff378"
+  },
+  {
+    "path": "05_带说明参考图/L032.jpg",
+    "bytes": 243616,
+    "sha256": "bae33ee5b78f71cc8c164477bd0861989b630c1b4b3e7b38e2c4aeb504611c6f"
+  },
+  {
+    "path": "05_带说明参考图/L033.jpg",
+    "bytes": 207013,
+    "sha256": "d601300562053296e54e082895107c44d4709c3d3fdb1ec4c1e80b01839f0c72"
+  },
+  {
+    "path": "05_带说明参考图/L034.jpg",
+    "bytes": 229274,
+    "sha256": "dad91360d373f6968270b978a354f8ac6d0147db6511666fd4a81bd44c994f98"
+  },
+  {
+    "path": "05_带说明参考图/L035.jpg",
+    "bytes": 188579,
+    "sha256": "fcf726f1f45b0a88190c0b4192caf873be9868b4f4a529409ee3fa95e64df0f7"
+  },
+  {
+    "path": "05_带说明参考图/L036.jpg",
+    "bytes": 209956,
+    "sha256": "71e99e69a8812afbc6bf39ae477b237247a37c6e492a345d27c02ced911ac31a"
+  },
+  {
+    "path": "05_带说明参考图/L037.jpg",
+    "bytes": 693551,
+    "sha256": "d6073c02d925a952528fee78fdee9c210eaf088558c35808269ef2f55aad9cd4"
+  },
+  {
+    "path": "05_带说明参考图/L038.jpg",
+    "bytes": 610124,
+    "sha256": "578c01aedfc7cc4dcab6306293f2d833e001af6660cce9f0e70ef97435b1843a"
+  },
+  {
+    "path": "05_带说明参考图/L039.jpg",
+    "bytes": 590589,
+    "sha256": "79a3d81050d62f0b1409f5f52e7fb1638f35b336c89e8da080aef1a588c6ef45"
+  },
+  {
+    "path": "05_带说明参考图/L040.jpg",
+    "bytes": 495260,
+    "sha256": "e127ad10328f689128a71abae6ad49e091c33c06edf1637f0c6a0e54d5329444"
+  },
+  {
+    "path": "05_带说明参考图/L041.jpg",
+    "bytes": 274116,
+    "sha256": "e8b62940f82fef2f4788d844bed389a112a830e32de399fe110f97542d0e579d"
+  },
+  {
+    "path": "05_带说明参考图/L042.jpg",
+    "bytes": 297809,
+    "sha256": "20d697e469189e878d37501d227dbba36ce6a9b7f85cf949b4ef0fc0fcf62dde"
+  },
+  {
+    "path": "05_带说明参考图/L043.jpg",
+    "bytes": 328512,
+    "sha256": "40af923e45b4ed0497f71d16186d99b780d7fbf879eb3d14db2d6d63ce8bfc73"
+  },
+  {
+    "path": "05_带说明参考图/L044.jpg",
+    "bytes": 397391,
+    "sha256": "acb0db64eb94a9b2fabc97df6a263649a8d0285e25910f71c8db67bce98fb76d"
+  },
+  {
+    "path": "05_带说明参考图/L045.jpg",
+    "bytes": 351750,
+    "sha256": "2eaecbe59e0855a018340f96d3b1a91b2c3912945817330e2f238bc357ccc892"
+  },
+  {
+    "path": "05_带说明参考图/L046.jpg",
+    "bytes": 240085,
+    "sha256": "3be857b2620d9d242a95ebe04da9d9edcb59c9917331214a3edf49e33652f65e"
+  },
+  {
+    "path": "05_带说明参考图/L047.jpg",
+    "bytes": 270523,
+    "sha256": "4a23f461bd58831a0cd5224380be46f05744ca6e64633ab59757b15a77ea856f"
+  },
+  {
+    "path": "05_带说明参考图/L048.jpg",
+    "bytes": 292739,
+    "sha256": "d642a3c2218d68a44165b7e617e8ff25ed53f7715f5e424798669eaed2806910"
+  },
+  {
+    "path": "05_带说明参考图/L049.jpg",
+    "bytes": 226055,
+    "sha256": "16774434eb51cba808194c6b7751ffa8ca7687aa1588f2e6a0fac1262c84421e"
+  },
+  {
+    "path": "05_带说明参考图/L050.jpg",
+    "bytes": 426749,
+    "sha256": "06666179151f2115209cc1be6db9a32a7f2bd4c4292b042c04881065d4f6af0f"
+  },
+  {
+    "path": "05_带说明参考图/L051.jpg",
+    "bytes": 480726,
+    "sha256": "92e289a8dc838a3ef45230b10e3444baae070004e056da35feae25d97022ea4c"
+  },
+  {
+    "path": "05_带说明参考图/L052.jpg",
+    "bytes": 579295,
+    "sha256": "d2c6ae4792629ce4ac10495246e1f2170168562e62357cf09b7a276f83661b9b"
+  },
+  {
+    "path": "05_带说明参考图/L053.jpg",
+    "bytes": 225780,
+    "sha256": "5d00f9757c4cabfee639975fa2fce4f90d3681561f11fb0e306b8cb1285f0940"
+  },
+  {
+    "path": "05_带说明参考图/L054.jpg",
+    "bytes": 135406,
+    "sha256": "641e3f57daad1741f634f01695499b011d5fb81da203cf3af17b14043f32000c"
+  },
+  {
+    "path": "05_带说明参考图/L055.jpg",
+    "bytes": 167232,
+    "sha256": "3f0589d670bf731d2b73c3c81a05ad27e7cfaa502d6a1548d6905729da4b45c3"
+  },
+  {
+    "path": "05_带说明参考图/L056.jpg",
+    "bytes": 264890,
+    "sha256": "ed8cff202093cfabd06cbe88a15572d1b2af64df3a82635e7b6627ce77208ab8"
+  },
+  {
+    "path": "05_带说明参考图/L057.jpg",
+    "bytes": 206476,
+    "sha256": "28d352da8d41f12e75d1cabdb9d8156b74e5c34bb3e452b9df69323621b26efc"
+  },
+  {
+    "path": "05_带说明参考图/L058.jpg",
+    "bytes": 586738,
+    "sha256": "4bdecaa97de2bbed794906ba7f5b2c76bd155050cfa017798a6e0c55ae24c3f4"
+  },
+  {
+    "path": "05_带说明参考图/L059.jpg",
+    "bytes": 467362,
+    "sha256": "a1862e1c01558d3da947d02f9da826347720aa9d8e58ff28733240eda50914aa"
+  },
+  {
+    "path": "05_带说明参考图/L060.jpg",
+    "bytes": 181531,
+    "sha256": "864a533f91a7c5db0b6ded40273244ee6217e0456c7f9581d17cd950c8245ee9"
+  },
+  {
+    "path": "05_带说明参考图/L061.jpg",
+    "bytes": 551756,
+    "sha256": "76c218fc2f2e36926cd137e4d2728e807aec8dfc7d97ed97509d35fb5ce95246"
+  },
+  {
+    "path": "05_带说明参考图/L062.jpg",
+    "bytes": 316687,
+    "sha256": "ec377774d90414c453933129176eb1cc6f33606c812cbbb38f06d6f8162b3d94"
+  },
+  {
+    "path": "05_带说明参考图/L063.jpg",
+    "bytes": 482444,
+    "sha256": "39acfbca63bbab36bf1a794d6c4a12be544797779f364eb601f8a88e10396e95"
+  },
+  {
+    "path": "05_带说明参考图/L064.jpg",
+    "bytes": 311695,
+    "sha256": "10f4a1fb1fc8da18c0a7990cd1ccd23986cacaffa2f1a525dc549b1f2aa4395a"
+  },
+  {
+    "path": "05_带说明参考图/L065.jpg",
+    "bytes": 289420,
+    "sha256": "0100f1f07609f8ea7ad16e6987ee3953fb54846b937f708a68869ef3ac798325"
+  },
+  {
+    "path": "05_带说明参考图/L066.jpg",
+    "bytes": 438439,
+    "sha256": "f59f689ee905bbf54d3451cada8630c46ff6966ac36cc99e53e11142eafd887a"
+  },
+  {
+    "path": "05_带说明参考图/L067.jpg",
+    "bytes": 206770,
+    "sha256": "d5aa1aa92c3f88ea994600d68481a85b7a8e137d3b20096443dcdab7d17677fa"
+  },
+  {
+    "path": "05_带说明参考图/L068.jpg",
+    "bytes": 412536,
+    "sha256": "3621689bbd868c592b36f9fbb08551adb17dba61ea723198e4566958727600e4"
+  },
+  {
+    "path": "05_带说明参考图/L069.jpg",
+    "bytes": 565715,
+    "sha256": "c899afb2076cde9526123478cb0c377642f2c88b49b18d4b1b0c1505f1751af4"
+  },
+  {
+    "path": "05_带说明参考图/L070.jpg",
+    "bytes": 376641,
+    "sha256": "910f6ac69fc043e9fc25d101cd90468ef40d6758f6b31a09c30c4e2e0f546c32"
+  },
+  {
+    "path": "05_带说明参考图/L071.jpg",
+    "bytes": 236908,
+    "sha256": "fcd3c601e6c7cb7fd40e01e4d637610c2148e83d8c1f2d3a28762a442a9f2fb1"
+  },
+  {
+    "path": "05_带说明参考图/L072.jpg",
+    "bytes": 461560,
+    "sha256": "c95a68b33aab0d736728df6ba76ce351080be5c554a4a17f0f82266a16dc48a6"
+  },
+  {
+    "path": "05_带说明参考图/L073.jpg",
+    "bytes": 377714,
+    "sha256": "70244369d90c7bca1948b43ef3b0381a59cfb111511c144835ea28d637f0eb3a"
+  },
+  {
+    "path": "05_带说明参考图/L074.jpg",
+    "bytes": 378116,
+    "sha256": "109e0d1ce4c51054c9e74962cd6fc9e7910c8c0bd0c16a1997b10d59ebc21eb7"
+  },
+  {
+    "path": "05_带说明参考图/L075.jpg",
+    "bytes": 577182,
+    "sha256": "20e0ed9e01a15150b4ce7d9d03f0442367342e570e4aa289d5a2943da18a9b02"
+  },
+  {
+    "path": "05_带说明参考图/L076.jpg",
+    "bytes": 330523,
+    "sha256": "0a8f040a986a360b17fa63e045a752a2ecf96c35989c68e6e3dce6405a097c57"
+  },
+  {
+    "path": "05_带说明参考图/L077.jpg",
+    "bytes": 223587,
+    "sha256": "d7f369965d3fca57ec2242b3763276c9819e7040cac9aa0c46ed7741b5de0d05"
+  },
+  {
+    "path": "05_带说明参考图/L078.jpg",
+    "bytes": 415329,
+    "sha256": "487dfd36411fc11e63d5af1f02433c50a02dac77d95583167c9dc5ef516e259e"
+  },
+  {
+    "path": "05_带说明参考图/L079.jpg",
+    "bytes": 254383,
+    "sha256": "4fe700bd6fdeb06d38163b60c96bc41c3d41b95d97dea9d414a09062ded36b68"
+  },
+  {
+    "path": "05_带说明参考图/L080.jpg",
+    "bytes": 334617,
+    "sha256": "1a5fb251382a7b06da17838950a2c929beda81cf5feefd5cbee1c9eefe3b0d11"
+  },
+  {
+    "path": "05_带说明参考图/L081.jpg",
+    "bytes": 186273,
+    "sha256": "5bb3fcdae6ffd326c728fa273c650413ee5ea80cc9d3869a1dcdbdbb946805c5"
+  },
+  {
+    "path": "05_带说明参考图/L082.jpg",
+    "bytes": 419033,
+    "sha256": "29472732e8cdc4bb48eddce24670dd051001d5849e6b09f25e476526629b3037"
+  },
+  {
+    "path": "05_带说明参考图/L083.jpg",
+    "bytes": 324859,
+    "sha256": "4b1202ea57981222ffea71f7620e2ab8ec8e1868f86e9d200310aa0260a86617"
+  },
+  {
+    "path": "05_带说明参考图/L084.jpg",
+    "bytes": 237019,
+    "sha256": "fa155602a608149b653e482977f31ff78b4b6ce840bb7c86f02f72b6bcfef44b"
+  },
+  {
+    "path": "05_带说明参考图/L085.jpg",
+    "bytes": 305085,
+    "sha256": "268fda2d719dfc9fdc9515f58ad61459abe72298a667b10a58ad5691068e63fa"
+  },
+  {
+    "path": "05_带说明参考图/L086.jpg",
+    "bytes": 218497,
+    "sha256": "25eb49eaab5ee3328f59bab4c417d7d04cd4ac7dd1826d1be2919bdbd2f06747"
+  },
+  {
+    "path": "05_带说明参考图/L087.jpg",
+    "bytes": 293999,
+    "sha256": "81e4c260541538d22d9f65b8ee42e93c51a5fc6716b815164a0082a1c1673ef9"
+  },
+  {
+    "path": "05_带说明参考图/L088.jpg",
+    "bytes": 206198,
+    "sha256": "1bc3c82ced9a60c282f19a4781b94475c7a7140c88f208582fbc27d8b253d5b6"
+  },
+  {
+    "path": "05_带说明参考图/L089.jpg",
+    "bytes": 367983,
+    "sha256": "d0746e778d40dee0dfdf322990b3b5813c1bbbcef29743dce670e33c8be8726d"
+  },
+  {
+    "path": "05_带说明参考图/L090.jpg",
+    "bytes": 136478,
+    "sha256": "42d28980e774e3a89e88396bb78380774e102d5f2377eaa3eb2b169880863f13"
+  },
+  {
+    "path": "05_带说明参考图/L091.jpg",
+    "bytes": 333598,
+    "sha256": "f88d8563c65a12e3a98aa401c14bf9cce788738c78d1ba580bad887cd1fa8da7"
+  },
+  {
+    "path": "05_带说明参考图/L092.jpg",
+    "bytes": 247601,
+    "sha256": "7617e866eed80ab8394473095c62927a8d51d7152c26e2096c163e478147dc4f"
+  },
+  {
+    "path": "05_带说明参考图/L093.jpg",
+    "bytes": 252035,
+    "sha256": "6571448bea16ea5b704d04979951458479cb08de0fe4306f76113400f1a58fee"
+  },
+  {
+    "path": "05_带说明参考图/L094.jpg",
+    "bytes": 320943,
+    "sha256": "aeefe7c6a382ad6dd8edbb9c425e4984abfd08d0c96d478c82cedfaa25fac275"
+  },
+  {
+    "path": "05_带说明参考图/L095.jpg",
+    "bytes": 169854,
+    "sha256": "fdb08426198c6114aef81a46f021d0c2fa613b6b1c5646818176a8586eb3c208"
+  },
+  {
+    "path": "05_带说明参考图/L096.jpg",
+    "bytes": 218532,
+    "sha256": "aa02af24f2414a255ec57905961b65ecd549e3c91a81aa61bb2bdeb5576546bb"
+  },
+  {
+    "path": "05_带说明参考图/L097.jpg",
+    "bytes": 245948,
+    "sha256": "89fce1142c146138390b3c6008f74237dba66e88855705ac1b883a37f7dada90"
+  },
+  {
+    "path": "05_带说明参考图/L098.jpg",
+    "bytes": 296499,
+    "sha256": "a29eba2eb362b457545deb2480a37def3b86163ad516edad7203dc6a08f73c8f"
+  },
+  {
+    "path": "05_带说明参考图/L099.jpg",
+    "bytes": 148818,
+    "sha256": "1517a98d1b33c851f57a916ca66baf46d3d505fce845f5f819f9f6c44a919dfc"
+  },
+  {
+    "path": "05_带说明参考图/L100.jpg",
+    "bytes": 228053,
+    "sha256": "9d4bbf1feb0861d0b5a174be83fe14e247b72c45115d6a30918a753da4da58c9"
+  },
+  {
+    "path": "05_带说明参考图/L101.jpg",
+    "bytes": 264233,
+    "sha256": "bd17cd581b0206f854cd522daa79355f45f15e66493d35de617212cff5d67d94"
+  },
+  {
+    "path": "05_带说明参考图/L102.jpg",
+    "bytes": 260640,
+    "sha256": "73aaa70c18e9c6181149342701f57b7494842a4fe62823c1af605848f7d7001a"
+  },
+  {
+    "path": "05_带说明参考图/L103.jpg",
+    "bytes": 235684,
+    "sha256": "6d1754c39f4dca8a5795e0da728eb9d0e6a5fa7c616163a7e18ff87eb6862b7d"
+  },
+  {
+    "path": "05_带说明参考图/L104.jpg",
+    "bytes": 257546,
+    "sha256": "15e1b56dd2a43cebe49109eda0e4a4537677fe86eabed6f934f759838c30ce74"
+  },
+  {
+    "path": "05_带说明参考图/L105.jpg",
+    "bytes": 278365,
+    "sha256": "05137a1dda1bb490eefc3bf83fecd13a0643fe9212b0125189220f95ceaf101f"
+  },
+  {
+    "path": "05_带说明参考图/L106.jpg",
+    "bytes": 196256,
+    "sha256": "ee294f08f6119ff2cc58c1486afbcc800d68780b59cbf1d3d1f8e3220d7c0783"
+  },
+  {
+    "path": "05_带说明参考图/L107.jpg",
+    "bytes": 299159,
+    "sha256": "cc367992e44ed29d7e99debc48923c94451461acd0130a9b7e7f16ec9654c5b0"
+  },
+  {
+    "path": "05_带说明参考图/L108.jpg",
+    "bytes": 245685,
+    "sha256": "7094b3bf32fac11b2da4ea45da8f7c5897fd5467ea99fd89cd96a91a4c518252"
+  },
+  {
+    "path": "05_带说明参考图/L109.jpg",
+    "bytes": 291992,
+    "sha256": "63bfdee971820bdb495d3d05d324f04ac9994b9b06a37bb9c4d9efc84bb0b658"
+  },
+  {
+    "path": "05_带说明参考图/L110.jpg",
+    "bytes": 384665,
+    "sha256": "a571ac78e25cd61d5a0ed4fc90a9d23e48c5af4c73c55cae39a3101447131429"
+  },
+  {
+    "path": "05_带说明参考图/L111.jpg",
+    "bytes": 287087,
+    "sha256": "978874ddce08e6fe356116ea58587fd9be45388d02d683e75726965bae6e6737"
+  },
+  {
+    "path": "05_带说明参考图/L112.jpg",
+    "bytes": 253150,
+    "sha256": "831f3b45c57db1357f7c750cf9368336e231a5b0b76ad4a2fd0f277db9e73a5e"
+  },
+  {
+    "path": "05_带说明参考图/L113.jpg",
+    "bytes": 242993,
+    "sha256": "cbf636c232a0bd2bbd794663badcc01cbd32b54b4a01b4cfd9c929adfcc3dafc"
+  },
+  {
+    "path": "05_带说明参考图/L114.jpg",
+    "bytes": 328494,
+    "sha256": "4ddc30e5af5071cf8aa807792d59d68e32bcd389c15ee7bd296552155b42ed6f"
+  },
+  {
+    "path": "05_带说明参考图/L115.jpg",
+    "bytes": 270568,
+    "sha256": "ca93fa8d506f5679c31aed4b2a3a03032aafe24f6f80938ad79c9fb8dbf28b44"
+  },
+  {
+    "path": "05_带说明参考图/L116.jpg",
+    "bytes": 243603,
+    "sha256": "99044353ccce51233d3994ec5e84fd39a03ae5849a512ecee6b154d97bcf96c6"
+  },
+  {
+    "path": "05_带说明参考图/L117.jpg",
+    "bytes": 284477,
+    "sha256": "b134e2c4ec8316b0ac72d0653a7149b5b9918e3376385eb37791a5ac0e44b43d"
+  },
+  {
+    "path": "05_带说明参考图/O001.jpg",
+    "bytes": 166363,
+    "sha256": "d416fe2176cddfbc78f9cb619dc606a204fb0d3534314b6d172c1dfb06575a83"
+  },
+  {
+    "path": "05_带说明参考图/O002.jpg",
+    "bytes": 299591,
+    "sha256": "ecad989c74dd5c161350796406df314ccd213d73d4a397f5c7e3cce1d8745391"
+  },
+  {
+    "path": "05_带说明参考图/O003.jpg",
+    "bytes": 295679,
+    "sha256": "a4dc1cacfb0aebc92391442485253cd3260d5caf452054a6b6c56b6e18653095"
+  },
+  {
+    "path": "05_带说明参考图/O004.jpg",
+    "bytes": 111835,
+    "sha256": "a690aa0faa2bfa4a7f962add61e20e65aca4aea492b1f4aa26524e468dfbb5d5"
+  },
+  {
+    "path": "05_带说明参考图/O005.jpg",
+    "bytes": 235630,
+    "sha256": "63956888f4463b980a12e57757607d80aaa3ba35983741228641f2048eb2afe9"
+  }
+]

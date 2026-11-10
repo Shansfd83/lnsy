@@ -1,0 +1,43 @@
+{
+  "title": "桃花 · 帧051",
+  "alt": "",
+  "url": "https://cdn.lnsylight.cn/imported/photos/series-3/051-a508c1f174512f6b.webp",
+  "photo_page": "https://lnsylight.cn/photo/series-3/frame/051",
+  "source_page": "https://lnsylight.cn/photo/series-3/frame/051",
+  "group": "地标关联组照",
+  "groups": [
+    "地标关联组照"
+  ],
+  "frame_id": "051",
+  "parent_slug": "series-3",
+  "id": "L105",
+  "file": "02_实验光影_建筑与地标/105_series-3_frame_051.webp",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 372266,
+  "sha256": "a731275629e441b8faf055c3b2c5fe8627f34e5d28db11ecb158c99f4a0a0543",
+  "description": "",
+  "landmarks": [],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-04-09",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/320",
+    "aperture": "f/6.3",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF-S55-250mm f/4-5.6 IS STM"
+  },
+  "campus_point": {
+    "lat": 41.832788,
+    "lon": 123.415775
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": null,
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

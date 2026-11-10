@@ -1,0 +1,46 @@
+{
+  "title": "通道人流",
+  "alt": "狭窄通道里行人来往，光从一侧照进来",
+  "url": "https://cdn.lnsylight.cn/imported/photos/alleyway-pedestrians/alleyway-pedestrians-9960069538895f2b.webp",
+  "photo_page": "https://lnsylight.cn/photo/alleyway-pedestrians",
+  "group": "高三楼",
+  "source_page": "https://lnsylight.cn/photo/alleyway-pedestrians",
+  "groups": [
+    "高三楼"
+  ],
+  "id": "L033",
+  "file": "02_实验光影_建筑与地标/033_alleyway-pedestrians.webp",
+  "width": 1600,
+  "height": 2400,
+  "bytes": 573076,
+  "sha256": "4e43394b4139139cef360168456e95eac28887af5337a6479a89b39743853be2",
+  "description": "狭窄通道里行人来往，光从一侧照进来。亮处和暗处交替出现，让每个经过的人都像短暂进入了画面。",
+  "landmarks": [
+    "高三楼"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-02-01",
+  "camera_parameters": {
+    "iso": null,
+    "shutter": null,
+    "aperture": null,
+    "location": null,
+    "camera": null,
+    "lens": null
+  },
+  "campus_point": {
+    "lat": 41.833228,
+    "lon": 123.415299
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.4593672636733552,
+    "y": 0.29188255385766526
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

@@ -1,0 +1,47 @@
+{
+  "title": "庄重与诗篇",
+  "alt": "正午的主教学楼大厅里，窗光在地面投下完全对称的光影",
+  "url": "https://cdn.lnsylight.cn/imported/photos/hall-symmetric-light/hall-symmetric-light-d74d06938be1dddb.webp",
+  "photo_page": "https://lnsylight.cn/photo/hall-symmetric-light",
+  "group": "主教学楼",
+  "source_page": "https://lnsylight.cn/photo/hall-symmetric-light",
+  "groups": [
+    "主教学楼",
+    "建筑主题"
+  ],
+  "id": "L018",
+  "file": "02_实验光影_建筑与地标/018_hall-symmetric-light.webp",
+  "width": 2400,
+  "height": 1601,
+  "bytes": 526098,
+  "sha256": "08f39a57f4f10490da3ec74605a550d728093cc5410bf89f8fb9f04efafc20c5",
+  "description": "主教学楼大厅的全景。中午时分由窗户照进来的光影刚好呈现完全的对称，两侧光带沿大厅中轴线互相镜像。",
+  "landmarks": [
+    "主教学楼"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2025-01-15",
+  "camera_parameters": {
+    "iso": 400,
+    "shutter": "1/125",
+    "aperture": "f/11",
+    "location": "辽宁省实验中学",
+    "camera": "Canon EOS R5 C",
+    "lens": "EF16-35mm f/4L IS USM"
+  },
+  "campus_point": {
+    "lat": 41.831326,
+    "lon": 123.415622
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5118962764149989,
+    "y": 0.5976090513005576
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "全景"
+}

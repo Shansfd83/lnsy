@@ -1,0 +1,46 @@
+{
+  "title": "桃花 · 帧017",
+  "alt": "仰拍视角下密集的桃花枝在阳光照射下呈现立体感",
+  "url": "https://cdn.lnsylight.cn/imported/photos/series-3/017-fb43ff8927fa97aa.webp",
+  "photo_page": "https://lnsylight.cn/photo/series-3",
+  "group": "主教学楼",
+  "source_page": "https://lnsylight.cn/photo/series-3",
+  "groups": [
+    "主教学楼"
+  ],
+  "id": "L019",
+  "file": "02_实验光影_建筑与地标/019_series-3.webp",
+  "width": 1600,
+  "height": 2400,
+  "bytes": 567252,
+  "sha256": "1f0a76ebed404a54551aa94184f0b7098954aa07599a9a13e871da2b50f4efbf",
+  "description": "仰拍树冠下密集的桃花枝，阳光穿过花瓣，将每一朵花都照得层次分明，光影交织出春日特有的立体美感。",
+  "landmarks": [
+    "主教学楼"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-04-17",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/640",
+    "aperture": "f/5.6",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF-S55-250mm f/4-5.6 IS STM"
+  },
+  "campus_point": {
+    "lat": 41.83191,
+    "lon": 123.415085
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5367784403452512,
+    "y": 0.36260792655695084
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "仰拍"
+}

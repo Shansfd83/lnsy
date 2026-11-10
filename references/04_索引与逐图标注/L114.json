@@ -1,0 +1,43 @@
+{
+  "title": "桃花 · 帧019",
+  "alt": "桃花瓣与花蕊散落在土壤间被树荫下的阳光照亮",
+  "url": "https://cdn.lnsylight.cn/imported/photos/series-3/019-6021e7caea95e8ce.webp",
+  "photo_page": "https://lnsylight.cn/photo/series-3/frame/019",
+  "source_page": "https://lnsylight.cn/photo/series-3/frame/019",
+  "group": "地标关联组照",
+  "groups": [
+    "地标关联组照"
+  ],
+  "frame_id": "019",
+  "parent_slug": "series-3",
+  "id": "L114",
+  "file": "02_实验光影_建筑与地标/114_series-3_frame_019.webp",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 469660,
+  "sha256": "091af31d48539eff53d59c31bb82b3a7d52889d383aebea025131acf4a4c9a7b",
+  "description": "桃花落后，花瓣与花蕊散落在土壤间，被树荫下漏下的阳光照亮，捕捉到花开花落的自然循环之美。",
+  "landmarks": [],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-04-17",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/800",
+    "aperture": "f/1.8",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF50mm f/1.8 STM"
+  },
+  "campus_point": {
+    "lat": 41.832788,
+    "lon": 123.415775
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": null,
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

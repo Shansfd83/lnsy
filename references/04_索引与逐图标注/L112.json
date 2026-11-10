@@ -1,0 +1,46 @@
+{
+  "title": "桃花 · 帧015",
+  "alt": "明心亭窗格框架下的盛开桃花",
+  "url": "https://cdn.lnsylight.cn/imported/photos/series-3/015-86ad34bc691e1875.webp",
+  "photo_page": "https://lnsylight.cn/photo/series-3/frame/015",
+  "source_page": "https://lnsylight.cn/photo/series-3/frame/015",
+  "group": "地标关联组照",
+  "groups": [
+    "地标关联组照"
+  ],
+  "frame_id": "015",
+  "parent_slug": "series-3",
+  "id": "L112",
+  "file": "02_实验光影_建筑与地标/112_series-3_frame_015.webp",
+  "width": 2400,
+  "height": 1350,
+  "bytes": 313018,
+  "sha256": "e745a1487beb817981bc9cd23e723edf4608e472d69a228d26e89019532eb43c",
+  "description": "极具中国古典美感的构图，画面以明心亭的传统窗格作为前景框架，框架内正是明心亭附近盛开的桃花，传统建筑与自然花卉交相辉映。",
+  "landmarks": [],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-04-09",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/200",
+    "aperture": "f/5",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF-S55-250mm f/4-5.6 IS STM"
+  },
+  "campus_point": {
+    "lat": 41.832351,
+    "lon": 123.414809
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.3796792876863562,
+    "y": 0.4328510808060867
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

@@ -1,0 +1,46 @@
+{
+  "title": "窗边的光",
+  "alt": "教室窗外绿树葱茏，一名学生背对镜头坐着",
+  "url": "https://cdn.lnsylight.cn/imported/photos/theme-light-424/theme-light-424-37da9d7f475b6bf1.webp",
+  "photo_page": "https://lnsylight.cn/photo/theme-light-424",
+  "group": "科技楼",
+  "source_page": "https://lnsylight.cn/photo/theme-light-424",
+  "groups": [
+    "科技楼"
+  ],
+  "id": "L060",
+  "file": "02_实验光影_建筑与地标/060_theme-light-424.webp",
+  "width": 1555,
+  "height": 2400,
+  "bytes": 446202,
+  "sha256": "d84798608722a025f8f9c20713b98b1d1b103c1a312d8ee0553a95a017f526d5",
+  "description": "夏日的教室里，大幅玻璃窗外绿树成荫，阳光穿过枝叶漫进室内，天花板的长灯亮着，一名扎着马尾的学生背对镜头望向窗外，安静明亮。",
+  "landmarks": [
+    "科技楼"
+  ],
+  "photographer": [
+    "张曦宇 · 2026届"
+  ],
+  "date": null,
+  "camera_parameters": {
+    "iso": 200,
+    "shutter": "1/160",
+    "aperture": "f/2.8",
+    "location": null,
+    "camera": null,
+    "lens": "7.7mm"
+  },
+  "campus_point": {
+    "lat": 41.831757,
+    "lon": 123.41613
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5945115658051491,
+    "y": 0.528330333950579
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "室内视角"
+}

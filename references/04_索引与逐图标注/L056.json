@@ -1,0 +1,46 @@
+{
+  "title": "高绳之上",
+  "alt": "五一前夕修缮礼堂外墙，一名工人在高高的绳索和结构之间作业",
+  "url": "https://cdn.lnsylight.cn/imported/photos/worker-on-rigging/worker-on-rigging-b34816b7390447c1.webp",
+  "photo_page": "https://lnsylight.cn/photo/worker-on-rigging",
+  "group": "礼堂",
+  "source_page": "https://lnsylight.cn/photo/worker-on-rigging",
+  "groups": [
+    "礼堂"
+  ],
+  "id": "L056",
+  "file": "02_实验光影_建筑与地标/056_worker-on-rigging.webp",
+  "width": 1800,
+  "height": 2400,
+  "bytes": 733234,
+  "sha256": "139dc40bc404e24f347519803d7a1408efefb0b707dffe5a52a4d1c22bb90e47",
+  "description": "2024 年五一前夕、校庆之前，工人们对礼堂外墙进行修缮。一名工人站在高高的绳索和结构之间作业，周围线条压得很密，把人所在的位置抬得更高。",
+  "landmarks": [
+    "礼堂"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-04-17",
+  "camera_parameters": {
+    "iso": 200,
+    "shutter": "1/800",
+    "aperture": "f/5.6",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF-S55-250mm f/4-5.6 IS STM"
+  },
+  "campus_point": {
+    "lat": 41.832164,
+    "lon": 123.41596
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5668647169937576,
+    "y": 0.4629093642040826
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

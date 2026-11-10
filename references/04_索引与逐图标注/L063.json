@@ -1,0 +1,46 @@
+{
+  "title": "中场休息",
+  "alt": "大雪中的排球场空无一人，球网覆雪",
+  "url": "https://cdn.lnsylight.cn/imported/photos/winter-317/winter-317-1542a7707354a153.webp",
+  "photo_page": "https://lnsylight.cn/photo/winter-317",
+  "group": "体育馆",
+  "source_page": "https://lnsylight.cn/photo/winter-317",
+  "groups": [
+    "体育馆"
+  ],
+  "id": "L063",
+  "file": "02_实验光影_建筑与地标/063_winter-317.webp",
+  "width": 2400,
+  "height": 1602,
+  "bytes": 1083408,
+  "sha256": "c84a91154d6face2e0bc2f3a0933b2532fbd53204c14388cd52e84573d8f02c7",
+  "description": "大雪落满运动场，排球网的立柱与横网覆着雪，场上只剩一串脚印，路灯把纷飞的雪片照得清清楚楚，远处是教学楼与积雪的树。",
+  "landmarks": [
+    "体育馆"
+  ],
+  "photographer": [
+    "张曦宇 · 2026届"
+  ],
+  "date": null,
+  "camera_parameters": {
+    "iso": 2000,
+    "shutter": "1/125",
+    "aperture": "f/4",
+    "location": null,
+    "camera": null,
+    "lens": "NIKKOR Z 24-70mm f/4 S"
+  },
+  "campus_point": {
+    "lat": 41.831127,
+    "lon": 123.41468
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.3587002082936389,
+    "y": 0.6295962084980102
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

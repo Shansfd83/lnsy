@@ -1,0 +1,46 @@
+{
+  "title": "桃花 · 帧021",
+  "alt": "明心亭与映衬的桃花花枝",
+  "url": "https://cdn.lnsylight.cn/imported/photos/series-3/021-7ce385b7b03e82a0.webp",
+  "photo_page": "https://lnsylight.cn/photo/series-3/frame/021",
+  "source_page": "https://lnsylight.cn/photo/series-3/frame/021",
+  "group": "地标关联组照",
+  "groups": [
+    "地标关联组照"
+  ],
+  "frame_id": "021",
+  "parent_slug": "series-3",
+  "id": "L115",
+  "file": "02_实验光影_建筑与地标/115_series-3_frame_021.webp",
+  "width": 1600,
+  "height": 2400,
+  "bytes": 792516,
+  "sha256": "d4af78a5e5175fb0aafc7ecebd81f3414191d26f41c04c45b5a8090656b83be3",
+  "description": "明心亭的传统建筑轮廓与桃花花枝相互映衬，传统建筑与自然花卉形成和谐的画面关系。",
+  "landmarks": [],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-04-07",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/50",
+    "aperture": "f/5.6",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF-S55-250mm f/4-5.6 IS STM"
+  },
+  "campus_point": {
+    "lat": 41.832458,
+    "lon": 123.414832
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.38341974370187915,
+    "y": 0.41565195608141503
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

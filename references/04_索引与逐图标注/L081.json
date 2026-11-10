@@ -1,0 +1,47 @@
+{
+  "title": "逸夫馆",
+  "alt": "逸夫图书馆全景",
+  "url": "https://cdn.lnsylight.cn/imported/photos/yifu-library/yifu-library-1e054d0e5f06da6e.webp",
+  "photo_page": "https://lnsylight.cn/photo/yifu-library",
+  "group": "逸夫图书馆",
+  "source_page": "https://lnsylight.cn/photo/yifu-library",
+  "groups": [
+    "逸夫图书馆",
+    "建筑主题"
+  ],
+  "id": "L081",
+  "file": "02_实验光影_建筑与地标/081_yifu-library.webp",
+  "width": 1601,
+  "height": 2400,
+  "bytes": 696770,
+  "sha256": "b94dcc76fb47b37a88df4158dfee979f5331eaaa577cfffe5b605fd9aa9a09a2",
+  "description": "逸夫图书馆的全景，整栋楼完整入画，立面层次依次展开。作为校园里的藏书主楼，它在这张全景里显出安静的体量。",
+  "landmarks": [
+    "逸夫图书馆"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2025-01-15",
+  "camera_parameters": {
+    "iso": 400,
+    "shutter": "1/250",
+    "aperture": "f/11",
+    "location": "辽宁省实验中学",
+    "camera": "Canon EOS R5 C",
+    "lens": "EF16-35mm f/4L IS USM"
+  },
+  "campus_point": {
+    "lat": 41.831494,
+    "lon": 123.414973
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.40635036536336394,
+    "y": 0.5706048180876047
+  },
+  "position_note": "楼前广场，朝北拍全景",
+  "direction": "北",
+  "direction_status": "原站明确说明",
+  "view": "全景"
+}

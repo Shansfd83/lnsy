@@ -1,0 +1,43 @@
+{
+  "title": "桃花 · 帧018",
+  "alt": "仰拍视角下桃花枝伸向纯蓝天空",
+  "url": "https://cdn.lnsylight.cn/imported/photos/series-3/018-bf3ce435c3aafc02.webp",
+  "photo_page": "https://lnsylight.cn/photo/series-3/frame/018",
+  "source_page": "https://lnsylight.cn/photo/series-3/frame/018",
+  "group": "地标关联组照",
+  "groups": [
+    "地标关联组照"
+  ],
+  "frame_id": "018",
+  "parent_slug": "series-3",
+  "id": "L113",
+  "file": "02_实验光影_建筑与地标/113_series-3_frame_018.webp",
+  "width": 2400,
+  "height": 1350,
+  "bytes": 359428,
+  "sha256": "bf4761b570a205c2717f12c9ff760fa1c8c954a85a7bb20ffe227342cc171a6d",
+  "description": "仰拍一枝伸向天空的桃花枝，背景是极其干净的纯蓝色天空，花朵与天空形成简洁而有力的对比，展现春日的明朗与纯净。",
+  "landmarks": [],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-04-17",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/4000",
+    "aperture": "f/1.8",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF50mm f/1.8 STM"
+  },
+  "campus_point": {
+    "lat": 41.832788,
+    "lon": 123.415775
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": null,
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "仰拍"
+}

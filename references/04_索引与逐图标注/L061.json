@@ -1,0 +1,47 @@
+{
+  "title": "科技楼仰拍",
+  "alt": "广角仰拍科技楼大厅，建筑线条向上汇聚",
+  "url": "https://cdn.lnsylight.cn/imported/photos/tech-building-upward/tech-building-upward-33f41fc4064e57c5.webp",
+  "photo_page": "https://lnsylight.cn/photo/tech-building-upward",
+  "group": "科技楼",
+  "source_page": "https://lnsylight.cn/photo/tech-building-upward",
+  "groups": [
+    "科技楼",
+    "建筑主题"
+  ],
+  "id": "L061",
+  "file": "02_实验光影_建筑与地标/061_tech-building-upward.webp",
+  "width": 2400,
+  "height": 1601,
+  "bytes": 1011322,
+  "sha256": "904f0b7eadabdbe34431ce467b7e229d6a45721765037f40804baaf3f071c6a2",
+  "description": "科技楼大厅的广角仰拍。梁柱的线条在广角镜头里向中心汇聚，建筑的线条非常有张力，结构本身成了画面的全部内容。",
+  "landmarks": [
+    "科技楼"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2025-01-15",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/3",
+    "aperture": "f/16",
+    "location": "辽宁省实验中学",
+    "camera": "Canon EOS R5 C",
+    "lens": "EF16-35mm f/4L IS USM"
+  },
+  "campus_point": {
+    "lat": 41.831736,
+    "lon": 123.416341
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.6288261840375259,
+    "y": 0.5317058631027692
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "仰拍"
+}

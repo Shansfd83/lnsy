@@ -1,0 +1,46 @@
+{
+  "title": "孤灯",
+  "alt": "晚上艺术楼前路灯照亮一块区域，一位同学从路灯下匆匆走过",
+  "url": "https://cdn.lnsylight.cn/imported/photos/lone-lamp-night/lone-lamp-night-1bc82314c9221a49.webp",
+  "photo_page": "https://lnsylight.cn/photo/lone-lamp-night",
+  "group": "艺术楼",
+  "source_page": "https://lnsylight.cn/photo/lone-lamp-night",
+  "groups": [
+    "艺术楼"
+  ],
+  "id": "L029",
+  "file": "02_实验光影_建筑与地标/029_lone-lamp-night.webp",
+  "width": 1348,
+  "height": 2400,
+  "bytes": 429458,
+  "sha256": "6d923de70df33c3efb8f79812e79041e4de12211098d3b5bbef7b3e99585347d",
+  "description": "一个晚上，艺术楼前的路灯照亮面前一块区域，照亮旁边的树、石头和地面。一位同学从路灯下匆匆走过。",
+  "landmarks": [
+    "艺术楼"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2025-02-28",
+  "camera_parameters": {
+    "iso": 200,
+    "shutter": "1/4",
+    "aperture": "f/4",
+    "location": null,
+    "camera": null,
+    "lens": "27mm"
+  },
+  "campus_point": {
+    "lat": 41.832886,
+    "lon": 123.415888
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5551554633788416,
+    "y": 0.34685545718272837
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

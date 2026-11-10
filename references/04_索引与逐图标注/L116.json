@@ -1,0 +1,43 @@
+{
+  "title": "桃花 · 帧022",
+  "alt": "夕阳橙红光线照射下的桃花",
+  "url": "https://cdn.lnsylight.cn/imported/photos/series-3/022-cb2a802c82753232.webp",
+  "photo_page": "https://lnsylight.cn/photo/series-3/frame/022",
+  "source_page": "https://lnsylight.cn/photo/series-3/frame/022",
+  "group": "地标关联组照",
+  "groups": [
+    "地标关联组照"
+  ],
+  "frame_id": "022",
+  "parent_slug": "series-3",
+  "id": "L116",
+  "file": "02_实验光影_建筑与地标/116_series-3_frame_022.webp",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 319288,
+  "sha256": "303586662ba504da864f7bbcc5d9242f2a59aa413c088e027236c540d435886f",
+  "description": "夕阳的橙红光线照在桃花上，给原本粉色的花朵也染上了一层温暖的橙红色调，展现黄昏时分的独特色彩魅力。",
+  "landmarks": [],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-04-09",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/160",
+    "aperture": "f/5.6",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF-S55-250mm f/4-5.6 IS STM"
+  },
+  "campus_point": {
+    "lat": 41.832788,
+    "lon": 123.415775
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": null,
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

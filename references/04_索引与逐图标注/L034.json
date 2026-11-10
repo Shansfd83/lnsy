@@ -1,0 +1,46 @@
+{
+  "title": "桶影",
+  "alt": "高三楼午后饮水机空桶整齐堆放，光从门框照进来映在桶身上",
+  "url": "https://cdn.lnsylight.cn/imported/photos/bottles-in-light/bottles-in-light-523d69bfeeab2fac.webp",
+  "photo_page": "https://lnsylight.cn/photo/bottles-in-light",
+  "group": "高三楼",
+  "source_page": "https://lnsylight.cn/photo/bottles-in-light",
+  "groups": [
+    "高三楼"
+  ],
+  "id": "L034",
+  "file": "02_实验光影_建筑与地标/034_bottles-in-light.webp",
+  "width": 2400,
+  "height": 1350,
+  "bytes": 346904,
+  "sha256": "89e10fb64d79f05252142168602c6b7b11aeb6e5ae7f5ca7543a02ab02449e67",
+  "description": "高三楼午后，各教室饮水机喝完的空桶整齐堆放在大厅里，光从门框照进来，映在桶身上。",
+  "landmarks": [
+    "高三楼"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2023-12-28",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/160",
+    "aperture": "f/5.6",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF-S18-55mm f/3.5-5.6 III"
+  },
+  "campus_point": {
+    "lat": 41.833306,
+    "lon": 123.415304
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.4601804062857268,
+    "y": 0.27934487415148834
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "室内视角"
+}

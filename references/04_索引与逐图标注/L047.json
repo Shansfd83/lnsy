@@ -1,0 +1,46 @@
+{
+  "title": "班牌列队",
+  "alt": "每周一升旗仪式，各班队列排头举班牌的同学与班牌整齐列队",
+  "url": "https://cdn.lnsylight.cn/imported/photos/flag-lineup/flag-lineup-5b626e964ea46cba.webp",
+  "photo_page": "https://lnsylight.cn/photo/flag-lineup",
+  "group": "操场",
+  "source_page": "https://lnsylight.cn/photo/flag-lineup",
+  "groups": [
+    "操场"
+  ],
+  "id": "L047",
+  "file": "02_实验光影_建筑与地标/047_flag-lineup.webp",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 315782,
+  "sha256": "57c777875dafc6760031bad4def9ac470afd0f6321938ed986f7906bbacc92ac",
+  "description": "每周一的升旗仪式，各班队列排头打班牌的同学和班牌一起排成整齐的队列，队伍的走向和班级的次序一眼就能看清。",
+  "landmarks": [
+    "操场"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-04-29",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/400",
+    "aperture": "f/5.6",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF-S55-250mm f/4-5.6 IS STM"
+  },
+  "campus_point": {
+    "lat": 41.830764,
+    "lon": 123.415906
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5580827767843038,
+    "y": 0.6879446409752634
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

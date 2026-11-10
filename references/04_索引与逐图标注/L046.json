@@ -1,0 +1,46 @@
+{
+  "title": "花球与泡泡",
+  "alt": "啦啦队员手持花球在跑道上表演",
+  "url": "https://cdn.lnsylight.cn/imported/photos/pom-pom-and-bubbles/pom-pom-and-bubbles-3d9e044e06f63ed3.webp",
+  "photo_page": "https://lnsylight.cn/photo/pom-pom-and-bubbles",
+  "group": "操场",
+  "source_page": "https://lnsylight.cn/photo/pom-pom-and-bubbles",
+  "groups": [
+    "操场"
+  ],
+  "id": "L046",
+  "file": "02_实验光影_建筑与地标/046_pom-pom-and-bubbles.webp",
+  "width": 1620,
+  "height": 910,
+  "bytes": 133162,
+  "sha256": "2b9adf3a5e7fd4a5226771130a90a6f89f54a98e82726cb29b4b694a1bcdcad9",
+  "description": "啦啦队员手持花球在跑道上表演，阳光和泡泡让画面很梦幻。",
+  "landmarks": [
+    "操场"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-09-28",
+  "camera_parameters": {
+    "iso": null,
+    "shutter": null,
+    "aperture": null,
+    "location": "辽宁省实验中学",
+    "camera": null,
+    "lens": null
+  },
+  "campus_point": {
+    "lat": 41.830772,
+    "lon": 123.415646
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.515799360952534,
+    "y": 0.6866587251078168
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

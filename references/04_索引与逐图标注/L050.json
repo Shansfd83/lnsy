@@ -1,0 +1,47 @@
+{
+  "title": "松间雷锋",
+  "alt": "雷锋雕像在松枝与逆光之间望向校园一侧",
+  "url": "https://cdn.lnsylight.cn/imported/photos/leifeng-in-pine-light/leifeng-in-pine-light-277e142ceb11d7b0.webp",
+  "photo_page": "https://lnsylight.cn/photo/leifeng-in-pine-light",
+  "group": "雷锋雕像",
+  "source_page": "https://lnsylight.cn/photo/leifeng-in-pine-light",
+  "groups": [
+    "雷锋雕像",
+    "建筑主题"
+  ],
+  "id": "L050",
+  "file": "02_实验光影_建筑与地标/050_leifeng-in-pine-light.webp",
+  "width": 2400,
+  "height": 1601,
+  "bytes": 908530,
+  "sha256": "9ecfb6c8577b3f2d1add79b908f32d4ce53b800365886c3623b3da090b2e7292",
+  "description": "雷锋雕像从松枝间迎着太阳望向校园一侧，碑身上的金色题字与穿过树梢的光线共同构成画面中心。",
+  "landmarks": [
+    "雷锋雕像"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2025-01-15",
+  "camera_parameters": {
+    "iso": 200,
+    "shutter": "1/1000",
+    "aperture": "f/4",
+    "location": "辽宁省实验中学",
+    "camera": "Canon EOS R5 C",
+    "lens": "EF16-35mm f/4L IS USM"
+  },
+  "campus_point": {
+    "lat": 41.832208,
+    "lon": 123.415668
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5193771884460447,
+    "y": 0.4558368269336972
+  },
+  "position_note": "松间，朝东北望雕像",
+  "direction": "东北",
+  "direction_status": "原站明确说明",
+  "view": "未明确"
+}

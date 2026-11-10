@@ -1,0 +1,46 @@
+{
+  "title": "亭中排练",
+  "alt": "元旦联欢会前夕，四位同学在明心亭里排练节目，夕阳映在他们脸上",
+  "url": "https://cdn.lnsylight.cn/imported/photos/pavilion-rehearsal/pavilion-rehearsal-730f7e3269abc0ed.webp",
+  "photo_page": "https://lnsylight.cn/photo/pavilion-rehearsal",
+  "group": "明心亭",
+  "source_page": "https://lnsylight.cn/photo/pavilion-rehearsal",
+  "groups": [
+    "明心亭"
+  ],
+  "id": "L005",
+  "file": "02_实验光影_建筑与地标/005_pavilion-rehearsal.webp",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 407756,
+  "sha256": "a01690aabedd5319160878d66ffe84cd9d48a8634a8f199ca48c459c1eecc843",
+  "description": "年底，元旦联欢会前夕，四位同学在明心亭里排练节目，夕阳正好映在他们脸上。",
+  "landmarks": [
+    "明心亭"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2023-12-28",
+  "camera_parameters": {
+    "iso": 200,
+    "shutter": "1/1000",
+    "aperture": "f/1.8",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF50mm f/1.8 STM"
+  },
+  "campus_point": {
+    "lat": 41.8324,
+    "lon": 123.41479
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.37658934575888175,
+    "y": 0.4249748461195465
+  },
+  "position_note": "亭内",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

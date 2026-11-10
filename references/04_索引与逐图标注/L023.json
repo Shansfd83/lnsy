@@ -1,0 +1,46 @@
+{
+  "title": "金色舞厅",
+  "alt": "冬日下午温暖的阳光从窗户照进艺术楼的舞蹈教室",
+  "url": "https://cdn.lnsylight.cn/imported/photos/window-full-of-gold/window-full-of-gold-22a19d7784cf839b.webp",
+  "photo_page": "https://lnsylight.cn/photo/window-full-of-gold",
+  "group": "艺术楼",
+  "source_page": "https://lnsylight.cn/photo/window-full-of-gold",
+  "groups": [
+    "艺术楼"
+  ],
+  "id": "L023",
+  "file": "02_实验光影_建筑与地标/023_window-full-of-gold.webp",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 495100,
+  "sha256": "cf5e8926064d16a69011685b35c1fd86eab1880d227919a90e1633c381b33aec",
+  "description": "冬日下午，温暖的阳光从窗户照进艺术楼的舞蹈教室，形成美妙的光影。",
+  "landmarks": [
+    "艺术楼"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2023-11-07",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/250",
+    "aperture": "f/5.6",
+    "location": null,
+    "camera": null,
+    "lens": "EF-S18-55mm f/3.5-5.6 III"
+  },
+  "campus_point": {
+    "lat": 41.833018,
+    "lon": 123.41597
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5684910022185009,
+    "y": 0.32563784537271423
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "室内视角"
+}

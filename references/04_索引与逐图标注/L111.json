@@ -1,0 +1,46 @@
+{
+  "title": "桃花 · 帧014",
+  "alt": "同学们在桃花树下赏花，有人伸手触摸花朵",
+  "url": "https://cdn.lnsylight.cn/imported/photos/series-3/014-9d91cc0cbbec8647.webp",
+  "photo_page": "https://lnsylight.cn/photo/series-3/frame/014",
+  "source_page": "https://lnsylight.cn/photo/series-3/frame/014",
+  "group": "地标关联组照",
+  "groups": [
+    "地标关联组照"
+  ],
+  "frame_id": "014",
+  "parent_slug": "series-3",
+  "id": "L111",
+  "file": "02_实验光影_建筑与地标/111_series-3_frame_014.webp",
+  "width": 2400,
+  "height": 1021,
+  "bytes": 433886,
+  "sha256": "a8acc4fd051c183ab68ad9ba443c2c1032310ba9c4f042142d15b10d80fc99b3",
+  "description": "盛春时节，桃花盛开，一群同学经过树下，其中一位同学伸手触摸桃花，捕捉到人与自然互动的温馨瞬间。",
+  "landmarks": [],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-04-07",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/250",
+    "aperture": "f/4.5",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF-S55-250mm f/4-5.6 IS STM"
+  },
+  "campus_point": {
+    "lat": 41.832595,
+    "lon": 123.415847
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5484876939601674,
+    "y": 0.3936306468552462
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

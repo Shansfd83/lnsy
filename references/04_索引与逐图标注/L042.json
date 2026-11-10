@@ -1,0 +1,46 @@
+{
+  "title": "骑过门框",
+  "alt": "爱因斯坦门框雕塑下，两个孩子骑着儿童车准备穿过门框",
+  "url": "https://cdn.lnsylight.cn/imported/photos/riding-through-portal/riding-through-portal-986ac667c5783804.webp",
+  "photo_page": "https://lnsylight.cn/photo/riding-through-portal",
+  "group": "爱因斯坦门",
+  "source_page": "https://lnsylight.cn/photo/riding-through-portal",
+  "groups": [
+    "爱因斯坦门"
+  ],
+  "id": "L042",
+  "file": "02_实验光影_建筑与地标/042_riding-through-portal.webp",
+  "width": 1600,
+  "height": 2400,
+  "bytes": 1024820,
+  "sha256": "dbe4e5e198b2c4a0e5275cff8459219b0ea50dbde9ca429677ce6c10d33004b5",
+  "description": "爱因斯坦门框雕塑下，两个孩子骑着儿童车，正准备穿过它向前玩耍。",
+  "landmarks": [
+    "爱因斯坦门"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-05-02",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/160",
+    "aperture": "f/5",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF-S55-250mm f/4-5.6 IS STM"
+  },
+  "campus_point": {
+    "lat": 41.83169,
+    "lon": 123.415183
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.44050235507141744,
+    "y": 0.5390998793391597
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

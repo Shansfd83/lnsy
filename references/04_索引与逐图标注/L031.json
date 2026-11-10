@@ -1,0 +1,46 @@
+{
+  "title": "抛桶上车",
+  "alt": "冬天，工人把空水桶扔向货车车厢，一只桶还在空中",
+  "url": "https://cdn.lnsylight.cn/imported/photos/bucket-toss-to-truck/bucket-toss-to-truck-9b2651804038b3f5.webp",
+  "photo_page": "https://lnsylight.cn/photo/bucket-toss-to-truck",
+  "group": "高三楼",
+  "source_page": "https://lnsylight.cn/photo/bucket-toss-to-truck",
+  "groups": [
+    "高三楼"
+  ],
+  "id": "L031",
+  "file": "02_实验光影_建筑与地标/031_bucket-toss-to-truck.webp",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 399084,
+  "sha256": "0f12b06fe8660bcfa15d904c1a457b5a40cbf06ca7c6b16a49a59035fafdaee4",
+  "description": "冬天，高三楼各班的空饮水桶统一放在一楼大厅，定期有工人来回收。这一幕定格在他把空桶扔向货车车厢的瞬间：一个桶已在空中飞行，手里举起下一个准备扔出，怀里还抱着三个。",
+  "landmarks": [
+    "高三楼"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2023-12-28",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/800",
+    "aperture": "f/2.5",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF50mm f/1.8 STM"
+  },
+  "campus_point": {
+    "lat": 41.833225,
+    "lon": 123.415266
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.45400052243308897,
+    "y": 0.292364772307815
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "室内视角"
+}

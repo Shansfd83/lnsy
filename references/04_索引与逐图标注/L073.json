@@ -1,0 +1,46 @@
+{
+  "title": "欢迎来到存档点",
+  "alt": "冬天早上食堂二楼，阳光照进来形成震撼的光影效果",
+  "url": "https://cdn.lnsylight.cn/imported/photos/sunlit-classroom-rows/sunlit-classroom-rows-0bedf1371d1c9a61.webp",
+  "photo_page": "https://lnsylight.cn/photo/sunlit-classroom-rows",
+  "group": "食堂",
+  "source_page": "https://lnsylight.cn/photo/sunlit-classroom-rows",
+  "groups": [
+    "食堂"
+  ],
+  "id": "L073",
+  "file": "02_实验光影_建筑与地标/073_sunlit-classroom-rows.webp",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 579228,
+  "sha256": "db0efc1995fc39559ec349815b434642ed1245255369bfdf4e456edce9d29a63",
+  "description": "冬天早上去食堂吃早饭，阳光刚好照进二楼，光影震撼得让人停下脚步。我扔下筷子跑回高三楼拿相机，拉上还在吃饭的同学，拍下了这张难得一遇的照片。",
+  "landmarks": [
+    "食堂"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2023-10-28",
+  "camera_parameters": {
+    "iso": 400,
+    "shutter": "1/320",
+    "aperture": "f/5.6",
+    "location": null,
+    "camera": null,
+    "lens": "EF-S18-55mm f/3.5-5.6 III"
+  },
+  "campus_point": {
+    "lat": 41.833609,
+    "lon": 123.415212
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.4452185822213241,
+    "y": 0.2306408106783716
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

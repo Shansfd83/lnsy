@@ -1,0 +1,47 @@
+{
+  "title": "颐和明心",
+  "alt": "午后阳光穿过绿荫，红柱翘檐的明心亭半掩在树丛里",
+  "url": "https://cdn.lnsylight.cn/imported/photos/mingxin-pavilion-afternoon/mingxin-pavilion-afternoon-0dea10defaec67fb.webp",
+  "photo_page": "https://lnsylight.cn/photo/mingxin-pavilion-afternoon",
+  "group": "明心亭",
+  "source_page": "https://lnsylight.cn/photo/mingxin-pavilion-afternoon",
+  "groups": [
+    "明心亭",
+    "建筑主题"
+  ],
+  "id": "L006",
+  "file": "02_实验光影_建筑与地标/006_mingxin-pavilion-afternoon.webp",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 758846,
+  "sha256": "c91c5f9051d5d65a533b854c0842d21ea248aa0b85449b7e71fb3732e8ee6fbe",
+  "description": "午后的明心亭半掩在绿荫里，红柱和翘檐从树丛中露出一角。光从左侧斜着照过来，把亭子从一片绿里轻轻托了出来。",
+  "landmarks": [
+    "明心亭"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2025-08-02",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/250",
+    "aperture": "f/2.8",
+    "location": "辽宁省实验中学",
+    "camera": "Canon EOS R5 C",
+    "lens": "EF70-200mm f/2.8L IS II USM"
+  },
+  "campus_point": {
+    "lat": 41.83239,
+    "lon": 123.41486
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.38797334232977365,
+    "y": 0.4265822409541403
+  },
+  "position_note": "亭东南树丛间，望向红柱翘檐",
+  "direction": "约西北（由“亭东南树丛间望向亭”推断）",
+  "direction_status": "依据原站位置说明推断，待核实",
+  "view": "未明确"
+}

@@ -1,0 +1,47 @@
+{
+  "title": "窗影合夕",
+  "alt": "夕阳映照明心亭旁长廊的园林式窗格，影子对称落下",
+  "url": "https://cdn.lnsylight.cn/imported/photos/mingxin-pavilion-lattice/mingxin-pavilion-lattice-81fb0f4bc33ce66b.webp",
+  "photo_page": "https://lnsylight.cn/photo/mingxin-pavilion-lattice",
+  "group": "明心亭",
+  "source_page": "https://lnsylight.cn/photo/mingxin-pavilion-lattice",
+  "groups": [
+    "明心亭",
+    "建筑主题"
+  ],
+  "id": "L002",
+  "file": "02_实验光影_建筑与地标/002_mingxin-pavilion-lattice.webp",
+  "width": 1080,
+  "height": 1620,
+  "bytes": 168574,
+  "sha256": "c6a3584bf396f0eba0f87bad646cb888cbd5f08c82d3bfb6bc9e3a03c3c96d70",
+  "description": "明心亭旁边长廊的园林式窗格被夕阳照着，格子的影子对称地投下来。窗格的花纹与影子一实一虚，互相描了一遍。",
+  "landmarks": [
+    "明心亭"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2025-03-01",
+  "camera_parameters": {
+    "iso": null,
+    "shutter": null,
+    "aperture": null,
+    "location": "辽宁省实验中学",
+    "camera": null,
+    "lens": null
+  },
+  "campus_point": {
+    "lat": 41.83243,
+    "lon": 123.41481
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.3798419162083683,
+    "y": 0.42015266161690723
+  },
+  "position_note": "亭旁长廊，夕照窗格",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

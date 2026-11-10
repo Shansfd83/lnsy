@@ -1,0 +1,46 @@
+{
+  "title": "集合一刻",
+  "alt": "大批学生聚在广场前等待活动开始",
+  "url": "https://cdn.lnsylight.cn/imported/photos/gathered-students-crowd/gathered-students-crowd-35697bf106c62c6f.webp",
+  "photo_page": "https://lnsylight.cn/photo/gathered-students-crowd",
+  "group": "操场",
+  "source_page": "https://lnsylight.cn/photo/gathered-students-crowd",
+  "groups": [
+    "操场"
+  ],
+  "id": "L043",
+  "file": "02_实验光影_建筑与地标/043_gathered-students-crowd.webp",
+  "width": 2400,
+  "height": 1350,
+  "bytes": 530880,
+  "sha256": "4f8a5c1ae4270bb44834b1aea164ef3a53a23b78103398ba0347f168f6931a7e",
+  "description": "大批学生聚在广场前等待活动开始。建筑立面和人群的方向把画面压得很稳，像活动开始前的一阵安静。",
+  "landmarks": [
+    "操场"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-04-24",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/250",
+    "aperture": "f/7.1",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF-S55-250mm f/4-5.6 IS STM"
+  },
+  "campus_point": {
+    "lat": 41.830447,
+    "lon": 123.416383
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.6356565819782121,
+    "y": 0.7388990572161263
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

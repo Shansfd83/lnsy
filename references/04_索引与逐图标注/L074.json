@@ -1,0 +1,46 @@
+{
+  "title": "晨食寂寂",
+  "alt": "食堂二楼清晨的景象，阳光通过大窗户照进来，整体金黄剔透",
+  "url": "https://cdn.lnsylight.cn/imported/photos/desks-facing-light/desks-facing-light-fb891bee1c06e77f.webp",
+  "photo_page": "https://lnsylight.cn/photo/desks-facing-light",
+  "group": "食堂",
+  "source_page": "https://lnsylight.cn/photo/desks-facing-light",
+  "groups": [
+    "食堂"
+  ],
+  "id": "L074",
+  "file": "02_实验光影_建筑与地标/074_desks-facing-light.webp",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 768592,
+  "sha256": "3c1721ba44b8ce7913a5628166ec31522a3599cd25386d61ad534f5536934a5a",
+  "description": "食堂二楼清晨的景象，阳光通过大窗户照进来，整体金黄剔透。无人的食堂，桌椅整齐。",
+  "landmarks": [
+    "食堂"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2023-10-27",
+  "camera_parameters": {
+    "iso": 400,
+    "shutter": "1/200",
+    "aperture": "f/5.6",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF-S18-55mm f/3.5-5.6 III"
+  },
+  "campus_point": {
+    "lat": 41.833571,
+    "lon": 123.415417
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.47855742931931705,
+    "y": 0.23674891104845763
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

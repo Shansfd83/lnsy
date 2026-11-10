@@ -1,0 +1,46 @@
+{
+  "title": "青春向前",
+  "alt": "雪地里的橙色「青春时代」时钟雕塑",
+  "url": "https://cdn.lnsylight.cn/imported/photos/winter-312/winter-312-ecf84516802853b7.webp",
+  "photo_page": "https://lnsylight.cn/photo/winter-312",
+  "group": "青春时代",
+  "source_page": "https://lnsylight.cn/photo/winter-312",
+  "groups": [
+    "青春时代"
+  ],
+  "id": "L069",
+  "file": "02_实验光影_建筑与地标/069_winter-312.webp",
+  "width": 2400,
+  "height": 1602,
+  "bytes": 1173396,
+  "sha256": "7b43852f8a2e12ae7db735b8bddc2e0db061b22831ff40a5a7e9f1e8bd84a1d7",
+  "description": "雪地上立着橙色的齿轮时钟雕塑「青春时代」，表盘中央是奔跑者的人形剪影，松枝、灌木与红墙都覆着薄雪。",
+  "landmarks": [
+    "青春时代"
+  ],
+  "photographer": [
+    "张曦宇 · 2026届"
+  ],
+  "date": null,
+  "camera_parameters": {
+    "iso": 720,
+    "shutter": "1/8000",
+    "aperture": "f/4",
+    "location": null,
+    "camera": null,
+    "lens": "NIKKOR Z 24-70mm f/4 S"
+  },
+  "campus_point": {
+    "lat": 41.832575,
+    "lon": 123.415284
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.45692783583624025,
+    "y": 0.39684543652329163
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

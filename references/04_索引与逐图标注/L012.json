@@ -1,0 +1,46 @@
+{
+  "title": "光映廊影",
+  "alt": "冬天主楼回廊光影，阳光透过窗子照进来，同学走到栏杆拐角处",
+  "url": "https://cdn.lnsylight.cn/imported/photos/corridor-rail-gold/corridor-rail-gold-1f9914ec7008137f.webp",
+  "photo_page": "https://lnsylight.cn/photo/corridor-rail-gold",
+  "group": "主教学楼",
+  "source_page": "https://lnsylight.cn/photo/corridor-rail-gold",
+  "groups": [
+    "主教学楼"
+  ],
+  "id": "L012",
+  "file": "02_实验光影_建筑与地标/012_corridor-rail-gold.webp",
+  "width": 2400,
+  "height": 1350,
+  "bytes": 331292,
+  "sha256": "d56b9fe37a4b780ad35dea09b4866302c682cff252d327cb6fbfc933267a1ca2",
+  "description": "省实验冬天的主楼回廊光影很迷人。阳光透过朝南的窗子照进回廊和一楼大厅，窗户和回廊栏杆的影子投在墙上，很优美。那天是学期新年最后一天下午，主楼高一高二要开联欢会，刚好碰到一位同学走到栏杆拐角处，构图巧妙极了。",
+  "landmarks": [
+    "主教学楼"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2023-12-29",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/250",
+    "aperture": "f/5",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF50mm f/1.8 STM"
+  },
+  "campus_point": {
+    "lat": 41.831224,
+    "lon": 123.415565
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5026264506371978,
+    "y": 0.6140044786079324
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "室内视角"
+}

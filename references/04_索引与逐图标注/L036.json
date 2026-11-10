@@ -1,0 +1,47 @@
+{
+  "title": "缝隙里的奋斗",
+  "alt": "镜头从堆满课桌的书堆缝隙间拍向墙上标语里的“奋斗”二字",
+  "url": "https://cdn.lnsylight.cn/imported/photos/striving-behind-book-stacks/striving-behind-book-stacks-41f633df55cc1579.webp",
+  "photo_page": "https://lnsylight.cn/photo/striving-behind-book-stacks",
+  "group": "高三楼",
+  "source_page": "https://lnsylight.cn/photo/striving-behind-book-stacks",
+  "groups": [
+    "高三楼",
+    "建筑主题"
+  ],
+  "id": "L036",
+  "file": "02_实验光影_建筑与地标/036_striving-behind-book-stacks.webp",
+  "width": 2400,
+  "height": 1350,
+  "bytes": 341496,
+  "sha256": "c337d45f1796a52932c8fa7b213c15cfad721cffdc541ffd497c51dfcc7f4440",
+  "description": "高三楼的空教室里，考试时收拾书桌搬来的书堆满了桌面。镜头以第一视角从书堆之间的缝隙拍过去，正落在墙上标语中的“奋斗”二字上，书与字相映成趣。",
+  "landmarks": [
+    "高三楼"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-01-04",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/13",
+    "aperture": "f/5.6",
+    "location": "辽宁省实验中学",
+    "camera": "Canon EOS 4000D",
+    "lens": "EF-S18-55mm f/3.5-5.6 III"
+  },
+  "campus_point": {
+    "lat": 41.833279,
+    "lon": 123.415386
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.4735159451230751,
+    "y": 0.2836848402039779
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "室内视角"
+}

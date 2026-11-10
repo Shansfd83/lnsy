@@ -1,0 +1,46 @@
+{
+  "title": "跨过那道门",
+  "alt": "刻有相对论符号的石门框住春日花径",
+  "url": "https://cdn.lnsylight.cn/imported/photos/spring-029/spring-029-3ef9ad8847f28ed1.webp",
+  "photo_page": "https://lnsylight.cn/photo/spring-029",
+  "group": "爱因斯坦门",
+  "source_page": "https://lnsylight.cn/photo/spring-029",
+  "groups": [
+    "爱因斯坦门"
+  ],
+  "id": "L037",
+  "file": "02_实验光影_建筑与地标/037_spring-029.webp",
+  "width": 2400,
+  "height": 1619,
+  "bytes": 1568698,
+  "sha256": "01b6f39c26f9ec17e1c9ed8e1032c3c18a8b09a45db49be5c95da9b5162d9eda",
+  "description": "爱因斯坦门立在春色里，门板上刻着 E=mc² 等符号，门内小径穿花而过，两侧白花盛开，二月兰与紫花铺满路旁。",
+  "landmarks": [
+    "爱因斯坦门"
+  ],
+  "photographer": [
+    "张曦宇 · 2026届"
+  ],
+  "date": null,
+  "camera_parameters": {
+    "iso": 200,
+    "shutter": "1/250",
+    "aperture": "f/9",
+    "location": null,
+    "camera": null,
+    "lens": "48mm"
+  },
+  "campus_point": {
+    "lat": 41.831739,
+    "lon": 123.415138
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.43318407156238375,
+    "y": 0.5312236446526195
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

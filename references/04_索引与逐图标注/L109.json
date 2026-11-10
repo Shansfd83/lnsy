@@ -1,0 +1,46 @@
+{
+  "title": "桃花 · 帧009",
+  "alt": "树荫间缝隙的光照亮桃花簇",
+  "url": "https://cdn.lnsylight.cn/imported/photos/series-3/009-b02bf38c71244f48.webp",
+  "photo_page": "https://lnsylight.cn/photo/series-3/frame/009",
+  "source_page": "https://lnsylight.cn/photo/series-3/frame/009",
+  "group": "地标关联组照",
+  "groups": [
+    "地标关联组照"
+  ],
+  "frame_id": "009",
+  "parent_slug": "series-3",
+  "id": "L109",
+  "file": "02_实验光影_建筑与地标/109_series-3_frame_009.webp",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 548048,
+  "sha256": "2ba53dff54a29ace6eff946df7a2ae81e49bd0505ec9cc184bec20d499a27b4b",
+  "description": "密集树枝的树荫下，一簇桃花被树荫间缝隙透过的光线照亮，在暗背景的衬托下显得格外明亮动人。",
+  "landmarks": [],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-04-17",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/2500",
+    "aperture": "f/1.8",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF50mm f/1.8 STM"
+  },
+  "campus_point": {
+    "lat": 41.831597,
+    "lon": 123.415099
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.4268415591877338,
+    "y": 0.5540486512960854
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

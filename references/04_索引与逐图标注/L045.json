@@ -1,0 +1,46 @@
+{
+  "title": "夜跑成影",
+  "alt": "夜晚操场边两位奔跑的人在灯光前成为剪影",
+  "url": "https://cdn.lnsylight.cn/imported/photos/night-runners-silhouette/night-runners-silhouette-cd02f108df7ee1ff.webp",
+  "photo_page": "https://lnsylight.cn/photo/night-runners-silhouette",
+  "group": "操场",
+  "source_page": "https://lnsylight.cn/photo/night-runners-silhouette",
+  "groups": [
+    "操场"
+  ],
+  "id": "L045",
+  "file": "02_实验光影_建筑与地标/045_night-runners-silhouette.webp",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 867136,
+  "sha256": "42f419997c922bd063760a0e140d286a8edb96fc773a52f4f8030df2ef44adab",
+  "description": "夜晚操场边两位奔跑的人在灯光前成为剪影。人物速度很快，灯光却稳定地留在后面，画面有了前进感。",
+  "landmarks": [
+    "操场"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-04-25",
+  "camera_parameters": {
+    "iso": 6400,
+    "shutter": "1/80",
+    "aperture": "f/5.6",
+    "location": null,
+    "camera": "Canon EOS 5D Mark IV",
+    "lens": "EF24-105mm f/4L IS II USM"
+  },
+  "campus_point": {
+    "lat": 41.83011,
+    "lon": 123.416183
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.6031308774949019,
+    "y": 0.7930682631250345
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

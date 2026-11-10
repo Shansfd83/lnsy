@@ -1,0 +1,47 @@
+{
+  "title": "晴冬主楼",
+  "alt": "冬日晴天里的主教学楼，前景行道树枝干光秃，天空湛蓝",
+  "url": "https://cdn.lnsylight.cn/imported/photos/main-building-winter-day/main-building-winter-day-1356dbdaf2e21d14.webp",
+  "photo_page": "https://lnsylight.cn/photo/main-building-winter-day",
+  "group": "主教学楼",
+  "source_page": "https://lnsylight.cn/photo/main-building-winter-day",
+  "groups": [
+    "主教学楼",
+    "建筑主题"
+  ],
+  "id": "L014",
+  "file": "02_实验光影_建筑与地标/014_main-building-winter-day.webp",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 722006,
+  "sha256": "ba0702be13fd448ffff088fcd00f8858307d79246438a45fa4f5b8d4dd3cbd9f",
+  "description": "冬日晴天的主教学楼。行道树落尽了叶子，楼体完整地立在蓝天前，晴天的光把立面照得很实，冷与亮在同一张照片里。",
+  "landmarks": [
+    "主教学楼"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-03-06",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/4000",
+    "aperture": "f/2.2",
+    "location": "辽宁省实验中学",
+    "camera": "Canon EOS 4000D",
+    "lens": "EF50mm f/1.8 STM"
+  },
+  "campus_point": {
+    "lat": 41.83087,
+    "lon": 123.41589
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5554807204251768,
+    "y": 0.6709062557347365
+  },
+  "position_note": "楼前主路，朝北拍整立面",
+  "direction": "北",
+  "direction_status": "原站明确说明",
+  "view": "全景"
+}

@@ -1,0 +1,47 @@
+{
+  "title": "青春时代",
+  "alt": "橙色齿轮钟表雕塑中央的人物向前奔跑",
+  "url": "https://cdn.lnsylight.cn/imported/photos/youth-era-sculpture/youth-era-sculpture-2c397e709a5f883d.webp",
+  "photo_page": "https://lnsylight.cn/photo/youth-era-sculpture",
+  "group": "青春时代",
+  "source_page": "https://lnsylight.cn/photo/youth-era-sculpture",
+  "groups": [
+    "青春时代",
+    "建筑主题"
+  ],
+  "id": "L070",
+  "file": "02_实验光影_建筑与地标/070_youth-era-sculpture.webp",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 525218,
+  "sha256": "3d5009a8f039d24724b5584bdfbd3c6c842c9940c757dff2e8b86b9fb521cc79",
+  "description": "橙色齿轮围成钟表，数字环绕着中央奔跑的人物。雕塑立在主楼通往食堂的绿化小径旁，也与每天经过这里的匆匆脚步彼此呼应。",
+  "landmarks": [
+    "青春时代"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2023-08-24",
+  "camera_parameters": {
+    "iso": 400,
+    "shutter": "1/400",
+    "aperture": "f/7.1",
+    "location": "辽宁省实验中学",
+    "camera": "Canon EOS 4000D",
+    "lens": "EF50mm f/1.8 STM"
+  },
+  "campus_point": {
+    "lat": 41.832622,
+    "lon": 123.415174
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.43903869836868625,
+    "y": 0.38929068080275653
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

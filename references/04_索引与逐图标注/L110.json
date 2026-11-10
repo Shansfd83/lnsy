@@ -1,0 +1,46 @@
+{
+  "title": "桃花 · 帧011",
+  "alt": "桃花与主教学楼蓝色天文台穹顶遥相呼应",
+  "url": "https://cdn.lnsylight.cn/imported/photos/series-3/011-e848523f37461c87.webp",
+  "photo_page": "https://lnsylight.cn/photo/series-3/frame/011",
+  "source_page": "https://lnsylight.cn/photo/series-3/frame/011",
+  "group": "地标关联组照",
+  "groups": [
+    "地标关联组照"
+  ],
+  "frame_id": "011",
+  "parent_slug": "series-3",
+  "id": "L110",
+  "file": "02_实验光影_建筑与地标/110_series-3_frame_011.webp",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 696834,
+  "sha256": "e7eada690566d204ac2be29f65c399b16b27a47ec202a36cbe376b62ddc83313",
+  "description": "长焦视角下的独特构图，春天的桃花在枝头盛开，远处背景是主教学楼标志性的蓝色天文台穹顶，自然与建筑遥相呼应，形成别致的层次感。",
+  "landmarks": [],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-04-11",
+  "camera_parameters": {
+    "iso": 200,
+    "shutter": "1/1600",
+    "aperture": "f/5.6",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF-S55-250mm f/4-5.6 IS STM"
+  },
+  "campus_point": {
+    "lat": 41.831372,
+    "lon": 123.415631
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5133599331177301,
+    "y": 0.5902150350630251
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "室内视角"
+}

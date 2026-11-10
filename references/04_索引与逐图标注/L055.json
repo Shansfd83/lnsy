@@ -1,0 +1,46 @@
+{
+  "title": "礼堂红标",
+  "alt": "辽宁省实验中学礼堂外墙，夕光照在红星标志上",
+  "url": "https://cdn.lnsylight.cn/imported/photos/red-star-facade-light/red-star-facade-light-83cafebb8490d991.webp",
+  "photo_page": "https://lnsylight.cn/photo/red-star-facade-light",
+  "group": "礼堂",
+  "source_page": "https://lnsylight.cn/photo/red-star-facade-light",
+  "groups": [
+    "礼堂"
+  ],
+  "id": "L055",
+  "file": "02_实验光影_建筑与地标/055_red-star-facade-light.webp",
+  "width": 1451,
+  "height": 2176,
+  "bytes": 300374,
+  "sha256": "c0392f673a10795d5ef1980adc656220bc052e91e5bcedaac9bce00a7d4a7d93",
+  "description": "辽宁省实验中学的礼堂始建于1952年，整体外墙庄严肃穆，是学校中轴线上最核心的建筑，有悠久历史。每次年级大会、开学典礼、新生入学、文艺表演等重大活动都在此举行。",
+  "landmarks": [
+    "礼堂"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2023-09-23",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/2000",
+    "aperture": "f/1.8",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "50mm"
+  },
+  "campus_point": {
+    "lat": 41.832122,
+    "lon": 123.415969
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5683283736964888,
+    "y": 0.46966042250732076
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

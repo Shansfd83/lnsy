@@ -1,0 +1,47 @@
+{
+  "title": "白雪明心",
+  "alt": "雪中的明心亭、拱桥与长廊",
+  "url": "https://cdn.lnsylight.cn/imported/photos/theme-architecture-sculpture-730/theme-architecture-sculpture-730-84b1c66bd1b70462.webp",
+  "photo_page": "https://lnsylight.cn/photo/theme-architecture-sculpture-730",
+  "group": "明心亭",
+  "source_page": "https://lnsylight.cn/photo/theme-architecture-sculpture-730",
+  "groups": [
+    "明心亭",
+    "建筑主题"
+  ],
+  "id": "L007",
+  "file": "02_实验光影_建筑与地标/007_theme-architecture-sculpture-730.webp",
+  "width": 2400,
+  "height": 1350,
+  "bytes": 1184364,
+  "sha256": "f06546c2733d35820e260a986f433b2efe9765c18ccfa7acd140356e76802363",
+  "description": "雪中的明心亭顶覆白雪，红柱与拱桥环着湖面，长廊白墙上的人物浮雕旁积雪正落，石块与树丛都白了头。",
+  "landmarks": [
+    "明心亭"
+  ],
+  "photographer": [
+    "张曦宇 · 2026届"
+  ],
+  "date": null,
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/160",
+    "aperture": "f/4",
+    "location": null,
+    "camera": null,
+    "lens": "NIKKOR Z 24-70mm f/4 S"
+  },
+  "campus_point": {
+    "lat": 41.832533,
+    "lon": 123.414774
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.37398728939975473,
+    "y": 0.40359649482652993
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

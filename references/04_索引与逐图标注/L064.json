@@ -1,0 +1,46 @@
+{
+  "title": "永不熄灭的星光",
+  "alt": "夜晚操场上还有几个人在灯光下活动",
+  "url": "https://cdn.lnsylight.cn/imported/photos/night-court-afterplay/night-court-afterplay-c2974fc93621bd89.webp",
+  "photo_page": "https://lnsylight.cn/photo/night-court-afterplay",
+  "group": "体育馆",
+  "source_page": "https://lnsylight.cn/photo/night-court-afterplay",
+  "groups": [
+    "体育馆"
+  ],
+  "id": "L064",
+  "file": "02_实验光影_建筑与地标/064_night-court-afterplay.webp",
+  "width": 2400,
+  "height": 1350,
+  "bytes": 551874,
+  "sha256": "9a2954283a969b2eefd600b1066c5ff88683ea4ef2ef017b8fe233888e57d359",
+  "description": "夜晚操场上还有几个人在灯光下活动。灯光负责把场地撑住，人物则把仍有人在这里这件事说明白了。",
+  "landmarks": [
+    "体育馆"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-04-25",
+  "camera_parameters": {
+    "iso": 3200,
+    "shutter": "1/25",
+    "aperture": "f/5.6",
+    "location": null,
+    "camera": "Canon EOS 5D Mark IV",
+    "lens": "EF24-105mm f/4L IS II USM"
+  },
+  "campus_point": {
+    "lat": 41.831205,
+    "lon": 123.414692
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.3606517505624064,
+    "y": 0.6170585287929753
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

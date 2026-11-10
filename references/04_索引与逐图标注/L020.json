@@ -1,0 +1,47 @@
+{
+  "title": "正在维护",
+  "alt": "黑白照片里关闭的主楼大门，明暗层次分明",
+  "url": "https://cdn.lnsylight.cn/imported/photos/closed-main-door/closed-main-door-f73ac63727f8b5b9.webp",
+  "photo_page": "https://lnsylight.cn/photo/closed-main-door",
+  "group": "主教学楼",
+  "source_page": "https://lnsylight.cn/photo/closed-main-door",
+  "groups": [
+    "主教学楼",
+    "建筑主题"
+  ],
+  "id": "L020",
+  "file": "02_实验光影_建筑与地标/020_closed-main-door.webp",
+  "width": 2400,
+  "height": 1445,
+  "bytes": 307532,
+  "sha256": "ffc9556042eda99e414b59b272f8911f43f7608de826540a74546ba898dd6d88",
+  "description": "一张体现光影的黑白照片，拍的是关上的主楼大门。褪去颜色之后，门板、门框与墙面的明暗对比成了画面的主要内容。",
+  "landmarks": [
+    "主教学楼"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2023-10-22",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/1250",
+    "aperture": "f/1.8",
+    "location": "辽宁省实验中学",
+    "camera": "Canon EOS 4000D",
+    "lens": "EF50mm f/1.8 STM"
+  },
+  "campus_point": {
+    "lat": 41.83116,
+    "lon": 123.41575
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5327127272857042,
+    "y": 0.6242918055463633
+  },
+  "position_note": "主楼大门内侧",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

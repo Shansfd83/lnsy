@@ -1,0 +1,46 @@
+{
+  "title": "跨越瞬间",
+  "alt": "学生运动员跨越式跳高过杆",
+  "url": "https://cdn.lnsylight.cn/imported/photos/high-jump-arch/high-jump-arch-fb8b2ffb72509531.webp",
+  "photo_page": "https://lnsylight.cn/photo/high-jump-arch",
+  "group": "操场",
+  "source_page": "https://lnsylight.cn/photo/high-jump-arch",
+  "groups": [
+    "操场"
+  ],
+  "id": "L048",
+  "file": "02_实验光影_建筑与地标/048_high-jump-arch.webp",
+  "width": 2400,
+  "height": 1601,
+  "bytes": 402598,
+  "sha256": "38acdfc25635aefca96f12eb5dd51dbfec85a1ec5929b78243f9617956534ef4",
+  "description": "一名学生运动员在跳高，跨越式过杆。",
+  "landmarks": [
+    "操场"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2023-09-22",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/8000",
+    "aperture": "f/1.4",
+    "location": "辽宁省实验中学",
+    "camera": "Canon EOS R5 C",
+    "lens": "EF35mm f/1.4L II USM"
+  },
+  "campus_point": {
+    "lat": 41.830338,
+    "lon": 123.415236
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.4491216667588591,
+    "y": 0.756419660907945
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

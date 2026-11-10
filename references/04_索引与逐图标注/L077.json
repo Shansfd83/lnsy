@@ -1,0 +1,47 @@
+{
+  "title": "举向天光",
+  "alt": "学子广场雕塑人物双手把金色钥匙举向蓝天",
+  "url": "https://cdn.lnsylight.cn/imported/photos/key-raised-to-sky/key-raised-to-sky-9af898c0c23b77af.webp",
+  "photo_page": "https://lnsylight.cn/photo/key-raised-to-sky",
+  "group": "学子广场",
+  "source_page": "https://lnsylight.cn/photo/key-raised-to-sky",
+  "groups": [
+    "学子广场",
+    "建筑主题"
+  ],
+  "id": "L077",
+  "file": "02_实验光影_建筑与地标/077_key-raised-to-sky.webp",
+  "width": 1600,
+  "height": 2400,
+  "bytes": 911044,
+  "sha256": "0edb1f4f34fcd78cbac8041da1142f03fd99d9325c7602939fe80b5b8897882b",
+  "description": "学子广场的石雕人物双手托举一把金色钥匙，仰视角度让钥匙与开阔蓝天连在一起，姿态坚定而向上。",
+  "landmarks": [
+    "学子广场"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2023-11-12",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/200",
+    "aperture": "f/5.6",
+    "location": "辽宁省实验中学",
+    "camera": "Canon EOS 4000D",
+    "lens": "EF50mm f/1.8 STM"
+  },
+  "campus_point": {
+    "lat": 41.83179,
+    "lon": 123.414716
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.3645548350999414,
+    "y": 0.5230259309989321
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

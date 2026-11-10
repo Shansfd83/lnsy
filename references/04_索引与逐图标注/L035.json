@@ -1,0 +1,46 @@
+{
+  "title": "斜光",
+  "alt": "高三楼一楼教室的光影，阳光从窗户斜照下来",
+  "url": "https://cdn.lnsylight.cn/imported/photos/window-corner-trace/window-corner-trace-8026ceedb94120b3.webp",
+  "photo_page": "https://lnsylight.cn/photo/window-corner-trace",
+  "group": "高三楼",
+  "source_page": "https://lnsylight.cn/photo/window-corner-trace",
+  "groups": [
+    "高三楼"
+  ],
+  "id": "L035",
+  "file": "02_实验光影_建筑与地标/035_window-corner-trace.webp",
+  "width": 1600,
+  "height": 2400,
+  "bytes": 460512,
+  "sha256": "39f829977a88c1858301f7bb46abfcffa6c4a86daddb14cb517e004de8bc3f46",
+  "description": "高三楼一楼教室的光影，阳光从窗户斜照下来，形成漂亮的光的形状。",
+  "landmarks": [
+    "高三楼"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2023-09-21",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/200",
+    "aperture": "f/5.6",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF-S18-55mm f/3.5-5.6 III"
+  },
+  "campus_point": {
+    "lat": 41.833287,
+    "lon": 123.415545
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.49937388018771117,
+    "y": 0.28239892433653124
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "室内视角"
+}

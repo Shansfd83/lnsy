@@ -1,0 +1,10 @@
+{
+  "images": 122,
+  "light_images": 117,
+  "official_images": 5,
+  "explicit_directions": 3,
+  "inferred_directions": 1,
+  "unknown_directions": 118,
+  "site_coordinate_points": 117,
+  "image_validation_errors": []
+}

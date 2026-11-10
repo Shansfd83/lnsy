@@ -1,0 +1,47 @@
+{
+  "title": "朝序如歌·横",
+  "alt": "横画幅收进主教学楼核心楼体、升旗台、国旗与做操的同学",
+  "url": "https://cdn.lnsylight.cn/imported/photos/flag-platform-landscape/flag-platform-landscape-073661d93a996dae.webp",
+  "photo_page": "https://lnsylight.cn/photo/flag-platform-landscape",
+  "group": "主教学楼",
+  "source_page": "https://lnsylight.cn/photo/flag-platform-landscape",
+  "groups": [
+    "主教学楼",
+    "建筑主题"
+  ],
+  "id": "L017",
+  "file": "02_实验光影_建筑与地标/017_flag-platform-landscape.webp",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 660954,
+  "sha256": "1ab51619dc04e7353619ba2db36056d84305bda5099289efd6c55409ba17f45c",
+  "description": "同一场景的横屏版本：主教学楼核心楼体横向展开，下方是升旗台、国旗以及做操的同学。横向的楼与纵向的旗杆互相衬着，场面铺得更开。",
+  "landmarks": [
+    "主教学楼"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-04-28",
+  "camera_parameters": {
+    "iso": 320,
+    "shutter": "1/125",
+    "aperture": "f/8",
+    "location": "辽宁省实验中学",
+    "camera": "Canon EOS 5D Mark IV",
+    "lens": "EF24-105mm f/4L IS II USM"
+  },
+  "campus_point": {
+    "lat": 41.830956,
+    "lon": 123.415644
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5154741039085097,
+    "y": 0.6570826601611128
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

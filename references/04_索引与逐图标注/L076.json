@@ -1,0 +1,47 @@
+{
+  "title": "宁静的守候",
+  "alt": "车向忱铜像立在金黄秋叶下的黑色碑座上",
+  "url": "https://cdn.lnsylight.cn/imported/photos/theme-architecture-sculpture-728/theme-architecture-sculpture-728-e32e80a88ff34e00.webp",
+  "photo_page": "https://lnsylight.cn/photo/theme-architecture-sculpture-728",
+  "group": "车向忱雕像",
+  "source_page": "https://lnsylight.cn/photo/theme-architecture-sculpture-728",
+  "groups": [
+    "车向忱雕像",
+    "建筑主题"
+  ],
+  "id": "L076",
+  "file": "02_实验光影_建筑与地标/076_theme-architecture-sculpture-728.webp",
+  "width": 1602,
+  "height": 2400,
+  "bytes": 1296990,
+  "sha256": "6edaf23336fe8767879d2b0d894b161f55ba7f8045ce748a69a8ffc2d424073c",
+  "description": "车向忱铜像立在刻有「一代师表」的黑色碑座上，身后金黄的秋叶与深绿的松柏相衬，秋光透过枝叶落在像身。",
+  "landmarks": [
+    "车向忱雕像"
+  ],
+  "photographer": [
+    "张曦宇 · 2026届"
+  ],
+  "date": null,
+  "camera_parameters": {
+    "iso": 1600,
+    "shutter": "1/5000",
+    "aperture": "f/4",
+    "location": null,
+    "camera": null,
+    "lens": "NIKKOR Z 24-70mm f/4 S"
+  },
+  "campus_point": {
+    "lat": 41.832103,
+    "lon": 123.414811
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.3800045447303804,
+    "y": 0.4727144726923638
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

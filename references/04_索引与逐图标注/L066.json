@@ -1,0 +1,46 @@
+{
+  "title": "墙边秋纹",
+  "alt": "墙边的藤蔓和落叶投下深色阴影",
+  "url": "https://cdn.lnsylight.cn/imported/photos/wallside-autumn-mark/wallside-autumn-mark-49bc99d0d2f6bbcd.webp",
+  "photo_page": "https://lnsylight.cn/photo/wallside-autumn-mark",
+  "group": "国际部",
+  "source_page": "https://lnsylight.cn/photo/wallside-autumn-mark",
+  "groups": [
+    "国际部"
+  ],
+  "id": "L066",
+  "file": "02_实验光影_建筑与地标/066_wallside-autumn-mark.webp",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 850716,
+  "sha256": "d36dfaa1c14c754433ec3cc314dd9da85a1e8788102d1eb1ed224f33a9b7ff5a",
+  "description": "墙边的藤蔓和落叶投下深色阴影。光与影在这面墙上分得更明显，秋天的边界也更明显。",
+  "landmarks": [
+    "国际部"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2023-10-27",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/160",
+    "aperture": "f/7.1",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF-S18-55mm f/3.5-5.6 III"
+  },
+  "campus_point": {
+    "lat": 41.832918,
+    "lon": 123.415428
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.48034634306607243,
+    "y": 0.341711793714084
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

@@ -1,0 +1,46 @@
+{
+  "title": "像前喷泉",
+  "alt": "雕像前的喷泉弧线在阳光下扬起水雾",
+  "url": "https://cdn.lnsylight.cn/imported/photos/statue-and-spray/statue-and-spray-14c61a5bba1c5145.webp",
+  "photo_page": "https://lnsylight.cn/photo/statue-and-spray",
+  "group": "车向忱雕像",
+  "source_page": "https://lnsylight.cn/photo/statue-and-spray",
+  "groups": [
+    "车向忱雕像"
+  ],
+  "id": "L075",
+  "file": "02_实验光影_建筑与地标/075_statue-and-spray.webp",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 1295252,
+  "sha256": "30e6221df806efdef4658334b6e4a45308aa9acc8ef88f35d59d1eba6d7264de",
+  "description": "雕像前的喷泉弧线在阳光下扬起水雾。水弧把天气和时间顺序一起带了进来。",
+  "landmarks": [
+    "车向忱雕像"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2023-04-22",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/250",
+    "aperture": "f/4",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF-S18-55mm f/3.5-5.6 III"
+  },
+  "campus_point": {
+    "lat": 41.832073,
+    "lon": 123.414822
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.38179345847713586,
+    "y": 0.47753665719386096
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

@@ -1,0 +1,46 @@
+{
+  "title": "攀上年轮",
+  "alt": "整面墙被密集的绿色藤叶覆盖",
+  "url": "https://cdn.lnsylight.cn/imported/photos/ivy-wall-summer/ivy-wall-summer-25169e77390fa867.webp",
+  "photo_page": "https://lnsylight.cn/photo/ivy-wall-summer",
+  "group": "艺术楼",
+  "source_page": "https://lnsylight.cn/photo/ivy-wall-summer",
+  "groups": [
+    "艺术楼"
+  ],
+  "id": "L025",
+  "file": "02_实验光影_建筑与地标/025_ivy-wall-summer.webp",
+  "width": 1600,
+  "height": 2400,
+  "bytes": 795800,
+  "sha256": "db78c59ab94ce5bb2976a6d4770f8d98adc0e1d6f96475f15abd24805b58d28a",
+  "description": "整面墙被密集的绿色藤叶覆盖。叶片重复排列，形成很满的纹理。",
+  "landmarks": [
+    "艺术楼"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-04-26",
+  "camera_parameters": {
+    "iso": 640,
+    "shutter": "1/125",
+    "aperture": "f/4",
+    "location": null,
+    "camera": "Canon EOS 5D Mark IV",
+    "lens": "EF24-105mm f/4L IS II USM"
+  },
+  "campus_point": {
+    "lat": 41.832946,
+    "lon": 123.415862
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5509271217972823,
+    "y": 0.3372110881785918
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

@@ -1,0 +1,44 @@
+{
+  "title": "红门与缘",
+  "alt": "胶片质感的重叠红门框中，一名同学正向门框深处走去",
+  "url": "https://cdn.lnsylight.cn/imported/photos/red-gate-frames/red-gate-frames-1cbc5f4ae114d2ee.webp",
+  "photo_page": "https://lnsylight.cn/photo/red-gate-frames",
+  "group": "建筑主题",
+  "source_page": "https://lnsylight.cn/photo/red-gate-frames",
+  "groups": [
+    "建筑主题"
+  ],
+  "id": "L085",
+  "file": "02_实验光影_建筑与地标/085_red-gate-frames.webp",
+  "width": 1800,
+  "height": 2400,
+  "bytes": 1702762,
+  "sha256": "5ffb14640133bc9b6113bd0310a06172a7f28dc829c0fb028aca885e4a56ce16",
+  "description": "学校的重叠红色门框，同样从中间拍去，一个同学正在其中向前行走。后期套上了模拟胶片的模板与质感，颜色更沉，像旧了一层。",
+  "landmarks": [],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2023-04-22",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/400",
+    "aperture": "f/4",
+    "location": "辽宁省实验中学",
+    "camera": "Canon EOS 4000D",
+    "lens": "28mm"
+  },
+  "campus_point": {
+    "lat": 41.831863,
+    "lon": 123.415671
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5198650740143922,
+    "y": 0.511291948710052
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

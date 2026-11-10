@@ -1,0 +1,46 @@
+{
+  "title": "天光",
+  "alt": "夏天下午，阳光形成笔直倾斜的光影，同学坐在光照进来的地方",
+  "url": "https://cdn.lnsylight.cn/imported/photos/brick-courtyard-crosslight/brick-courtyard-crosslight-092964e723b05778.webp",
+  "photo_page": "https://lnsylight.cn/photo/brick-courtyard-crosslight",
+  "group": "国际部",
+  "source_page": "https://lnsylight.cn/photo/brick-courtyard-crosslight",
+  "groups": [
+    "国际部"
+  ],
+  "id": "L067",
+  "file": "02_实验光影_建筑与地标/067_brick-courtyard-crosslight.webp",
+  "width": 2400,
+  "height": 1350,
+  "bytes": 285430,
+  "sha256": "c697a972e459cf7abd0ac2ee477f3796f0473006d293ee4822f6c40966a97c85",
+  "description": "高三楼对面的楼体北侧。夏天下午，阳光刚好在中间房檐和另一侧楼体房檐上方照过来，形成一道笔直倾斜的光影，标准的对角线构图。碰到一位同学，请他坐在光照进来的地方，几何美感十足。",
+  "landmarks": [
+    "国际部"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2025-03-01",
+  "camera_parameters": {
+    "iso": null,
+    "shutter": null,
+    "aperture": null,
+    "location": null,
+    "camera": null,
+    "lens": null
+  },
+  "campus_point": {
+    "lat": 41.83313,
+    "lon": 123.415302
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.45985514923939147,
+    "y": 0.30763502323188785
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

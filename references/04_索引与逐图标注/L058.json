@@ -1,0 +1,46 @@
+{
+  "title": "夏日的教学楼",
+  "alt": "绿叶枝条掩映的玻璃幕墙教学楼与蓝天",
+  "url": "https://cdn.lnsylight.cn/imported/photos/summer-114/summer-114-9ca216d042fc4a75.webp",
+  "photo_page": "https://lnsylight.cn/photo/summer-114",
+  "group": "科技楼",
+  "source_page": "https://lnsylight.cn/photo/summer-114",
+  "groups": [
+    "科技楼"
+  ],
+  "id": "L058",
+  "file": "02_实验光影_建筑与地标/058_summer-114.webp",
+  "width": 2400,
+  "height": 1350,
+  "bytes": 1317516,
+  "sha256": "c2b7d1fef36567b957059703ec606b485721c263601085b5ec844094399a9b49",
+  "description": "盛夏的校园里从树下仰拍教学楼，玻璃幕墙映出蓝天与云影，交错的绿叶枝条在楼前舒展，光线明亮，满是夏日的清爽气息。",
+  "landmarks": [
+    "科技楼"
+  ],
+  "photographer": [
+    "张曦宇 · 2026届"
+  ],
+  "date": null,
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/2500",
+    "aperture": "f/2",
+    "location": null,
+    "camera": null,
+    "lens": "6.5mm"
+  },
+  "campus_point": {
+    "lat": 41.831768,
+    "lon": 123.415913
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5592211764406998,
+    "y": 0.5265621996341248
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "仰拍"
+}

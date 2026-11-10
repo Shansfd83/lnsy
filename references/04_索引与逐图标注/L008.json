@@ -1,0 +1,46 @@
+{
+  "title": "深秋湖畔",
+  "alt": "夜色中的明心亭与长廊映着金黄秋叶",
+  "url": "https://cdn.lnsylight.cn/imported/photos/autumn-214/autumn-214-2912cb300b797052.webp",
+  "photo_page": "https://lnsylight.cn/photo/autumn-214",
+  "group": "明心亭",
+  "source_page": "https://lnsylight.cn/photo/autumn-214",
+  "groups": [
+    "明心亭"
+  ],
+  "id": "L008",
+  "file": "02_实验光影_建筑与地标/008_autumn-214.webp",
+  "width": 2400,
+  "height": 1535,
+  "bytes": 1478252,
+  "sha256": "08ff781ab0b108df57623423b64cb9d0c6de5f84e34ead8a8d3814c7113aa67e",
+  "description": "夜晚的明心亭畔，亭子与小桥环着白墙长廊，灯光把满树金黄的秋叶照得透亮，水面映着廊道的窗格与月洞门。",
+  "landmarks": [
+    "明心亭"
+  ],
+  "photographer": [
+    "张曦宇 · 2026届"
+  ],
+  "date": null,
+  "camera_parameters": {
+    "iso": 4000,
+    "shutter": "1/1",
+    "aperture": "f/4",
+    "location": null,
+    "camera": null,
+    "lens": "NIKKOR Z 24-70mm f/4 S"
+  },
+  "campus_point": {
+    "lat": 41.832535,
+    "lon": 123.414813
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.3803298017744047,
+    "y": 0.40327501585938275
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

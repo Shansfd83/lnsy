@@ -1,0 +1,46 @@
+{
+  "title": "榜样之墙",
+  "alt": "冬天主楼回廊光影照在墙上的院士校友照片上",
+  "url": "https://cdn.lnsylight.cn/imported/photos/library-sunset-shelves/library-sunset-shelves-0fb5aa19d96235a5.webp",
+  "photo_page": "https://lnsylight.cn/photo/library-sunset-shelves",
+  "group": "主教学楼",
+  "source_page": "https://lnsylight.cn/photo/library-sunset-shelves",
+  "groups": [
+    "主教学楼"
+  ],
+  "id": "L016",
+  "file": "02_实验光影_建筑与地标/016_library-sunset-shelves.webp",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 540656,
+  "sha256": "04f3d95e95f1e7be24105dd519435ff7451b629642b0cd35a51a789d22755ace",
+  "description": "省实验冬天的主楼回廊光影很迷人。阳光透过朝南的窗子照进回廊和一楼大厅，窗户和回廊栏杆的影子投在墙上，很优美。回廊墙上是辽宁省实验中学历届院士校友，同学们的榜样。",
+  "landmarks": [
+    "主教学楼"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2024-01-04",
+  "camera_parameters": {
+    "iso": 200,
+    "shutter": "1/250",
+    "aperture": "f/5.6",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF50mm f/1.8 STM"
+  },
+  "campus_point": {
+    "lat": 41.83129,
+    "lon": 123.4156
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5083184489214881,
+    "y": 0.6033956727023542
+  },
+  "position_note": "主楼回廊一楼大厅",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "室内视角"
+}

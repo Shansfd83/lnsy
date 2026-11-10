@@ -1,0 +1,44 @@
+{
+  "title": "命运之门",
+  "alt": "重叠红门框形成的“隧道”中，一名打红伞的同学走在落雪里",
+  "url": "https://cdn.lnsylight.cn/imported/photos/red-gates-snow-umbrella/red-gates-snow-umbrella-5864e3b2ddcb5c8b.webp",
+  "photo_page": "https://lnsylight.cn/photo/red-gates-snow-umbrella",
+  "group": "建筑主题",
+  "source_page": "https://lnsylight.cn/photo/red-gates-snow-umbrella",
+  "groups": [
+    "建筑主题"
+  ],
+  "id": "L084",
+  "file": "02_实验光影_建筑与地标/084_red-gates-snow-umbrella.webp",
+  "width": 1079,
+  "height": 1454,
+  "bytes": 263018,
+  "sha256": "aaeeedebf73bb175f359def140511e32e8378a3112e7246d3028844ae036a8a5",
+  "description": "镜头从校园里几个重叠的红色门框中间向前拍去，有隧道的感觉。正中刚好是一名打红伞的同学，背景正下着大雪，红伞嵌在红框里，其余都被雪压白了。",
+  "landmarks": [],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2025-03-01",
+  "camera_parameters": {
+    "iso": null,
+    "shutter": null,
+    "aperture": null,
+    "location": "辽宁省实验中学",
+    "camera": null,
+    "lens": null
+  },
+  "campus_point": {
+    "lat": 41.831869,
+    "lon": 123.415738
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5307611850169366,
+    "y": 0.5103275118097526
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

@@ -1,0 +1,44 @@
+{
+  "title": "草地兔灯",
+  "alt": "冬日枯黄光秃的草地上立着三个兔子形状的灯",
+  "url": "https://cdn.lnsylight.cn/imported/photos/rabbit-lights-on-lawn/rabbit-lights-on-lawn-28e95c3de94f8eea.webp",
+  "photo_page": "https://lnsylight.cn/photo/rabbit-lights-on-lawn",
+  "group": "建筑主题",
+  "source_page": "https://lnsylight.cn/photo/rabbit-lights-on-lawn",
+  "groups": [
+    "建筑主题"
+  ],
+  "id": "L083",
+  "file": "02_实验光影_建筑与地标/083_rabbit-lights-on-lawn.webp",
+  "width": 2400,
+  "height": 1601,
+  "bytes": 483008,
+  "sha256": "0f44644625e483b94e4bd3dcd3d8b0c1d409436b16e97743c04c2231b74bb625",
+  "description": "校园草地里的三个兔子形状的灯。照片拍摄于冬天，草地变成黄色光秃的样子，兔子灯的轮廓因此更加清楚。",
+  "landmarks": [],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2025-01-15",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/400",
+    "aperture": "f/2.8",
+    "location": "辽宁省实验中学",
+    "camera": "Canon EOS R5 C",
+    "lens": "EF70-200mm f/2.8L IS II USM"
+  },
+  "campus_point": {
+    "lat": 41.831965,
+    "lon": 123.414835
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.38390762926791544,
+    "y": 0.49489652140267726
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

@@ -1,0 +1,46 @@
+{
+  "title": "绿径仙踪",
+  "alt": "人物站在绿荫与石质门洞之间",
+  "url": "https://cdn.lnsylight.cn/imported/photos/green-portal-figure/green-portal-figure-a1e4b087540b5503.webp",
+  "photo_page": "https://lnsylight.cn/photo/green-portal-figure",
+  "group": "爱因斯坦门",
+  "source_page": "https://lnsylight.cn/photo/green-portal-figure",
+  "groups": [
+    "爱因斯坦门"
+  ],
+  "id": "L040",
+  "file": "02_实验光影_建筑与地标/040_green-portal-figure.webp",
+  "width": 1500,
+  "height": 1000,
+  "bytes": 482932,
+  "sha256": "2e83037a8357f161e8d7e19264e6e29bab7bd83d4ac59ee3107fa013dba35a75",
+  "description": "人物站在绿荫与石质门洞之间。周围的树叶把空间照得很亮。",
+  "landmarks": [
+    "爱因斯坦门"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2025-03-01",
+  "camera_parameters": {
+    "iso": null,
+    "shutter": null,
+    "aperture": null,
+    "location": null,
+    "camera": null,
+    "lens": null
+  },
+  "campus_point": {
+    "lat": 41.831709,
+    "lon": 123.415108
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.428305215890465,
+    "y": 0.5360458291552588
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

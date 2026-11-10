@@ -1,0 +1,1017 @@
+[
+  {
+    "slug": "mingxin-pavilion",
+    "name": "明心亭",
+    "kind": "landscape",
+    "tagline": "绿荫环抱的园林凉亭",
+    "aliases": [],
+    "intro": "明心亭半掩在绿荫里，红柱和翘檐从树丛中露出一角。亭旁有长廊和假山流水，夕阳把长廊的园林式窗格照出对称的影子。\n\n站内的《明心亭午后》《亭中排练》记下亭子本身的光与声，《窗影合夕》收了长廊窗格的影子，《假山斑鸠》则停在亭旁的假山流水边。",
+    "workCount": 11,
+    "cover": {
+      "imageUrl": "https://cdn.lnsylight.cn/imported/photos/mingxin-pavilion-afternoon/mingxin-pavilion-afternoon-0dea10defaec67fb.webp",
+      "imageWidth": 5088,
+      "imageHeight": 3392,
+      "alt": "颐和明心"
+    },
+    "labelX": 0.3782,
+    "labelY": 0.425,
+    "geometry": {
+      "type": "point",
+      "points": [
+        [
+          0.37822,
+          0.42497
+        ]
+      ]
+    }
+  },
+  {
+    "slug": "main-teaching-building",
+    "name": "主教学楼",
+    "kind": "building",
+    "tagline": "校园中轴上的主教学楼",
+    "aliases": [
+      "高一高二教学楼"
+    ],
+    "intro": "主教学楼横在校园中轴上，是上课铃声最密集的地方。冬天叶子落尽时，楼体完整地立在蓝天前；回廊与一楼大厅在晴天会接住整面的窗影。\n\n站内的《晴冬主楼》拍它落尽叶子的立面，《榜样之墙》记下回廊里的院士照片墙，《合上的门》把大门收进一张黑白照片。",
+    "workCount": 10,
+    "cover": {
+      "imageUrl": "https://cdn.lnsylight.cn/imported/photos/main-building-winter-day/main-building-winter-day-1356dbdaf2e21d14.webp",
+      "imageWidth": 3456,
+      "imageHeight": 2304,
+      "alt": "晴冬主楼"
+    },
+    "labelX": 0.5503,
+    "labelY": 0.604,
+    "geometry": {
+      "type": "polygon",
+      "points": [
+        [
+          0.43179,
+          0.5852
+        ],
+        [
+          0.43462,
+          0.62683
+        ],
+        [
+          0.45125,
+          0.6262
+        ],
+        [
+          0.4507,
+          0.61807
+        ],
+        [
+          0.48685,
+          0.61675
+        ],
+        [
+          0.4874,
+          0.62482
+        ],
+        [
+          0.53732,
+          0.62299
+        ],
+        [
+          0.53678,
+          0.61498
+        ],
+        [
+          0.65403,
+          0.61068
+        ],
+        [
+          0.65493,
+          0.62395
+        ],
+        [
+          0.67368,
+          0.62301
+        ],
+        [
+          0.67787,
+          0.6231
+        ],
+        [
+          0.67592,
+          0.59456
+        ],
+        [
+          0.66142,
+          0.59509
+        ],
+        [
+          0.6599,
+          0.58102
+        ],
+        [
+          0.65646,
+          0.5811
+        ],
+        [
+          0.63758,
+          0.58195
+        ],
+        [
+          0.61486,
+          0.58298
+        ],
+        [
+          0.61552,
+          0.5928
+        ],
+        [
+          0.53551,
+          0.59578
+        ],
+        [
+          0.53507,
+          0.58938
+        ],
+        [
+          0.52279,
+          0.58983
+        ],
+        [
+          0.51878,
+          0.58687
+        ],
+        [
+          0.50955,
+          0.58644
+        ],
+        [
+          0.50207,
+          0.58856
+        ],
+        [
+          0.49804,
+          0.59132
+        ],
+        [
+          0.45047,
+          0.59308
+        ],
+        [
+          0.44989,
+          0.58454
+        ],
+        [
+          0.43179,
+          0.5852
+        ]
+      ]
+    }
+  },
+  {
+    "slug": "art-building",
+    "name": "艺术楼",
+    "kind": "building",
+    "tagline": "美术与艺术教室",
+    "aliases": [],
+    "intro": "",
+    "workCount": 8,
+    "cover": {
+      "imageUrl": "https://cdn.lnsylight.cn/imported/photos/brick-vine-lamp/brick-vine-lamp-13967703c744a4a7.webp",
+      "imageWidth": 3456,
+      "imageHeight": 5184,
+      "alt": "砖墙藤灯"
+    },
+    "labelX": 0.5862,
+    "labelY": 0.316,
+    "geometry": {
+      "type": "polygon",
+      "points": [
+        [
+          0.63704,
+          0.3054
+        ],
+        [
+          0.63935,
+          0.33223
+        ],
+        [
+          0.55851,
+          0.33599
+        ],
+        [
+          0.55816,
+          0.33199
+        ],
+        [
+          0.54836,
+          0.33245
+        ],
+        [
+          0.54349,
+          0.2838
+        ],
+        [
+          0.56565,
+          0.28238
+        ],
+        [
+          0.56768,
+          0.30863
+        ],
+        [
+          0.63704,
+          0.3054
+        ]
+      ]
+    }
+  },
+  {
+    "slug": "senior-building",
+    "name": "高三楼",
+    "kind": "building",
+    "tagline": "高三教学楼",
+    "aliases": [],
+    "intro": "",
+    "workCount": 7,
+    "cover": {
+      "imageUrl": "https://cdn.lnsylight.cn/imported/photos/corner-vine-sky/corner-vine-sky-6185da1260aa9f31.webp",
+      "imageWidth": 1080,
+      "imageHeight": 1620,
+      "alt": "楼角新枝"
+    },
+    "labelX": 0.4561,
+    "labelY": 0.2783,
+    "geometry": {
+      "type": "polygon",
+      "points": [
+        [
+          0.40311,
+          0.27449
+        ],
+        [
+          0.40474,
+          0.29148
+        ],
+        [
+          0.50991,
+          0.28602
+        ],
+        [
+          0.50838,
+          0.27001
+        ],
+        [
+          0.48688,
+          0.27112
+        ],
+        [
+          0.4862,
+          0.26393
+        ],
+        [
+          0.42577,
+          0.26708
+        ],
+        [
+          0.42635,
+          0.27328
+        ],
+        [
+          0.40311,
+          0.27449
+        ]
+      ]
+    }
+  },
+  {
+    "slug": "einstein-gate",
+    "name": "爱因斯坦门",
+    "kind": "landscape",
+    "tagline": "校园出入口",
+    "aliases": [],
+    "intro": "",
+    "workCount": 6,
+    "cover": {
+      "imageUrl": "https://cdn.lnsylight.cn/imported/photos/spring-029/spring-029-3ef9ad8847f28ed1.webp",
+      "imageWidth": 5066,
+      "imageHeight": 3418,
+      "alt": "跨过那道门"
+    },
+    "labelX": 0.4517,
+    "labelY": 0.5508,
+    "geometry": {
+      "type": "point",
+      "points": [
+        [
+          0.45171,
+          0.55079
+        ]
+      ]
+    }
+  },
+  {
+    "slug": "sports-ground",
+    "name": "操场",
+    "kind": "building",
+    "tagline": "环形跑道与足球场",
+    "aliases": [
+      "运动场"
+    ],
+    "intro": "",
+    "workCount": 6,
+    "cover": {
+      "imageUrl": "https://cdn.lnsylight.cn/imported/photos/gathered-students-crowd/gathered-students-crowd-35697bf106c62c6f.webp",
+      "imageWidth": 5184,
+      "imageHeight": 2916,
+      "alt": "集合一刻"
+    },
+    "labelX": 0.5721,
+    "labelY": 0.7358,
+    "geometry": {
+      "type": "polygon",
+      "points": [
+        [
+          0.40116,
+          0.68168
+        ],
+        [
+          0.72463,
+          0.66769
+        ],
+        [
+          0.72635,
+          0.67999
+        ],
+        [
+          0.70564,
+          0.68168
+        ],
+        [
+          0.716,
+          0.68761
+        ],
+        [
+          0.73154,
+          0.70117
+        ],
+        [
+          0.74075,
+          0.71643
+        ],
+        [
+          0.74478,
+          0.73466
+        ],
+        [
+          0.74247,
+          0.74907
+        ],
+        [
+          0.73384,
+          0.76561
+        ],
+        [
+          0.71715,
+          0.77916
+        ],
+        [
+          0.69988,
+          0.79146
+        ],
+        [
+          0.68319,
+          0.79652
+        ],
+        [
+          0.47036,
+          0.80395
+        ],
+        [
+          0.44911,
+          0.79783
+        ],
+        [
+          0.4318,
+          0.7872
+        ],
+        [
+          0.41681,
+          0.77597
+        ],
+        [
+          0.40671,
+          0.76282
+        ],
+        [
+          0.40183,
+          0.74697
+        ],
+        [
+          0.40066,
+          0.73109
+        ],
+        [
+          0.40375,
+          0.71795
+        ],
+        [
+          0.41412,
+          0.70397
+        ],
+        [
+          0.43146,
+          0.69396
+        ],
+        [
+          0.4023,
+          0.69566
+        ],
+        [
+          0.40116,
+          0.68168
+        ]
+      ]
+    }
+  },
+  {
+    "slug": "leifeng-statue",
+    "name": "雷锋雕像",
+    "kind": "landscape",
+    "tagline": "松荫之间的纪念雕像",
+    "aliases": [],
+    "intro": "雷锋雕像立在松树之间，迎着校园一侧望去，碑身上有金色的题字。逆光的下午，阳光从树梢间穿下来，落在碑身上。\n\n站内的《松间雷锋》从松枝间拍它望向校园的姿态，《仰望》则是它的近景仰拍，阳光从画面上方的树顶照下。",
+    "workCount": 5,
+    "cover": {
+      "imageUrl": "https://cdn.lnsylight.cn/imported/photos/leifeng-in-pine-light/leifeng-in-pine-light-277e142ceb11d7b0.webp",
+      "imageWidth": 8179,
+      "imageHeight": 5455,
+      "alt": "松间雷锋"
+    },
+    "labelX": 0.5135,
+    "labelY": 0.4621,
+    "geometry": {
+      "type": "point",
+      "points": [
+        [
+          0.51346,
+          0.46209
+        ]
+      ]
+    }
+  },
+  {
+    "slug": "auditorium",
+    "name": "礼堂",
+    "kind": "building",
+    "tagline": "校园礼堂",
+    "aliases": [],
+    "intro": "",
+    "workCount": 4,
+    "cover": {
+      "imageUrl": "https://cdn.lnsylight.cn/imported/photos/stairwell-side-light/stairwell-side-light-8827f8a7894b01d2.webp",
+      "imageWidth": 3253,
+      "imageHeight": 4879,
+      "alt": "向光"
+    },
+    "labelX": 0.6125,
+    "labelY": 0.4595,
+    "geometry": {
+      "type": "polygon",
+      "points": [
+        [
+          0.57295,
+          0.44684
+        ],
+        [
+          0.66428,
+          0.44219
+        ],
+        [
+          0.66804,
+          0.48217
+        ],
+        [
+          0.5767,
+          0.48683
+        ],
+        [
+          0.57295,
+          0.44684
+        ]
+      ]
+    }
+  },
+  {
+    "slug": "technology-building",
+    "name": "科技楼",
+    "kind": "building",
+    "tagline": "带玻璃穹顶的科技楼",
+    "aliases": [],
+    "intro": "",
+    "workCount": 4,
+    "cover": {
+      "imageUrl": "https://cdn.lnsylight.cn/imported/photos/summer-114/summer-114-9ca216d042fc4a75.webp",
+      "imageWidth": 3840,
+      "imageHeight": 2160,
+      "alt": "夏日的教学楼"
+    },
+    "labelX": 0.6276,
+    "labelY": 0.5322,
+    "geometry": {
+      "type": "polygon",
+      "points": [
+        [
+          0.5756,
+          0.49638
+        ],
+        [
+          0.67041,
+          0.49094
+        ],
+        [
+          0.67784,
+          0.5645
+        ],
+        [
+          0.65517,
+          0.56623
+        ],
+        [
+          0.65646,
+          0.5811
+        ],
+        [
+          0.63758,
+          0.58195
+        ],
+        [
+          0.63595,
+          0.56725
+        ],
+        [
+          0.58337,
+          0.56979
+        ],
+        [
+          0.5756,
+          0.49638
+        ]
+      ]
+    }
+  },
+  {
+    "slug": "gymnasium",
+    "name": "体育馆",
+    "kind": "building",
+    "tagline": "校园体育馆",
+    "aliases": [],
+    "intro": "",
+    "workCount": 3,
+    "cover": {
+      "imageUrl": "https://cdn.lnsylight.cn/imported/photos/dusk-campus-field/dusk-campus-field-705e623da10d326f.webp",
+      "imageWidth": 5184,
+      "imageHeight": 3456,
+      "alt": "暮色操场"
+    },
+    "labelX": 0.305,
+    "labelY": 0.6487,
+    "geometry": {
+      "type": "polygon",
+      "points": [
+        [
+          0.27825,
+          0.60221
+        ],
+        [
+          0.32434,
+          0.60026
+        ],
+        [
+          0.33172,
+          0.6951
+        ],
+        [
+          0.28563,
+          0.69704
+        ],
+        [
+          0.27825,
+          0.60221
+        ]
+      ]
+    }
+  },
+  {
+    "slug": "international-department",
+    "name": "国际部",
+    "kind": "building",
+    "tagline": "国际部教学楼",
+    "aliases": [
+      "新疆部"
+    ],
+    "intro": "",
+    "workCount": 3,
+    "cover": {
+      "imageUrl": "https://cdn.lnsylight.cn/imported/photos/blossom-sea/blossom-sea-85735e84744c9675.webp",
+      "imageWidth": 1622,
+      "imageHeight": 2162,
+      "alt": "花海晴空"
+    },
+    "labelX": 0.4616,
+    "labelY": 0.3242,
+    "geometry": {
+      "type": "polygon",
+      "points": [
+        [
+          0.41198,
+          0.30773
+        ],
+        [
+          0.43382,
+          0.3069
+        ],
+        [
+          0.43449,
+          0.31638
+        ],
+        [
+          0.48056,
+          0.31463
+        ],
+        [
+          0.47984,
+          0.30447
+        ],
+        [
+          0.50232,
+          0.30362
+        ],
+        [
+          0.50373,
+          0.32385
+        ],
+        [
+          0.51154,
+          0.32356
+        ],
+        [
+          0.51247,
+          0.33673
+        ],
+        [
+          0.42897,
+          0.33991
+        ],
+        [
+          0.42865,
+          0.33541
+        ],
+        [
+          0.41395,
+          0.33597
+        ],
+        [
+          0.41198,
+          0.30773
+        ]
+      ]
+    }
+  },
+  {
+    "slug": "youth-era",
+    "name": "青春时代",
+    "kind": "landscape",
+    "tagline": "校园雕塑点位",
+    "aliases": [],
+    "intro": "",
+    "workCount": 3,
+    "cover": {
+      "imageUrl": "https://cdn.lnsylight.cn/imported/photos/sculpture-in-autumn/sculpture-in-autumn-da6fb6f63691f701.webp",
+      "imageWidth": 5184,
+      "imageHeight": 3456,
+      "alt": "你要迟到了"
+    },
+    "labelX": 0.444,
+    "labelY": 0.387,
+    "geometry": {
+      "type": "point",
+      "points": [
+        [
+          0.44395,
+          0.38702
+        ]
+      ]
+    }
+  },
+  {
+    "slug": "building-1",
+    "name": "1号楼",
+    "kind": "building",
+    "tagline": "校园教学楼",
+    "aliases": [
+      "学生宿舍"
+    ],
+    "intro": "",
+    "workCount": 2,
+    "cover": {
+      "imageUrl": "https://cdn.lnsylight.cn/imported/photos/fake-flower-by-window/fake-flower-by-window-7c676ab93885c539.webp",
+      "imageWidth": 2021,
+      "imageHeight": 3032,
+      "alt": "窗前假花"
+    },
+    "labelX": 0.2809,
+    "labelY": 0.2727,
+    "geometry": {
+      "type": "polygon",
+      "points": [
+        [
+          0.25724,
+          0.20102
+        ],
+        [
+          0.29215,
+          0.1993
+        ],
+        [
+          0.3051,
+          0.3433
+        ],
+        [
+          0.26901,
+          0.34546
+        ],
+        [
+          0.25724,
+          0.20102
+        ]
+      ]
+    }
+  },
+  {
+    "slug": "canteen",
+    "name": "食堂",
+    "kind": "building",
+    "tagline": "校园食堂",
+    "aliases": [],
+    "intro": "",
+    "workCount": 2,
+    "cover": {
+      "imageUrl": "https://cdn.lnsylight.cn/imported/photos/sunlit-classroom-rows/sunlit-classroom-rows-0bedf1371d1c9a61.webp",
+      "imageWidth": 5142,
+      "imageHeight": 3428,
+      "alt": "欢迎来到存档点"
+    },
+    "labelX": 0.468,
+    "labelY": 0.2085,
+    "geometry": {
+      "type": "polygon",
+      "points": [
+        [
+          0.42147,
+          0.20788
+        ],
+        [
+          0.44169,
+          0.20672
+        ],
+        [
+          0.4401,
+          0.18637
+        ],
+        [
+          0.52629,
+          0.1825
+        ],
+        [
+          0.5326,
+          0.24535
+        ],
+        [
+          0.52237,
+          0.24553
+        ],
+        [
+          0.51235,
+          0.24647
+        ],
+        [
+          0.42487,
+          0.24951
+        ],
+        [
+          0.42147,
+          0.20788
+        ]
+      ]
+    }
+  },
+  {
+    "slug": "che-xiangchen-statue",
+    "name": "车向忱雕像",
+    "kind": "landscape",
+    "tagline": "校园纪念雕像",
+    "aliases": [],
+    "intro": "",
+    "workCount": 2,
+    "cover": {
+      "imageUrl": "https://cdn.lnsylight.cn/imported/photos/statue-and-spray/statue-and-spray-14c61a5bba1c5145.webp",
+      "imageWidth": 5184,
+      "imageHeight": 3456,
+      "alt": "像前喷泉"
+    },
+    "labelX": 0.4026,
+    "labelY": 0.4716,
+    "geometry": {
+      "type": "point",
+      "points": [
+        [
+          0.40261,
+          0.47159
+        ]
+      ]
+    }
+  },
+  {
+    "slug": "student-square",
+    "name": "学子广场",
+    "kind": "landscape",
+    "tagline": "校园广场",
+    "aliases": [],
+    "intro": "",
+    "workCount": 2,
+    "cover": {
+      "imageUrl": "https://cdn.lnsylight.cn/imported/photos/key-raised-to-sky/key-raised-to-sky-9af898c0c23b77af.webp",
+      "imageWidth": 3456,
+      "imageHeight": 5184,
+      "alt": "举向天光"
+    },
+    "labelX": 0.3599,
+    "labelY": 0.5264,
+    "geometry": {
+      "type": "point",
+      "points": [
+        [
+          0.35985,
+          0.5264
+        ]
+      ]
+    }
+  },
+  {
+    "slug": "old-school-gate",
+    "name": "老校门",
+    "kind": "landscape",
+    "tagline": "校园旧址入口",
+    "aliases": [],
+    "intro": "",
+    "workCount": 1,
+    "cover": {
+      "imageUrl": "https://cdn.lnsylight.cn/imported/photos/rebuilt-old-school-gate/rebuilt-old-school-gate-8587609736088567.webp",
+      "imageWidth": 3676,
+      "imageHeight": 5514,
+      "alt": "老校门"
+    },
+    "labelX": 0.4239,
+    "labelY": 0.5883,
+    "geometry": {
+      "type": "point",
+      "points": [
+        [
+          0.4239,
+          0.58832
+        ]
+      ]
+    }
+  },
+  {
+    "slug": "staff-activity-center",
+    "name": "教工活动中心",
+    "kind": "building",
+    "tagline": "教工活动中心",
+    "aliases": [
+      "健身中心"
+    ],
+    "intro": "",
+    "workCount": 1,
+    "cover": {
+      "imageUrl": "https://cdn.lnsylight.cn/imported/photos/autumn-vines-sky/autumn-vines-sky-89367a9bcee1866d.webp",
+      "imageWidth": 5184,
+      "imageHeight": 3456,
+      "alt": "蓝天秋藤"
+    },
+    "labelX": 0.5871,
+    "labelY": 0.4134,
+    "geometry": {
+      "type": "polygon",
+      "points": [
+        [
+          0.5696,
+          0.39415
+        ],
+        [
+          0.60074,
+          0.39279
+        ],
+        [
+          0.60479,
+          0.43248
+        ],
+        [
+          0.57335,
+          0.43414
+        ],
+        [
+          0.5696,
+          0.39415
+        ]
+      ]
+    }
+  },
+  {
+    "slug": "yifu-library",
+    "name": "逸夫图书馆",
+    "kind": "building",
+    "tagline": "校园里的藏书主楼",
+    "aliases": [
+      "图书馆",
+      "逸夫馆"
+    ],
+    "intro": "逸夫图书馆立在校区的中轴上，是校园里体量最完整的藏书楼。楼前的空地留得很大，晴天的下午，整面立面会被照出清楚的层次。\n\n站内的《逸夫馆》把它整栋收进一张全景，立面层次依次展开，显出安静的体量。",
+    "workCount": 1,
+    "cover": {
+      "imageUrl": "https://cdn.lnsylight.cn/imported/photos/yifu-library/yifu-library-1e054d0e5f06da6e.webp",
+      "imageWidth": 4307,
+      "imageHeight": 6457,
+      "alt": "逸夫馆"
+    },
+    "labelX": 0.349,
+    "labelY": 0.5809,
+    "geometry": {
+      "type": "polygon",
+      "points": [
+        [
+          0.3058,
+          0.57458
+        ],
+        [
+          0.32134,
+          0.57372
+        ],
+        [
+          0.32595,
+          0.56948
+        ],
+        [
+          0.33746,
+          0.56779
+        ],
+        [
+          0.37602,
+          0.56948
+        ],
+        [
+          0.37774,
+          0.56609
+        ],
+        [
+          0.38466,
+          0.56355
+        ],
+        [
+          0.39214,
+          0.56652
+        ],
+        [
+          0.39214,
+          0.57118
+        ],
+        [
+          0.38984,
+          0.57458
+        ],
+        [
+          0.38524,
+          0.57584
+        ],
+        [
+          0.38697,
+          0.59153
+        ],
+        [
+          0.31765,
+          0.59534
+        ],
+        [
+          0.31731,
+          0.5911
+        ],
+        [
+          0.30601,
+          0.59131
+        ],
+        [
+          0.3058,
+          0.57458
+        ]
+      ]
+    }
+  }
+]

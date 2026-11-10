@@ -1,0 +1,46 @@
+{
+  "title": "蓝天秋藤",
+  "alt": "秋藤沿着墙边伸向蓝天",
+  "url": "https://cdn.lnsylight.cn/imported/photos/autumn-vines-sky/autumn-vines-sky-89367a9bcee1866d.webp",
+  "photo_page": "https://lnsylight.cn/photo/autumn-vines-sky",
+  "group": "教工活动中心",
+  "source_page": "https://lnsylight.cn/photo/autumn-vines-sky",
+  "groups": [
+    "教工活动中心"
+  ],
+  "id": "L080",
+  "file": "02_实验光影_建筑与地标/080_autumn-vines-sky.webp",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 543210,
+  "sha256": "517f4be14830a24f542c4c8e7b96cd28d41e4e03399448226635f3988f78a0e5",
+  "description": "秋藤沿着墙边伸向蓝天。蓝天把颜色衬得很干净，橙黄的叶子更亮。",
+  "landmarks": [
+    "教工活动中心"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2023-10-27",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/800",
+    "aperture": "f/4.5",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF-S18-55mm f/3.5-5.6 III"
+  },
+  "campus_point": {
+    "lat": 41.83246,
+    "lon": 123.415948
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5649131747249901,
+    "y": 0.41533047711540994
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

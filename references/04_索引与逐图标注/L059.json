@@ -1,0 +1,47 @@
+{
+  "title": "玻璃穹顶",
+  "alt": "仰拍科技楼巨大的玻璃与框架穹顶，厅中悬着科技节横幅",
+  "url": "https://cdn.lnsylight.cn/imported/photos/glass-dome-hall/glass-dome-hall-342d089931bc5530.webp",
+  "photo_page": "https://lnsylight.cn/photo/glass-dome-hall",
+  "group": "科技楼",
+  "source_page": "https://lnsylight.cn/photo/glass-dome-hall",
+  "groups": [
+    "科技楼",
+    "建筑主题"
+  ],
+  "id": "L059",
+  "file": "02_实验光影_建筑与地标/059_glass-dome-hall.webp",
+  "width": 2400,
+  "height": 1601,
+  "bytes": 848868,
+  "sha256": "c7bfd83d98b0bada5ed51101a0ea442e3854606c8d1186eb9d8aac8b30e6844c",
+  "description": "同样是科技楼大厅的广角仰拍，巨大的玻璃与框架穹顶占满画面，钢架与玻璃套出一层层几何图形，科技节的横幅悬在厅中，点出了拍摄的时间。",
+  "landmarks": [
+    "科技楼"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2025-01-15",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/30",
+    "aperture": "f/16",
+    "location": "辽宁省实验中学",
+    "camera": "Canon EOS R5 C",
+    "lens": "EF16-35mm f/4L IS USM"
+  },
+  "campus_point": {
+    "lat": 41.831615,
+    "lon": 123.416219
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.6089855043012044,
+    "y": 0.551155340595187
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "仰拍"
+}

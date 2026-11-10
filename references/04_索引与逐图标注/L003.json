@@ -1,0 +1,46 @@
+{
+  "title": "石上秋果",
+  "alt": "灰色石头上散落着一堆橙红色的小果实",
+  "url": "https://cdn.lnsylight.cn/imported/photos/autumn-213/autumn-213-f95fa84cfa9b2572.webp",
+  "photo_page": "https://lnsylight.cn/photo/autumn-213",
+  "group": "明心亭",
+  "source_page": "https://lnsylight.cn/photo/autumn-213",
+  "groups": [
+    "明心亭"
+  ],
+  "id": "L003",
+  "file": "02_实验光影_建筑与地标/003_autumn-213.webp",
+  "width": 2400,
+  "height": 1602,
+  "bytes": 510634,
+  "sha256": "f0b58d13583f43bc54598eda666e36cd07f9b3fc31caf2421717478baf176368",
+  "description": "深秋的校园里，一大块灰色石头上散落着一堆橙红色的小果实，还夹着几片金黄的落叶。阳光从侧面照过来，果子的影子清晰落在石面上，背景的秋叶虚化成一片暖色。",
+  "landmarks": [
+    "明心亭"
+  ],
+  "photographer": [
+    "张曦宇 · 2026届"
+  ],
+  "date": null,
+  "camera_parameters": {
+    "iso": 1600,
+    "shutter": "1/8000",
+    "aperture": "f/4",
+    "location": null,
+    "camera": null,
+    "lens": "NIKKOR Z 24-70mm f/4 S"
+  },
+  "campus_point": {
+    "lat": 41.832395,
+    "lon": 123.414698
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.3616275216967902,
+    "y": 0.4257785435368434
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

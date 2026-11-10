@@ -1,0 +1,46 @@
+{
+  "title": "花海晴空",
+  "alt": "晴空下满树盛开的北美海棠，粉红色花海与教学楼屋檐",
+  "url": "https://cdn.lnsylight.cn/imported/photos/blossom-sea/blossom-sea-85735e84744c9675.webp",
+  "photo_page": "https://lnsylight.cn/photo/blossom-sea",
+  "group": "国际部",
+  "source_page": "https://lnsylight.cn/photo/blossom-sea",
+  "groups": [
+    "国际部"
+  ],
+  "id": "L065",
+  "file": "02_实验光影_建筑与地标/065_blossom-sea.webp",
+  "width": 1622,
+  "height": 2162,
+  "bytes": 772626,
+  "sha256": "6c33c19a9d185fc9761bed017441165f43e9508a7520c1bea9547614eed1d4d8",
+  "description": "校园的北美海棠满树盛开，形成一片粉红色的花海。拍摄当天晴空万里，纯蓝的天空、红色的花海与画面角落的教学楼屋檐相得益彰。",
+  "landmarks": [
+    "国际部"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2025-03-01",
+  "camera_parameters": {
+    "iso": null,
+    "shutter": null,
+    "aperture": null,
+    "location": null,
+    "camera": null,
+    "lens": null
+  },
+  "campus_point": {
+    "lat": 41.832883,
+    "lon": 123.415015
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.4131807633040502,
+    "y": 0.3473376756328781
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

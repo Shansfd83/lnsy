@@ -1,0 +1,46 @@
+{
+  "title": "仰望",
+  "alt": "雷锋雕像近景仰拍，阳光从画面上方树顶照下形成散射光线",
+  "url": "https://cdn.lnsylight.cn/imported/photos/backlit-figure-trees/backlit-figure-trees-b1b8008ba16f5658.webp",
+  "photo_page": "https://lnsylight.cn/photo/backlit-figure-trees",
+  "group": "雷锋雕像",
+  "source_page": "https://lnsylight.cn/photo/backlit-figure-trees",
+  "groups": [
+    "雷锋雕像"
+  ],
+  "id": "L053",
+  "file": "02_实验光影_建筑与地标/053_backlit-figure-trees.webp",
+  "width": 1600,
+  "height": 2400,
+  "bytes": 765766,
+  "sha256": "beae6b1043124293b6feeb2a917305b30053e32046cd1feba87aef09befe249b",
+  "description": "雷锋雕像的近景仰拍，阳光从画面上方的树顶照下，形成散射的光线。",
+  "landmarks": [
+    "雷锋雕像"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2023-07-01",
+  "camera_parameters": {
+    "iso": 100,
+    "shutter": "1/60",
+    "aperture": "f/20",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "48mm"
+  },
+  "campus_point": {
+    "lat": 41.832159,
+    "lon": 123.415692
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5232802729858909,
+    "y": 0.4637130616213795
+  },
+  "position_note": "雕像近前仰拍",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "仰拍"
+}

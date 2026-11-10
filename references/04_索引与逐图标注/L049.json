@@ -1,0 +1,46 @@
+{
+  "title": "青春重映",
+  "alt": "雨中人群撑伞经过铜像前",
+  "url": "https://cdn.lnsylight.cn/imported/photos/rain-statue-crowd/rain-statue-crowd-0732880f8762f733.webp",
+  "photo_page": "https://lnsylight.cn/photo/rain-statue-crowd",
+  "group": "雷锋雕像",
+  "source_page": "https://lnsylight.cn/photo/rain-statue-crowd",
+  "groups": [
+    "雷锋雕像"
+  ],
+  "id": "L049",
+  "file": "02_实验光影_建筑与地标/049_rain-statue-crowd.webp",
+  "width": 2400,
+  "height": 1350,
+  "bytes": 412886,
+  "sha256": "4fbe28d26cb3e9f0b602b0288a1ee0075c8e24757fbc3ea3d891f522aebaa7b2",
+  "description": "雨中人群撑伞经过铜像前。暗处的树和建筑把画面压得很低。",
+  "landmarks": [
+    "雷锋雕像"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2025-02-28",
+  "camera_parameters": {
+    "iso": 400,
+    "shutter": "1/3",
+    "aperture": "f/5",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "39mm"
+  },
+  "campus_point": {
+    "lat": 41.832255,
+    "lon": 123.415752
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5330379843297284,
+    "y": 0.448282071213162
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

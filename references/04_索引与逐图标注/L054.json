@@ -1,0 +1,46 @@
+{
+  "title": "向光",
+  "alt": "礼堂内从窗户照进来的金黄光线，一个同学走向光的方向",
+  "url": "https://cdn.lnsylight.cn/imported/photos/stairwell-side-light/stairwell-side-light-8827f8a7894b01d2.webp",
+  "photo_page": "https://lnsylight.cn/photo/stairwell-side-light",
+  "group": "礼堂",
+  "source_page": "https://lnsylight.cn/photo/stairwell-side-light",
+  "groups": [
+    "礼堂"
+  ],
+  "id": "L054",
+  "file": "02_实验光影_建筑与地标/054_stairwell-side-light.webp",
+  "width": 1600,
+  "height": 2400,
+  "bytes": 271680,
+  "sha256": "fc28813aae4e710a35ae2043f24361863371d435273db1d309fcf4a918b36f9b",
+  "description": "礼堂内部，从窗户照进来的金黄光线，形成漂亮的光影。一个同学正走向光的方向欣赏这景色，伸手触摸墙面，背对镜头，在墙上被光照出投影。",
+  "landmarks": [
+    "礼堂"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2023-06-14",
+  "camera_parameters": {
+    "iso": 200,
+    "shutter": "1/200",
+    "aperture": "f/5",
+    "location": null,
+    "camera": "Canon EOS 4000D",
+    "lens": "EF-S18-55mm f/3.5-5.6 III"
+  },
+  "campus_point": {
+    "lat": 41.8322,
+    "lon": 123.416047
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5810133984457887,
+    "y": 0.45712274280114373
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

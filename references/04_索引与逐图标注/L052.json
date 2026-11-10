@@ -1,0 +1,47 @@
+{
+  "title": "雪和雕像",
+  "alt": "大雪中雷锋塑像与红色校名牌",
+  "url": "https://cdn.lnsylight.cn/imported/photos/theme-architecture-sculpture-731/theme-architecture-sculpture-731-6390f9c71885ef90.webp",
+  "photo_page": "https://lnsylight.cn/photo/theme-architecture-sculpture-731",
+  "group": "雷锋雕像",
+  "source_page": "https://lnsylight.cn/photo/theme-architecture-sculpture-731",
+  "groups": [
+    "雷锋雕像",
+    "建筑主题"
+  ],
+  "id": "L052",
+  "file": "02_实验光影_建筑与地标/052_theme-architecture-sculpture-731.webp",
+  "width": 2400,
+  "height": 1602,
+  "bytes": 1213618,
+  "sha256": "a4d8519afdff30f7f23e6cbe084606beb3885065ad1bc9fc12431df601fe3245",
+  "description": "雪中的雷锋塑像立在刻有「向雷锋同志学习」的碑座上，前方红色的「辽宁省实验中学 1949—2023」字样在落雪里格外醒目，松柏覆雪。",
+  "landmarks": [
+    "雷锋雕像"
+  ],
+  "photographer": [
+    "张曦宇 · 2026届"
+  ],
+  "date": null,
+  "camera_parameters": {
+    "iso": 1600,
+    "shutter": "1/250",
+    "aperture": "f/4",
+    "location": null,
+    "camera": null,
+    "lens": "NIKKOR Z 24-70mm f/4 S"
+  },
+  "campus_point": {
+    "lat": 41.832286,
+    "lon": 123.41569
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.5229550159395555,
+    "y": 0.4432991472275202
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

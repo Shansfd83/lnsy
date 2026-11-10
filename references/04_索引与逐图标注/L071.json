@@ -1,0 +1,47 @@
+{
+  "title": "窗前假花",
+  "alt": "老楼浅绿褪色的窗框下方点缀着一株紫色假花",
+  "url": "https://cdn.lnsylight.cn/imported/photos/fake-flower-by-window/fake-flower-by-window-7c676ab93885c539.webp",
+  "photo_page": "https://lnsylight.cn/photo/fake-flower-by-window",
+  "group": "1号楼",
+  "source_page": "https://lnsylight.cn/photo/fake-flower-by-window",
+  "groups": [
+    "1号楼",
+    "建筑主题"
+  ],
+  "id": "L071",
+  "file": "02_实验光影_建筑与地标/071_fake-flower-by-window.webp",
+  "width": 1600,
+  "height": 2400,
+  "bytes": 1314490,
+  "sha256": "d2fe1a1c61082879f01d190b554e6934be43521edce343dea74c4c09e7d7f6f0",
+  "description": "老楼一号楼的一扇窗户，窗框漆色褪成浅绿，窗框下方有一株紫色的假花点缀。旧窗与假花一真一假地摆在一起，是老楼立面上最轻的一笔颜色。",
+  "landmarks": [
+    "1号楼"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2023-11-23",
+  "camera_parameters": {
+    "iso": 640,
+    "shutter": "1/250",
+    "aperture": "f/6.3",
+    "location": "辽宁省实验中学",
+    "camera": "Canon EOS 5D Mark IV",
+    "lens": "EF24-105mm f/4L IS II USM"
+  },
+  "campus_point": {
+    "lat": 41.83327,
+    "lon": 123.414346
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.30438228180292864,
+    "y": 0.2851314955544271
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}

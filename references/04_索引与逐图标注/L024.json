@@ -1,0 +1,47 @@
+{
+  "title": "字帖幕墙",
+  "alt": "艺术楼后花园幕墙上悬挂的字帖装饰",
+  "url": "https://cdn.lnsylight.cn/imported/photos/calligraphy-curtain-wall/calligraphy-curtain-wall-67f440d94751d6f0.webp",
+  "photo_page": "https://lnsylight.cn/photo/calligraphy-curtain-wall",
+  "group": "艺术楼",
+  "source_page": "https://lnsylight.cn/photo/calligraphy-curtain-wall",
+  "groups": [
+    "艺术楼",
+    "建筑主题"
+  ],
+  "id": "L024",
+  "file": "02_实验光影_建筑与地标/024_calligraphy-curtain-wall.webp",
+  "width": 1600,
+  "height": 2400,
+  "bytes": 478440,
+  "sha256": "04c3f7828f1e676f4084d253a2958b5938331b4def69ea66a3f13cd3aa987c43",
+  "description": "艺术楼后花园幕墙上的悬挂字帖装饰非常有艺术氛围。字帖一幅幅挂在幕墙表面，笔墨的线条与建筑立面叠在一起。",
+  "landmarks": [
+    "艺术楼"
+  ],
+  "photographer": [
+    "付赞平 · 2024届"
+  ],
+  "date": "2023-09-08",
+  "camera_parameters": {
+    "iso": 800,
+    "shutter": "1/323",
+    "aperture": "f/2",
+    "location": "辽宁省实验中学",
+    "camera": "Canon EOS 4000D",
+    "lens": "50mm"
+  },
+  "campus_point": {
+    "lat": 41.833165,
+    "lon": 123.416264
+  },
+  "coordinate_warning": "原站公开campusPoint；坐标系与精度未声明，不等同测量机位",
+  "map_point_xy": {
+    "x": 0.6163037878102381,
+    "y": 0.30200914131195156
+  },
+  "position_note": "原站未提供文字机位；仅可参考原站地图点位",
+  "direction": "未知",
+  "direction_status": "未提供",
+  "view": "未明确"
+}
